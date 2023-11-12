@@ -1,11 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
- /* 
-  0, 0%, 100%
- 223, 96%, 62%
- 225, 5%, 30%
- */
+
+body{
+  overflow-x: hidden;
+}
+
 @layer base {
   :root {
     --background: 0, 0%, 100%;

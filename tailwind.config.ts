@@ -29,7 +29,7 @@ module.exports = {
         },
       ],
       h3: [
-        "24",
+        "24px",
         {
           fontWeight: "500",
         },
