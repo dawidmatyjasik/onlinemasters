@@ -1,7 +1,10 @@
+import { NavigationList } from "@/components/navigation/NavigationList";
+import { Navigation } from "@/components/navigation/Navigation";
+
 export default function Home() {
   return (
     <main className="bg-red-100">
-      <h1>hello world</h1>
+      <Navigation />
     </main>
   );
 }
