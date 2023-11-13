@@ -72,8 +72,8 @@ module.exports = {
       ],
     },
     fontFamily: {
-      heading: ["Montserrat", "sans-serif"],
-      body: ["Popins", "sans-serif"],
+      heading: ["var(--font-montserrat)"],
+      body: ["var(--font-poppins)"],
     },
     extend: {
       colors: {

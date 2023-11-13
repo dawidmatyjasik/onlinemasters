@@ -27,7 +27,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={cn(montserrat, poppins)}>
+    <html
+      lang="en"
+      className={cn(montserrat.variable, poppins.variable, "font-sans")}
+    >
       <body className="w-screen h-screen bg-blue-100">{children}</body>
     </html>
   );

@@ -10,6 +10,7 @@ import {
 } from "@/components/ui/navigation-menu";
 import { ChevronDown } from "lucide-react";
 import { useNavigation } from "@/context/NavigationProvider";
+import { cn } from "@/lib/utils";
 
 interface MenuItemProps {
   href: string;
@@ -21,7 +22,9 @@ const MenuItem = ({
 }: React.PropsWithChildren<MenuItemProps>) => (
   <NavigationMenuItem>
     <Link href={href} legacyBehavior passHref>
-      <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+      <NavigationMenuLink
+        className={cn(navigationMenuTriggerStyle(), "font-body")}
+      >
         {children}
       </NavigationMenuLink>
     </Link>
@@ -34,7 +37,9 @@ const OfferMenu = () => {
   return (
     <NavigationMenuItem onMouseEnter={onHover} onMouseLeave={onLeave}>
       <Link href="#" legacyBehavior passHref>
-        <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+        <NavigationMenuLink
+          className={cn(navigationMenuTriggerStyle(), "font-body")}
+        >
           Oferta
           <ChevronDown size={16} />
         </NavigationMenuLink>
