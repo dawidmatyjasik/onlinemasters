@@ -1,5 +1,5 @@
 "use client";
-import * as React from "react";
+import React from "react";
 import Link from "next/link";
 import {
   NavigationMenu,
@@ -9,6 +9,7 @@ import {
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu";
 import { ChevronDown } from "lucide-react";
+import { useNavigation } from "@/context/NavigationProvider";
 
 interface MenuItemProps {
   href: string;
@@ -27,22 +28,22 @@ const MenuItem = ({
   </NavigationMenuItem>
 );
 
-const OfferMenu = () => (
-  <NavigationMenuItem>
-    <Link href="#" legacyBehavior passHref>
-      <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-        Oferta
-        <ChevronDown size={16} />
-      </NavigationMenuLink>
-    </Link>
-  </NavigationMenuItem>
-);
+const OfferMenu = () => {
+  const { onHover, onLeave } = useNavigation();
 
-interface NavigationListProps {
-  state: boolean;
-}
+  return (
+    <NavigationMenuItem onMouseEnter={onHover} onMouseLeave={onLeave}>
+      <Link href="#" legacyBehavior passHref>
+        <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+          Oferta
+          <ChevronDown size={16} />
+        </NavigationMenuLink>
+      </Link>
+    </NavigationMenuItem>
+  );
+};
 
-export const NavigationList = ({ state }: NavigationListProps) => {
+export const NavigationList = () => {
   return (
     <NavigationMenu className="mx-auto md:flex hidden">
       <NavigationMenuList>

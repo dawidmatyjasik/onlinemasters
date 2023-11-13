@@ -9,7 +9,6 @@ import { cn } from "@/lib/utils";
 import { NavigationMenu } from "./NavigationMenu";
 
 export const Navigation = () => {
-  const [state, setState] = useState(true);
   const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {
@@ -26,16 +25,16 @@ export const Navigation = () => {
   }, []);
 
   return (
-    <header>
+    <header className={cn("sticky top-0")}>
       <nav
         className={cn(
-          "bg-transparent w-full flex flex-col px-[5%] py-5 sticky top-0 transition-colors",
+          "bg-transparent w-full flex flex-col px-[5%] py-5  transition-colors",
           isScrolled && "bg-white"
         )}
       >
         <div className="flex">
           <Logo />
-          <NavigationList state={state} />
+          <NavigationList />
           <MobileNavigation />
         </div>
         <MobileNavigationList />

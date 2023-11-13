@@ -1,5 +1,7 @@
 import React from "react";
 import { NavigationMenuItem } from "./NavigationMenuItem";
+import { cn } from "@/lib/utils";
+import { useNavigation } from "@/context/NavigationProvider";
 
 export interface NavigationStructure {
   header: string[];
@@ -59,8 +61,16 @@ const NAVIGATION_STRUCTURE: NavigationStructure[] = [
 ];
 
 export const NavigationMenu = () => {
+  const { isHover, onHover, onLeave } = useNavigation();
   return (
-    <div className="bg-[#F2F5F5] w-full border-y border-[#DBDBDB]">
+    <div
+      className={cn(
+        "bg-[#F2F5F5] w-full border-y border-[#DBDBDB] hidden",
+        isHover && "block"
+      )}
+      onMouseEnter={onHover}
+      onMouseLeave={onLeave}
+    >
       <div className="max-w-screen-xl mx-auto grid grid-cols-3 grid-rows-1">
         {NAVIGATION_STRUCTURE.map(({ header, subMenu }) => (
           <NavigationMenuItem
