@@ -3,13 +3,12 @@ import * as React from "react";
 import Link from "next/link";
 import {
   NavigationMenu,
-  NavigationMenuContent,
   NavigationMenuItem,
   NavigationMenuLink,
   NavigationMenuList,
-  NavigationMenuTrigger,
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu";
+import { ChevronDown } from "lucide-react";
 
 interface MenuItemProps {
   href: string;
@@ -28,24 +27,32 @@ const MenuItem = ({
   </NavigationMenuItem>
 );
 
+const OfferMenu = () => (
+  <NavigationMenuItem>
+    <Link href="#" legacyBehavior passHref>
+      <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+        Oferta
+        <ChevronDown size={16} />
+      </NavigationMenuLink>
+    </Link>
+  </NavigationMenuItem>
+);
+
 interface NavigationListProps {
   state: boolean;
 }
 
-export const NavigationList = ({ state }: NavigationListProps) => (
-  <NavigationMenu className="mx-auto md:flex hidden">
-    <NavigationMenuList>
-      <MenuItem href="#">O nas</MenuItem>
-      <NavigationMenuItem>
-        <NavigationMenuTrigger>Oferta</NavigationMenuTrigger>
-        <NavigationMenuContent>
-          <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-2 lg:w-[600px]"></ul>
-        </NavigationMenuContent>
-      </NavigationMenuItem>
-      <MenuItem href="#">Program Partnerski</MenuItem>
-      <MenuItem href="#">Portolio</MenuItem>
-      <MenuItem href="#">FAQ</MenuItem>
-      <MenuItem href="#">Kontakt</MenuItem>
-    </NavigationMenuList>
-  </NavigationMenu>
-);
+export const NavigationList = ({ state }: NavigationListProps) => {
+  return (
+    <NavigationMenu className="mx-auto md:flex hidden">
+      <NavigationMenuList>
+        <MenuItem href="#">O nas</MenuItem>
+        <OfferMenu />
+        <MenuItem href="#">Program Partnerski</MenuItem>
+        <MenuItem href="#">Portolio</MenuItem>
+        <MenuItem href="#">FAQ</MenuItem>
+        <MenuItem href="#">Kontakt</MenuItem>
+      </NavigationMenuList>
+    </NavigationMenu>
+  );
+};
