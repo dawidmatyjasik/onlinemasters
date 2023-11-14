@@ -4,7 +4,7 @@ import { createElement } from 'react';
 
 import { cva, type VariantProps } from 'class-variance-authority';
 
-import { cn } from '@/lib/utils';
+import { cn } from 'lib/utils';
 
 type TextElements = 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'a' | 'div' | 'span' | 'p' | 'li' | 'label' | 'th' | 'td';
 

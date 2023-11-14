@@ -11,9 +11,9 @@ import {
   NavigationMenuLink,
   NavigationMenuList,
   navigationMenuTriggerStyle,
-} from '@/components/ui/navigation-menu';
-import { useNavigation } from '@/context/NavigationProvider';
-import { cn } from '@/lib/utils';
+} from 'components/ui/navigation-menu';
+import { useNavigation } from 'context/NavigationProvider';
+import { cn } from 'lib/utils';
 
 interface MenuItemProps {
   href: string;

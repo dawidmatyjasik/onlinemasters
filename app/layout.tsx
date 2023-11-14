@@ -1,8 +1,8 @@
-import '@/styles/globals.css';
+import 'styles/globals.css';
 
 import { Montserrat, Poppins } from 'next/font/google';
 
-import { cn } from '@/lib/utils';
+import { cn } from 'lib/utils';
 
 import type { Metadata } from 'next';
 
@@ -23,10 +23,10 @@ const poppins = Poppins({
   subsets: ['latin'],
 });
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return (
-    <html lang="en" className={cn(montserrat.variable, poppins.variable, 'font-sans')}>
-      <body className="h-screen w-screen bg-blue-100">{children}</body>
-    </html>
-  );
-}
+const RootLayout = ({ children }: { children: React.ReactNode }) => (
+  <html lang="en" className={cn(montserrat.variable, poppins.variable, 'font-sans')}>
+    <body className="h-screen w-screen bg-blue-100">{children}</body>
+  </html>
+);
+
+export default RootLayout;

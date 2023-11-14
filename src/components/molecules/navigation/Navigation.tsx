@@ -8,7 +8,7 @@ import { MobileNavigationList } from './MobileNavigationList';
 import { NavigationList } from './NavigationList';
 import { NavigationMenu } from './NavigationMenu';
 
-import { cn } from '@/lib/utils';
+import { cn } from 'lib/utils';
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
