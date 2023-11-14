@@ -1,8 +1,10 @@
-import type { Metadata } from 'next';
 import '@/styles/globals.css';
 
 import { Montserrat, Poppins } from 'next/font/google';
+
 import { cn } from '@/lib/utils';
+
+import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -24,7 +26,7 @@ const poppins = Poppins({
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={cn(montserrat.variable, poppins.variable, 'font-sans')}>
-      <body className="w-screen h-screen bg-blue-100">{children}</body>
+      <body className="h-screen w-screen bg-blue-100">{children}</body>
     </html>
   );
 }

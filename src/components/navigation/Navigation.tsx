@@ -1,12 +1,14 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { cn } from '@/lib/utils';
-import { NavigationList } from './NavigationList';
+
 import { Logo } from './Logo';
 import { MobileNavigation } from './MobileNavigation';
 import { MobileNavigationList } from './MobileNavigationList';
+import { NavigationList } from './NavigationList';
 import { NavigationMenu } from './NavigationMenu';
+
+import { cn } from '@/lib/utils';
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);

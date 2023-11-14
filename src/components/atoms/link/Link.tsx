@@ -1,6 +1,8 @@
 import type { PropsWithChildren } from 'react';
 import React from 'react';
+
 import NextLink from 'next/link';
+
 import { cn } from '@/lib/utils';
 
 interface LinkProps {

@@ -1,5 +1,7 @@
 import React from 'react';
+
 import { Menu } from 'lucide-react';
+
 import { useNavigation } from '@/context/NavigationProvider';
 
 export function MobileNavigation() {

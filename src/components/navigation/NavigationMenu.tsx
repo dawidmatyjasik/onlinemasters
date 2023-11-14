@@ -1,7 +1,9 @@
 import React from 'react';
-import { cn } from '@/lib/utils';
-import { useNavigation } from '@/context/NavigationProvider';
+
 import { NavigationMenuItem } from './NavigationMenuItem';
+
+import { useNavigation } from '@/context/NavigationProvider';
+import { cn } from '@/lib/utils';
 
 export interface NavigationStructure {
   header: string[];

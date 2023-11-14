@@ -1,9 +1,13 @@
 import React, { useState } from 'react';
-import { useRouter } from 'next/navigation';
+
 import { ChevronDown } from 'lucide-react';
-import { cn } from '@/lib/utils';
-import { useNavigation } from '@/context/NavigationProvider';
+import { useRouter } from 'next/navigation';
+
 import { Text } from '../ui/text';
+
+import { useNavigation } from '@/context/NavigationProvider';
+import { cn } from '@/lib/utils';
+
 
 interface MenuItem {
   title: string;

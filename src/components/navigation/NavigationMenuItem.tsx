@@ -1,7 +1,10 @@
 import React from 'react';
-import { Heading } from '../ui/heading';
+
 import { NavigationMenuContent } from './NavigationMenuContent';
+
 import { Divider } from '../atoms/divider/Divider';
+import { Heading } from '../ui/heading';
+
 import type { NavigationStructure } from './NavigationMenu';
 
 interface NavigationMenuItemProps {
