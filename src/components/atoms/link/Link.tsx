@@ -12,7 +12,7 @@ interface LinkProps {
 
 export function Link({ href, className, children }: PropsWithChildren<LinkProps>) {
   return (
-    <NextLink href={href} className={cn('font-medium font-body text-[#4175FC] hover:text-[#084af3]', className)}>
+    <NextLink href={href} className={cn('font-body font-medium text-[#4175FC] hover:text-[#084af3]', className)}>
       {children}
     </NextLink>
   );

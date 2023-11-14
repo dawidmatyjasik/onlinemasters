@@ -46,7 +46,7 @@ function OfferMenu() {
 
 export function NavigationList() {
   return (
-    <NavigationMenu className="mx-auto md:flex hidden">
+    <NavigationMenu className="mx-auto hidden md:flex">
       <NavigationMenuList>
         <MenuItem href="https://onlinemasters.pl/o-nas/">O nas</MenuItem>
         <OfferMenu />

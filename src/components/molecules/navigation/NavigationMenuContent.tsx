@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Link } from '../../atoms/link/Link';
 import { Heading } from '../../atoms/heading/Heading';
+import { Link } from '../../atoms/link/Link';
 import { Text } from '../../atoms/text/Text';
 
 interface NavigationMenuContentProps {

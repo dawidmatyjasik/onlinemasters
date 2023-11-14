@@ -5,5 +5,5 @@ interface DividerProps {
 }
 
 export function Divider({ width = 120 }: DividerProps) {
-  return <div className="bg-[#4075FB] h-1" style={{ width }} />;
+  return <div className="h-1 bg-[#4075FB]" style={{ width }} />;
 }

@@ -2,3 +2,4 @@ src/components/ui
 tailwind.config.ts
 postcss.config.js
 next.config.js
+lint-staged.config.js

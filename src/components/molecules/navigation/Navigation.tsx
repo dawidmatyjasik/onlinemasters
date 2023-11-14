@@ -29,7 +29,7 @@ export function Navigation() {
   return (
     <header className={cn('sticky top-0')}>
       <nav
-        className={cn('bg-transparent w-full flex flex-col px-[5%] py-5  transition-colors', isScrolled && 'bg-white')}>
+        className={cn('flex w-full flex-col bg-transparent px-[5%] py-5  transition-colors', isScrolled && 'bg-white')}>
         <div className="flex">
           <Logo />
           <NavigationList />

@@ -7,7 +7,7 @@ import { useNavigation } from '@/context/NavigationProvider';
 export function MobileNavigation() {
   const { setIsMobile } = useNavigation();
   return (
-    <div className="md:hidden flex items-center ml-auto">
+    <div className="ml-auto flex items-center md:hidden">
       <Menu onClick={() => setIsMobile((prevState) => !prevState)} />
     </div>
   );
