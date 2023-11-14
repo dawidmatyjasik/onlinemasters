@@ -1,14 +1,14 @@
-"use client";
+'use client';
 
-import { NavigationList } from "./NavigationList";
-import { Logo } from "./Logo";
-import { useEffect, useState } from "react";
-import { MobileNavigation } from "./MobileNavigation";
-import { MobileNavigationList } from "./MobileNavigationList";
-import { cn } from "@/lib/utils";
-import { NavigationMenu } from "./NavigationMenu";
+import { useEffect, useState } from 'react';
+import { cn } from '@/lib/utils';
+import { NavigationList } from './NavigationList';
+import { Logo } from './Logo';
+import { MobileNavigation } from './MobileNavigation';
+import { MobileNavigationList } from './MobileNavigationList';
+import { NavigationMenu } from './NavigationMenu';
 
-export const Navigation = () => {
+export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {
@@ -17,21 +17,17 @@ export const Navigation = () => {
       setIsScrolled(scrollPosition > 0);
     };
 
-    window.addEventListener("scroll", handleScroll);
+    window.addEventListener('scroll', handleScroll);
 
     return () => {
-      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener('scroll', handleScroll);
     };
   }, []);
 
   return (
-    <header className={cn("sticky top-0")}>
+    <header className={cn('sticky top-0')}>
       <nav
-        className={cn(
-          "bg-transparent w-full flex flex-col px-[5%] py-5  transition-colors",
-          isScrolled && "bg-white"
-        )}
-      >
+        className={cn('bg-transparent w-full flex flex-col px-[5%] py-5  transition-colors', isScrolled && 'bg-white')}>
         <div className="flex">
           <Logo />
           <NavigationList />
@@ -42,4 +38,4 @@ export const Navigation = () => {
       <NavigationMenu />
     </header>
   );
-};
+}

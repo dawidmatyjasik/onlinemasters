@@ -1,10 +1,11 @@
-"use client";
-import { Navigation } from "@/components/navigation/Navigation";
-import { NavigationProvider } from "@/context/NavigationProvider";
+'use client';
+
+import { Navigation } from '@/components/navigation/Navigation';
+import { NavigationProvider } from '@/context/NavigationProvider';
 
 export default function Home() {
   return (
-    <main className="bg-red-100 h-[300vh]">
+    <main className="h-[300vh] bg-red-100">
       <NavigationProvider>
         <Navigation />
       </NavigationProvider>
