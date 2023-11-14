@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-npx tsc --noEmit && npx eslint --fix . && npx prettier --write .
+bunx tsc --noEmit && bunx eslint --fix . && bunx prettier --write .
 
-npx lint-staged
+bunx lint-staged
