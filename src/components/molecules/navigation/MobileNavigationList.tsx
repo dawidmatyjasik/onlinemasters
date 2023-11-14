@@ -3,11 +3,10 @@ import React, { useState } from 'react';
 import { ChevronDown } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 
-import { Text } from '../ui/text';
+import { Text } from '../../atoms/text/Text';
 
 import { useNavigation } from '@/context/NavigationProvider';
 import { cn } from '@/lib/utils';
-
 
 interface MenuItem {
   title: string;
@@ -69,22 +68,22 @@ export function MobileNavigationList() {
 
   return (
     <nav className={cn('block md:hidden', !isMobile && 'hidden')}>
-      <ul className="justify-center items-center">
+      <ul className="items-center justify-center">
         {PRIMARY_MENU.map(({ path, title, subMenu }) => (
-          <Text key={title} as="li" className="bg-white border-[#E8E8E8] border-b flex flex-col">
-            <div className="flex justify-between items-center px-8 hover:bg-[#4175FC] [&:hover>*]:text-white py-4">
+          <Text key={title} as="li" className="flex flex-col border-b border-[#E8E8E8] bg-white">
+            <div className="flex items-center justify-between px-8 py-4 hover:bg-[#4175FC] [&:hover>*]:text-white">
               <Text onClick={() => router.push(path)} className="flex-1" as="a">
                 {title}
               </Text>
               {subMenu && <ChevronDown className="hover:text-white" onClick={handleSubMenuToggle} />}
             </div>
             {isSubExpanded && subMenu && (
-              <ul className="justify-center items-center">
+              <ul className="items-center justify-center">
                 {subMenu.map((sub) => (
                   <Text
                     key={sub.title}
                     as="li"
-                    className="py-3 px-10 bg-white flex justify-between items-center hover:bg-[#4175FC] [&:hover>*]:text-white">
+                    className="flex items-center justify-between bg-white px-10 py-3 hover:bg-[#4175FC] [&:hover>*]:text-white">
                     <Text onClick={() => router.push(path)} className="flex-1" as="a" size="small">
                       {sub.title}
                     </Text>

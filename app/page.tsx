@@ -1,6 +1,6 @@
 'use client';
 
-import { Navigation } from '@/components/navigation/Navigation';
+import { Navigation } from '@/components/molecules/navigation/Navigation';
 import { NavigationProvider } from '@/context/NavigationProvider';
 
 export default function Home() {

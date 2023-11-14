@@ -1,5 +1,9 @@
+import type { ComponentPropsWithoutRef, ReactNode } from 'react';
+import type React from 'react';
+import { createElement } from 'react';
+
 import { cva, type VariantProps } from 'class-variance-authority';
-import React, { ComponentPropsWithoutRef, createElement, ReactNode } from 'react';
+
 import { cn } from '@/lib/utils';
 
 type HeadingElements =
@@ -70,16 +74,14 @@ export function Heading<T extends HeadingElements = 'h1'>({
   className,
   ...rest
 }: HeadingProps<T>) {
-  return children ? (
-    createElement(
-      as || 'h1',
-      {
-        className: cn(headingVariants({ weight, color, size }), className),
-        ...rest,
-      },
-      children
-    )
-  ) : (
-    <></>
-  );
+  return children
+    ? createElement(
+        as || 'h1',
+        {
+          className: cn(headingVariants({ weight, color, size }), className),
+          ...rest,
+        },
+        children
+      )
+    : null;
 }

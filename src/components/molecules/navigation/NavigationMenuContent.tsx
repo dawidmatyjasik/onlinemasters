@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { Link } from '../atoms/link/Link';
-import { Heading } from '../ui/heading';
-import { Text } from '../ui/text';
+import { Link } from '../../atoms/link/Link';
+import { Heading } from '../../atoms/heading/Heading';
+import { Text } from '../../atoms/text/Text';
 
 interface NavigationMenuContentProps {
   title: string;
@@ -18,9 +18,7 @@ export function NavigationMenuContent({ title, description, href }: NavigationMe
       </Heading>
       <Text size="small">{description}</Text>
       <Link href={href} className="flex items-center">
-        Przejdź do oferty
-        {' '}
-        {'>'}
+        Przejdź do oferty {'>'}
       </Link>
     </div>
   );
