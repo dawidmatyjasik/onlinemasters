@@ -20,7 +20,9 @@ export const NavigationMenuContent = ({
         {title}
       </Heading>
       <Text size="small">{description}</Text>
-      <Link href={href}>Przejdź do oferty</Link>
+      <Link href={href} className="flex items-center">
+        Przejdź do oferty {">"}
+      </Link>
     </div>
   );
 };
