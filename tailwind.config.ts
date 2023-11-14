@@ -29,7 +29,7 @@ module.exports = {
         },
       ],
       h3: [
-        "24",
+        "24px",
         {
           fontWeight: "500",
         },
@@ -72,8 +72,8 @@ module.exports = {
       ],
     },
     fontFamily: {
-      heading: ["Montserrat", "sans-serif"],
-      body: ["Popins", "sans-serif"],
+      heading: ["var(--font-montserrat)"],
+      body: ["var(--font-poppins)"],
     },
     extend: {
       colors: {
