@@ -63,7 +63,7 @@ const NAVIGATION_STRUCTURE: NavigationStructure[] = [
 export const NavigationMenu = () => {
   const { isHover, onHover, onLeave } = useNavigation();
   return (
-    <div
+    <nav
       className={cn(
         "bg-[#F2F5F5] w-full border-y border-[#DBDBDB] hidden",
         isHover && "block"
@@ -80,6 +80,6 @@ export const NavigationMenu = () => {
           />
         ))}
       </div>
-    </div>
+    </nav>
   );
 };

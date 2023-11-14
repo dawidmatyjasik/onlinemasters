@@ -10,6 +10,8 @@ import React, {
 interface NavigationProvider {
   isHover: boolean;
   setIsHover: React.Dispatch<React.SetStateAction<boolean>>;
+  isMobile: boolean;
+  setIsMobile: React.Dispatch<React.SetStateAction<boolean>>;
   onHover: () => void;
   onLeave: () => void;
 }
@@ -30,6 +32,7 @@ export const useNavigation = () => {
 export const NavigationProvider = ({ children }: PropsWithChildren) => {
   const [isHover, setIsHover] = useState(false);
   const [timeoutId, setTimeoutId] = useState<NodeJS.Timeout>();
+  const [isMobile, setIsMobile] = useState(false);
 
   const onHover = useCallback(() => {
     if (timeoutId) clearTimeout(timeoutId);
@@ -50,8 +53,10 @@ export const NavigationProvider = ({ children }: PropsWithChildren) => {
       setIsHover,
       onLeave,
       onHover,
+      isMobile,
+      setIsMobile,
     }),
-    [isHover, setIsHover, onLeave, onHover]
+    [isHover, setIsHover, onLeave, onHover, isMobile, setIsMobile]
   );
 
   return (

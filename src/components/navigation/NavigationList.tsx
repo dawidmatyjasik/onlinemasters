@@ -36,7 +36,7 @@ const OfferMenu = () => {
 
   return (
     <NavigationMenuItem onMouseEnter={onHover} onMouseLeave={onLeave}>
-      <Link href="#" legacyBehavior passHref>
+      <Link href="https://onlinemasters.pl/oferta/" legacyBehavior passHref>
         <NavigationMenuLink
           className={cn(navigationMenuTriggerStyle(), "font-body")}
         >
@@ -52,12 +52,16 @@ export const NavigationList = () => {
   return (
     <NavigationMenu className="mx-auto md:flex hidden">
       <NavigationMenuList>
-        <MenuItem href="#">O nas</MenuItem>
+        <MenuItem href="https://onlinemasters.pl/o-nas/">O nas</MenuItem>
         <OfferMenu />
-        <MenuItem href="#">Program Partnerski</MenuItem>
-        <MenuItem href="#">Portolio</MenuItem>
-        <MenuItem href="#">FAQ</MenuItem>
-        <MenuItem href="#">Kontakt</MenuItem>
+        <MenuItem href="https://onlinemasters.pl/program-partnerski/">
+          Program Partnerski
+        </MenuItem>
+        <MenuItem href="https://onlinemasters.pl/portfolio/">
+          Portfolio
+        </MenuItem>
+        <MenuItem href="https://onlinemasters.pl/faq/">FAQ</MenuItem>
+        <MenuItem href="https://onlinemasters.pl/kontakt/">Kontakt</MenuItem>
       </NavigationMenuList>
     </NavigationMenu>
   );

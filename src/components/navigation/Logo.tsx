@@ -4,7 +4,7 @@ import React from "react";
 
 export const Logo = () => {
   return (
-    <Link href="/test">
+    <Link href="https://onlinemasters.pl/">
       <div className="relative w-[130px] h-[60px] ">
         <Image
           src="/images/logo.webp"

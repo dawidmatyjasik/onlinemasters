@@ -1,10 +1,12 @@
 import React from "react";
 import { Menu } from "lucide-react";
+import { useNavigation } from "@/context/NavigationProvider";
 
 export const MobileNavigation = () => {
+  const { setIsMobile } = useNavigation();
   return (
     <div className="md:hidden flex items-center ml-auto">
-      <Menu />
+      <Menu onClick={() => setIsMobile((prevState) => !prevState)} />
     </div>
   );
 };
