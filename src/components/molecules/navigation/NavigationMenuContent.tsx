@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { Heading } from '../../atoms/heading/Heading';
-import { Link } from '../../atoms/link/Link';
-import { Text } from '../../atoms/text/Text';
+import { Heading } from 'components/atoms/heading/Heading';
+import { Link } from 'components/atoms/link/Link';
+import { Text } from 'components/atoms/text/Text';
 
 interface NavigationMenuContentProps {
   title: string;

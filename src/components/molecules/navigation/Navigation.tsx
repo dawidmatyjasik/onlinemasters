@@ -2,12 +2,11 @@
 
 import { useEffect, useState } from 'react';
 
-import { Logo } from './Logo';
-import { MobileNavigation } from './MobileNavigation';
-import { MobileNavigationList } from './MobileNavigationList';
-import { NavigationList } from './NavigationList';
-import { NavigationMenu } from './NavigationMenu';
-
+import { Logo } from 'components/molecules/navigation/Logo';
+import { MobileNavigation } from 'components/molecules/navigation/MobileNavigation';
+import { MobileNavigationList } from 'components/molecules/navigation/MobileNavigationList';
+import { NavigationList } from 'components/molecules/navigation/NavigationList';
+import { NavigationMenu } from 'components/molecules/navigation/NavigationMenu';
 import { cn } from 'lib/utils';
 
 export function Navigation() {

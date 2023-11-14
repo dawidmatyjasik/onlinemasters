@@ -1,11 +1,10 @@
 import React from 'react';
 
-import { NavigationMenuContent } from './NavigationMenuContent';
+import { Divider } from 'components/atoms/divider/Divider';
+import { Heading } from 'components/atoms/heading/Heading';
+import { NavigationMenuContent } from 'components/molecules/navigation/NavigationMenuContent';
 
-import { Divider } from '../../atoms/divider/Divider';
-import { Heading } from '../../atoms/heading/Heading';
-
-import type { NavigationStructure } from './NavigationMenu';
+import type { NavigationStructure } from 'components/molecules/navigation/NavigationMenu';
 
 interface NavigationMenuItemProps {
   header: NavigationStructure['header'];
