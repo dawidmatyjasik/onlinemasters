@@ -37,8 +37,8 @@ export const Navigation = () => {
           <NavigationList />
           <MobileNavigation />
         </div>
-        <MobileNavigationList />
       </nav>
+      <MobileNavigationList />
       <NavigationMenu />
     </header>
   );
