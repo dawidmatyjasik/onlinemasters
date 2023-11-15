@@ -1,13 +1,7 @@
-import React, {
-  createContext,
-  PropsWithChildren,
-  useCallback,
-  useContext,
-  useMemo,
-  useState,
-} from "react";
+import type { PropsWithChildren } from 'react';
+import React, { createContext, useCallback, useContext, useMemo, useState } from 'react';
 
-interface NavigationProvider {
+interface NavigationProviderType {
   isHover: boolean;
   setIsHover: React.Dispatch<React.SetStateAction<boolean>>;
   isMobile: boolean;
@@ -16,20 +10,18 @@ interface NavigationProvider {
   onLeave: () => void;
 }
 
-export const NavigationContext = createContext<NavigationProvider | undefined>(
-  undefined
-);
+export const NavigationContext = createContext<NavigationProviderType | undefined>(undefined);
 
 export const useNavigation = () => {
   const ctx = useContext(NavigationContext);
   if (!ctx) {
-    throw new Error("Context outside provided");
+    throw new Error('Context outside provided');
   }
 
   return ctx;
 };
 
-export const NavigationProvider = ({ children }: PropsWithChildren) => {
+export function NavigationProvider({ children }: PropsWithChildren) {
   const [isHover, setIsHover] = useState(false);
   const [timeoutId, setTimeoutId] = useState<NodeJS.Timeout>();
   const [isMobile, setIsMobile] = useState(false);
@@ -59,9 +51,5 @@ export const NavigationProvider = ({ children }: PropsWithChildren) => {
     [isHover, setIsHover, onLeave, onHover, isMobile, setIsMobile]
   );
 
-  return (
-    <NavigationContext.Provider value={navigationContextValue}>
-      {children}
-    </NavigationContext.Provider>
-  );
-};
+  return <NavigationContext.Provider value={navigationContextValue}>{children}</NavigationContext.Provider>;
+}

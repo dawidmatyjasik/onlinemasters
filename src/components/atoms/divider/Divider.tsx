@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
 interface DividerProps {
   width?: number;
 }
 
-export const Divider = ({ width = 120 }: DividerProps) => {
-  return <div className="bg-[#4075FB] h-1" style={{ width }} />;
-};
+export function Divider({ width = 120 }: DividerProps) {
+  return <div className="h-1 bg-[#4075FB]" style={{ width }} />;
+}

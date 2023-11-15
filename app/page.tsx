@@ -1,13 +1,14 @@
-"use client";
-import { Navigation } from "@/components/navigation/Navigation";
-import { NavigationProvider } from "@/context/NavigationProvider";
+'use client';
 
-export default function Home() {
-  return (
-    <main className="bg-red-100 h-[300vh]">
-      <NavigationProvider>
-        <Navigation />
-      </NavigationProvider>
-    </main>
-  );
-}
+import { Navigation } from 'components/molecules/navigation/Navigation';
+import { NavigationProvider } from 'context/NavigationProvider';
+
+const Home = () => (
+  <main className="h-[300vh] bg-red-100">
+    <NavigationProvider>
+      <Navigation />
+    </NavigationProvider>
+  </main>
+);
+
+export default Home;
