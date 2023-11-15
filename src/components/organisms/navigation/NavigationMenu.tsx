@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { NavigationMenuItem } from 'components/molecules/navigation/NavigationMenuItem';
+import { NavigationMenuItem } from 'components/organisms/navigation/NavigationMenuItem';
 import { useNavigation } from 'context/NavigationProvider';
 import { cn } from 'lib/utils';
 

@@ -1,6 +1,6 @@
 'use client';
 
-import { Navigation } from 'components/molecules/navigation/Navigation';
+import { Navigation } from 'components/organisms/navigation/Navigation';
 import { NavigationProvider } from 'context/NavigationProvider';
 
 const Home = () => (
