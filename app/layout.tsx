@@ -1,7 +1,11 @@
 import 'styles/globals.css';
 
 import { Montserrat, Poppins } from 'next/font/google';
+import Script from 'next/script';
 
+import { Footer } from 'components/organisms/footer/Footer';
+import { Navigation } from 'components/organisms/navigation/Navigation';
+import { NavigationProvider } from 'context/NavigationProvider';
 import { cn } from 'lib/utils';
 
 import type { Metadata } from 'next';
@@ -25,7 +29,14 @@ const poppins = Poppins({
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => (
   <html lang="en" className={cn(montserrat.variable, poppins.variable, 'font-sans')}>
-    <body className="h-screen w-screen bg-blue-100">{children}</body>
+    <Script src="/mailerLite.js" />
+    <body className="flex min-h-screen w-screen flex-col">
+      <NavigationProvider>
+        <Navigation />
+      </NavigationProvider>
+      <main className="min-h-screen flex-1">{children}</main>
+      <Footer />
+    </body>
   </html>
 );
 

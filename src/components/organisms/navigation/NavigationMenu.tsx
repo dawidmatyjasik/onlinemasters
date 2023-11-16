@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { NavigationMenuItem } from 'components/molecules/navigation/NavigationMenuItem';
+import { NavigationMenuItem } from 'components/organisms/navigation/NavigationMenuItem';
 import { useNavigation } from 'context/NavigationProvider';
 import { cn } from 'lib/utils';
 
@@ -68,7 +68,7 @@ export function NavigationMenu() {
       className={cn('hidden w-full border-y border-[#DBDBDB] bg-[#F2F5F5]', isHover && 'block')}
       onMouseEnter={onHover}
       onMouseLeave={onLeave}>
-      <div className="mx-auto grid max-w-screen-xl grid-cols-3  grid-rows-1">
+      <div className="mx-auto grid max-w-screen-xl grid-cols-3 grid-rows-1">
         {NAVIGATION_STRUCTURE.map(({ header, subMenu }) => (
           <NavigationMenuItem key={header[0]} header={header} subMenu={subMenu} />
         ))}

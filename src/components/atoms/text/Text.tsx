@@ -16,11 +16,12 @@ const textVariants = cva('font-body', {
       bold: 'font-bold',
     },
     color: {
-      text: 'text-font-text',
-      heading: 'text-font-heading',
-      white: 'text-white',
-      black: 'text-black',
-      primary: 'text-font-primary',
+      text: '!text-font-text',
+      heading: '!text-font-heading',
+      white: '!text-white',
+      black: '!text-black',
+      primary: '!text-font-primary',
+      footer: '!text-font-footer',
     },
     size: {
       h1: 'text-h1',
@@ -45,7 +46,7 @@ export type TextProps<T extends TextElements> = {
   children?: ReactNode | React.ReactNode[] | string | number;
   className?: string;
   weight?: 'regular' | 'medium' | 'bold';
-  color?: 'text' | 'heading' | 'white' | 'black' | 'primary';
+  color?: 'text' | 'heading' | 'white' | 'black' | 'primary' | 'footer';
   size?: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'body' | 'small' | 'tiny';
   as?: T;
 } & ComponentPropsWithoutRef<T> &

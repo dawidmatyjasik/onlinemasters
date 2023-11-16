@@ -110,6 +110,7 @@ module.exports = {
           text: 'hsl(var(--font-text))',
           heading: 'hsl(var(--font-heading))',
           primary: 'hsl(var(--font-primary))',
+          footer: 'hsl(var(--font-footer))',
         },
       },
       borderRadius: {
