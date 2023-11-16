@@ -1,5 +1,6 @@
 'use client';
 
+import { Footer } from 'components/organisms/footer/Footer';
 import { Navigation } from 'components/organisms/navigation/Navigation';
 import { NavigationProvider } from 'context/NavigationProvider';
 
@@ -8,6 +9,7 @@ const Home = () => (
     <NavigationProvider>
       <Navigation />
     </NavigationProvider>
+    <Footer />
   </main>
 );
 

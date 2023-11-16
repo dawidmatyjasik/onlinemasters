@@ -4,3 +4,4 @@ postcss.config.js
 next.config.js
 lint-staged.config.js
 commitlint.config.js
+src/components/molecules/mailerLite
