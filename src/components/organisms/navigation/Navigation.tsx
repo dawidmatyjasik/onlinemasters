@@ -26,7 +26,7 @@ export function Navigation() {
   }, []);
 
   return (
-    <header className={cn('sticky top-0')}>
+    <header className={cn('fixed top-0 z-10 w-full')}>
       <nav
         className={cn('flex w-full flex-col bg-transparent px-[5%] py-5  transition-colors', isScrolled && 'bg-white')}>
         <div className="flex">
