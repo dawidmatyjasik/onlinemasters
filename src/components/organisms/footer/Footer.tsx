@@ -9,7 +9,7 @@ import { Container } from 'components/atoms/container/Container';
 
 export const Footer = () => (
   <footer className="bg-[#0D0E14] pb-10 pt-16">
-    <Container className="flex justify-between">
+    <Container className="flex flex-col-reverse justify-between gap-10 lg:flex-row">
       <NewsletterInfo />
       <Company />
       <Menu />

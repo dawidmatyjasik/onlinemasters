@@ -14,7 +14,7 @@ export const NewsletterInfo = () => {
   ];
 
   return (
-    <div className="flex flex-col gap-5 pr-4">
+    <div className="flex h-full flex-col gap-5 border-l border-[rgb(73,75,65)] px-4 lg:border-l-0">
       <LogoDark />
       <ul>
         {newsletterStructure.map((item) => (

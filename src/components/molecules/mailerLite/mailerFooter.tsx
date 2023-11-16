@@ -19,5 +19,5 @@ export const MailerFooter = () => {
     ml('account', '617439');
   }, []);
 
-  return <div className="ml-embedded -ml-5 w-max" data-form="Yxdmea" />;
+  return <div className="ml-embedded -ml-5 w-fit" data-form="Yxdmea" />;
 };
