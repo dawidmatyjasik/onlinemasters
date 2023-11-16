@@ -44,6 +44,7 @@ body {
     --font-white: 225, 20%, 8%;
     --font-black: 225, 20%, 8%;
     --font-primary: 223, 97%, 62%;
+    --font-footer: 180, 9%, 96%;
   }
 
   .dark {

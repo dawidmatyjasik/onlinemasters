@@ -1,6 +1,7 @@
 import 'styles/globals.css';
 
 import { Montserrat, Poppins } from 'next/font/google';
+import Script from 'next/script';
 
 import { Footer } from 'components/organisms/footer/Footer';
 import { Navigation } from 'components/organisms/navigation/Navigation';
@@ -28,6 +29,7 @@ const poppins = Poppins({
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => (
   <html lang="en" className={cn(montserrat.variable, poppins.variable, 'font-sans')}>
+    <Script src="/mailerLite.js" />
     <body className="flex min-h-screen w-screen flex-col">
       <NavigationProvider>
         <Navigation />

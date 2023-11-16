@@ -5,7 +5,9 @@ import { Link } from 'components/atoms/link/Link';
 
 export const Menu = () => (
   <div className="flex flex-col justify-center gap-4 border-l border-[#494B41] px-4">
-    <Heading size="h4">Menu</Heading>
+    <Heading size="h4" color="white">
+      Menu
+    </Heading>
     <div className="flex flex-col">
       <Link href="https://onlinemasters.pl/">Główna</Link>
       <Link href="https://onlinemasters.pl/oferta">Oferta</Link>

@@ -3,7 +3,6 @@ import React from 'react';
 import { LogoDark } from './LogoDark';
 
 import { Text } from 'components/atoms/text/Text';
-import { MailerFooter } from 'components/molecules/mailerLite/mailerFooter';
 
 export const NewsletterInfo = () => {
   const newsletterStructure = [
@@ -18,12 +17,12 @@ export const NewsletterInfo = () => {
       <LogoDark />
       <ul>
         {newsletterStructure.map((item) => (
-          <Text as="li" color="white" key={item}>
+          <Text as="li" color="footer" key={item}>
             {item}
           </Text>
         ))}
       </ul>
-      <MailerFooter />
+      <div className="ml-embedded -ml-5 w-fit" data-form="Yxdmea" />
     </div>
   );
 };
