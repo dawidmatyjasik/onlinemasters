@@ -1,6 +1,5 @@
 import React from 'react';
 
-import { Heading } from 'components/atoms/heading/Heading';
 import { Link } from 'components/atoms/link/Link';
 import { Text } from 'components/atoms/text/Text';
 
@@ -13,9 +12,9 @@ interface NavigationMenuContentProps {
 export function NavigationMenuContent({ title, description, href }: NavigationMenuContentProps) {
   return (
     <div className="flex flex-col px-3 py-2">
-      <Heading size="h5" as="h4" weight="medium">
+      <Text size="h5" as="h4" weight="medium" type="heading">
         {title}
-      </Heading>
+      </Text>
       <Text size="small">{description}</Text>
       <Link href={href} className="flex items-center">
         Przejdź do oferty {'>'}

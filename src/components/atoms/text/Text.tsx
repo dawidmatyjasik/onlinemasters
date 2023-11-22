@@ -8,8 +8,12 @@ import { cn } from 'lib/utils';
 
 type TextElements = 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'a' | 'div' | 'span' | 'p' | 'li' | 'label' | 'th' | 'td';
 
-const textVariants = cva('font-body', {
+const textVariants = cva('', {
   variants: {
+    type: {
+      heading: 'font-heading',
+      text: 'font-body',
+    },
     weight: {
       regular: 'font-normal',
       medium: 'font-medium',
@@ -36,6 +40,7 @@ const textVariants = cva('font-body', {
     },
   },
   defaultVariants: {
+    type: 'text',
     weight: 'regular',
     color: 'text',
     size: 'body',
@@ -45,6 +50,7 @@ const textVariants = cva('font-body', {
 export type TextProps<T extends TextElements> = {
   children?: ReactNode | React.ReactNode[] | string | number;
   className?: string;
+  type?: 'text' | 'heading';
   weight?: 'regular' | 'medium' | 'bold';
   color?: 'text' | 'heading' | 'white' | 'black' | 'primary' | 'footer';
   size?: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'body' | 'small' | 'tiny';
@@ -54,9 +60,10 @@ export type TextProps<T extends TextElements> = {
 
 export function Text<T extends TextElements = 'p'>({
   children,
-  weight = 'regular',
+  weight,
   color,
   size,
+  type,
   as,
   className,
   ...rest
@@ -65,7 +72,7 @@ export function Text<T extends TextElements = 'p'>({
     ? createElement(
         as || 'p',
         {
-          className: cn(textVariants({ weight, color, size }), className),
+          className: cn(textVariants({ weight, color, size, type }), className),
           ...rest,
         },
         children

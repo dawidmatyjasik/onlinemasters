@@ -2,14 +2,14 @@ import React from 'react';
 
 import { FacebookIcon, LinkedinIcon } from 'lucide-react';
 
-import { Heading } from 'components/atoms/heading/Heading';
 import { Link } from 'components/atoms/link/Link';
+import { Text } from 'components/atoms/text/Text';
 
 export const Contact = () => (
   <div className="flex flex-col justify-center gap-4 border-l border-[#494B41] px-4">
-    <Heading size="h4" color="white">
+    <Text size="h4" color="white" type="heading">
       Kontakt
-    </Heading>
+    </Text>
     <div className="flex flex-col">
       <Link href="tel:+48575990730">+48 575 990 730</Link>
       <Link href="mailto:kontakt@onlinemasters.pl">kontakt@onlinemasters.pl</Link>
