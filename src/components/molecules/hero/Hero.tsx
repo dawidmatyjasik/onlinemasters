@@ -11,7 +11,7 @@ export const Hero = async () => {
   const { t } = await useTranslation('hero');
   return (
     <Container>
-      <section className="flex ">
+      <section className="flex">
         <div className="flex flex-1 flex-col gap-4">
           <Text type="heading" as="h2" size="h6">
             {t('subTitle')}

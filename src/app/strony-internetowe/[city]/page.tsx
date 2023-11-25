@@ -11,9 +11,9 @@ export async function generateStaticParams() {
 
 export default async function Page() {
   return (
-    <div>
+    <>
       <Hero />
       <WhyUs />
-    </div>
+    </>
   );
 }
