@@ -28,13 +28,14 @@ const poppins = Poppins({
 });
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => (
-  <html lang="en" className={cn(montserrat.variable, poppins.variable, 'font-sans')}>
+  <html lang="pl" className={cn(montserrat.variable, poppins.variable, 'font-sans')}>
     <Script src="/mailerLite.js" />
     <body className="flex min-h-screen w-screen flex-col">
       <NavigationProvider>
         <Navigation />
       </NavigationProvider>
-      <main className="min-h-screen flex-1">{children}</main>
+      <main className="min-h-screen flex-1 pt-[200px]">{children}</main>
+
       <Footer />
     </body>
   </html>
