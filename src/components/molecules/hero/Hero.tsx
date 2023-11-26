@@ -34,32 +34,30 @@ export const Hero = async () => {
   ];
 
   return (
-    <Container className="flex justify-center align-middle  ">
-      <section className=" block sm:flex">
-        <div className="flex w-7/12 flex-col gap-4">
-          <Text type="heading" as="h2" size="h6">
-            {t('subTitle')}
-          </Text>
-          <Text as="h1" size="h1" type="heading">
-            {t('title')}
-          </Text>
-          <Text>{t('description')}</Text>
+    <Container className="block justify-center align-middle sm:flex  ">
+      <div className="flex w-full flex-col gap-4 md:w-7/12">
+        <Text type="heading" as="h2" size="h6">
+          {t('subTitle')}
+        </Text>
+        <Text as="h1" size="h1" type="heading">
+          {t('title')}
+        </Text>
+        <Text>{t('description')}</Text>
 
-          <div className="block justify-between border-b p-3 align-middle sm:flex">
-            <Button size="lg" iconStart={<ChevronDown />}>
-              {t('cta')}
-            </Button>
-            <GoogleRating />
-          </div>
-          <div>
-            {stepsArray.map((step) => (
-              <Step key={step.id} icon={step.icon} description={step.description} />
-            ))}
-          </div>
-          <Trusted />
+        <div className="block justify-between border-b p-3 align-middle sm:flex">
+          <Button size="lg" iconStart={<ChevronDown />}>
+            {t('cta')}
+          </Button>
+          <GoogleRating />
         </div>
-        <MainImages />
-      </section>
+        <div>
+          {stepsArray.map((step) => (
+            <Step key={step.id} icon={step.icon} description={step.description} />
+          ))}
+        </div>
+        <Trusted />
+      </div>
+      <MainImages />
     </Container>
   );
 };
