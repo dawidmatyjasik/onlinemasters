@@ -3,7 +3,22 @@
     "subTitle": "ONLINE MASTERS",
     "title": "Strony Internetowe Katowice",
     "description": "Strony Internetowe Katowice stworzone, by budować pozytywny wizerunek i skutecznie sprzedawać usługi. Profesjonalnie zaprezentuj swoją firmę w internecie i przyciągnij nowych klientów! 💻",
-    "cta": "Odbieram cennik"
+    "cta": "Odbieram cennik",
+    "rating": "5.0 ocena w Google",
+    "steps": {
+      "1": {
+        "icon": "",
+        "description": "Stworzymy koncepcję strony"
+      },
+      "2": {
+        "icon": "",
+        "description": "Przygotujemy skuteczne treści"
+      },
+      "3": {
+        "icon": "",
+        "description": "Wykonamy indywidualny projekt"
+      }
+    }
   },
   "whyUs": {
     "title": "Strony Intenretowe Katowice - dlaczego warto posiadać strone www?",
