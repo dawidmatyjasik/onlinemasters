@@ -14,7 +14,7 @@ interface NavigationMenuItemProps {
 export function NavigationMenuItem({ header, subMenu }: NavigationMenuItemProps) {
   return (
     <div className="flex flex-col gap-5 border-r border-[#DBDBDB] px-8 py-10">
-      <Text size="h3" as="h3" type="heading">
+      <Text as="h3">
         {header[0]}
 
         <br />

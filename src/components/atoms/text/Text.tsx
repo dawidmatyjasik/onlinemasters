@@ -10,10 +10,6 @@ type TextElements = 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'a' | 'div' | 'spa
 
 const textVariants = cva('', {
   variants: {
-    type: {
-      heading: 'font-heading',
-      text: 'font-body',
-    },
     weight: {
       regular: 'font-normal',
       medium: 'font-medium',
@@ -40,10 +36,8 @@ const textVariants = cva('', {
     },
   },
   defaultVariants: {
-    type: 'text',
     weight: 'regular',
     color: 'text',
-    size: 'body',
   },
 });
 
@@ -72,7 +66,7 @@ export function Text<T extends TextElements = 'p'>({
     ? createElement(
         as || 'p',
         {
-          className: cn(textVariants({ weight, color, size, type }), className),
+          className: cn(textVariants({ weight, color, size }), className),
           ...rest,
         },
         children

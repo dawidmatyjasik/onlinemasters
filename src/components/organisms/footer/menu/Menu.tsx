@@ -5,7 +5,7 @@ import { Text } from 'components/atoms/text/Text';
 
 export const Menu = () => (
   <div className="flex flex-col justify-center gap-4 border-l border-[#494B41] px-4">
-    <Text size="h4" color="white" type="heading">
+    <Text as="h4" color="white">
       Menu
     </Text>
     <div className="flex flex-col">

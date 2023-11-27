@@ -6,9 +6,11 @@ import { GoogleRating } from './hero/googleRating/GoogleRating';
 import { MainImages } from './hero/mainImages/MainImages';
 import { StepSection } from './hero/stepSection/StepSection';
 import { Trusted } from './hero/trusted/Trusted';
+import { Wrapper } from './hero/wrapper/Wrapper';
 
 import { useTranslation } from 'app/i18n';
 import { Container } from 'components/atoms/container/Container';
+import { Line } from 'components/atoms/line/Line';
 import { Text } from 'components/atoms/text/Text';
 import { Button } from 'components/ui/button';
 
@@ -16,26 +18,24 @@ export const Hero = async () => {
   const { t } = await useTranslation('hero');
 
   return (
-    <Container className="block justify-center align-middle sm:flex  ">
-      <div className="flex w-full flex-col gap-4 md:w-7/12">
-        <Text type="heading" as="h2" size="h6">
-          {t('subTitle')}
-        </Text>
-        <Text as="h1" size="h1" type="heading">
-          {t('title')}
-        </Text>
-        <Text>{t('description')}</Text>
-
-        <div className="block justify-between border-b p-3 align-middle sm:flex">
-          <Button size="lg" iconStart={<ChevronDown />}>
-            {t('cta')}
-          </Button>
-          <GoogleRating />
-        </div>
-        <StepSection />
-        <Trusted />
-      </div>
-      <MainImages />
-    </Container>
+    <Wrapper>
+      <Container className="flex gap-10 pt-[200px]">
+        <section className="flex w-1/2 flex-col gap-6">
+          <Text as="h5">{t('subTitle')}</Text>
+          <Text as="h1">{t('title')}</Text>
+          <Text>{t('description')}</Text>
+          <section className="flex gap-6">
+            <Button size="lg" iconStart={<ChevronDown />}>
+              {t('cta')}
+            </Button>
+            <GoogleRating />
+          </section>
+          <Line />
+          <StepSection />
+          <Trusted />
+        </section>
+        <MainImages />
+      </Container>
+    </Wrapper>
   );
 };
