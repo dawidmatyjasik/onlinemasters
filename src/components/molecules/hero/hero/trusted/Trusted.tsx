@@ -16,7 +16,7 @@ export const Trusted = () => (
       <Image src={fizjoterapiaImg} alt="fizjoterapia" className=" w-[100px] object-contain" />
       <Image src={demmanImg} alt="demman" className="w-[100px] object-contain" />
     </div>
-    <Text size="h4" color="footer" type="heading" className="text-center">
+    <Text as="h4" color="footer" className="text-center">
       ZAUFALI NAM
     </Text>
   </article>

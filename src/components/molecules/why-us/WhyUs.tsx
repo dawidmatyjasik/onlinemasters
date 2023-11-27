@@ -13,9 +13,7 @@ export const WhyUs = async () => {
   return (
     <Container>
       <section className="flex flex-col gap-4">
-        <Text size="h2" type="heading">
-          {t('title')}
-        </Text>
+        <Text as="h2">{t('title')}</Text>
         <Divider />
         <Text className="text-balance">{t('description')}</Text>
         <section className="grid grid-cols-3 grid-rows-2 gap-12 ">

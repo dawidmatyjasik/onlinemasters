@@ -21,12 +21,8 @@ export const Hero = async () => {
     <Wrapper>
       <Container className="flex gap-10 pt-[200px]">
         <section className="flex w-1/2 flex-col gap-6">
-          <Text type="heading" as="h2" size="h6">
-            {t('subTitle')}
-          </Text>
-          <Text size="h1" type="heading">
-            {t('title')}
-          </Text>
+          <Text as="h5">{t('subTitle')}</Text>
+          <Text as="h1">{t('title')}</Text>
           <Text>{t('description')}</Text>
           <section className="flex gap-6">
             <Button size="lg" iconStart={<ChevronDown />}>
