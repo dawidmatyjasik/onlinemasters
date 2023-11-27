@@ -2,34 +2,47 @@ import React from 'react';
 
 import { Step } from '../step/Step';
 
+import Img3 from 'app/assets/svg/website-seo-marketing-hitting-the-bullseye-svgrepo-com.svg';
+import Img2 from 'app/assets/svg/website-seo-promotion-svgrepo-com.svg';
+import Img1 from 'app/assets/svg/website-theme-svgrepo-com.svg';
 import { useTranslation } from 'app/i18n';
+
+export interface StepType {
+  id: number;
+  icon: string;
+  description: string;
+  alt: string;
+}
 
 export const StepSection = async () => {
   const { t } = await useTranslation('hero.steps');
 
-  const stepsArray = [
+  const stepsArray: StepType[] = [
     {
       id: 1,
-      icon: '',
+      icon: Img1,
       description: t('1.description'),
+      alt: 'Koncepcja strony ikonka',
     },
     {
       id: 2,
-      icon: '',
+      icon: Img2,
       description: t('2.description'),
+      alt: 'Skuteczne treści ikonka',
     },
     {
       id: 3,
-      icon: '',
+      icon: Img3,
       description: t('3.description'),
+      alt: 'Indywidualny projekt',
     },
   ];
 
   return (
-    <div>
-      {stepsArray.map(({ id, icon, description }) => (
-        <Step key={id} icon={icon} description={description} />
+    <article className="flex flex-col gap-4">
+      {stepsArray.map(({ id, icon, description, alt }) => (
+        <Step key={id} icon={icon} description={description} alt={alt} />
       ))}
-    </div>
+    </article>
   );
 };
