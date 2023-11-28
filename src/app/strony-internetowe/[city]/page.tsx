@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { DontWorry } from 'components/molecules/dont-worry/DontWorry';
 import { Hero } from 'components/molecules/hero/Hero';
 import { WhyUs } from 'components/molecules/why-us/WhyUs';
 import { getCityData } from 'utils/getCityData';
@@ -14,6 +15,7 @@ export default async function Page() {
     <>
       <Hero />
       <WhyUs />
+      <DontWorry />
     </>
   );
 }

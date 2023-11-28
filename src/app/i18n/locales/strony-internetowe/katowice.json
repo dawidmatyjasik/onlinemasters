@@ -7,15 +7,12 @@
     "rating": "5.0 ocena w Google",
     "steps": {
       "1": {
-        "icon": "",
         "description": "Stworzymy koncepcję strony"
       },
       "2": {
-        "icon": "",
         "description": "Przygotujemy skuteczne treści"
       },
       "3": {
-        "icon": "",
         "description": "Wykonamy indywidualny projekt"
       }
     }
@@ -50,5 +47,23 @@
       }
     },
     "summary": "Podsumowując, posiadanie strony internetowej to nie tylko element obecny trendów, ale również strategiczna decyzja, która może przyczynić się do sukcesu firmy w konkretnym lokalnym kontekście, jakim są Katowice. W erze cyfrowej, gdzie internet odgrywa kluczową rolę we wszystkich dziedzinach życia, strona internetowa staje się nieodzownym narzędziem biznesowym, wpływającym na zasięg, widoczność i efektywność przedsiębiorstwa, zwłaszcza w kontekście danego regionu czy miasta."
+  },
+  "dontWorry": {
+    "title": "Nie martw się o nic, zadbamy o wszystko od A do Ż - Strony Internetowe Katowice",
+    "description": "👨‍💻🔊 Przedsiębiorca prowadzący swój biznes nie musi znać się na wymyślaniu najlepszej struktury strony, ani na pisaniu treści. Dlatego dajemy wybór. Możesz zgłosić się do nas z gotowymi materiałami. Albo tylko z “Potrzebuję prostej strony”, a my …",
+    "steps": {
+      "1": {
+        "title": "Stworzymy koncepcję strony",
+        "description": "🤝 Wspólnie ustalimy strukturę i styl, na podstawie celu, który ma spełniać Twoja witryna."
+      },
+      "2": {
+        "title": "Przygotujemy treści sprzedażowe",
+        "description": "📝 Przygotujemy treści, których zadaniem będzie zmaksymalizowanie sprzedaży usług bądź produktów z Twojej oferty."
+      },
+      "3": {
+        "title": "Wykonamy indywidualny projekt",
+        "description": "✅ Zaprojektujemy stronę w taki sposób, aby wiernie oddała charakter Twojej marki"
+      }
+    }
   }
 }
