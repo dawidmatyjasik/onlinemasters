@@ -2,11 +2,11 @@ import React from 'react';
 
 import { ChevronDown } from 'lucide-react';
 
-import { GoogleRating } from './hero/googleRating/GoogleRating';
-import { MainImages } from './hero/mainImages/MainImages';
-import { StepSection } from './hero/stepSection/StepSection';
-import { Trusted } from './hero/trusted/Trusted';
-import { Wrapper } from './hero/wrapper/Wrapper';
+import { GoogleRating } from './components/googleRating/GoogleRating';
+import { MainImages } from './components/mainImages/MainImages';
+import { StepSection } from './components/stepSection/StepSection';
+import { Trusted } from './components/trusted/Trusted';
+import { Wrapper } from './components/wrapper/Wrapper';
 
 import { useTranslation } from 'app/i18n';
 import { Container } from 'components/atoms/container/Container';
