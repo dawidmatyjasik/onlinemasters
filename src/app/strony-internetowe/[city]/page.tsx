@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { ChooseUs } from 'components/molecules/choose-us/ChooseUs';
 import { DontWorry } from 'components/molecules/dont-worry/DontWorry';
 import { Hero } from 'components/molecules/hero/Hero';
 import { WhyUs } from 'components/molecules/why-us/WhyUs';
@@ -16,6 +17,7 @@ export default async function Page() {
       <Hero />
       <WhyUs />
       <DontWorry />
+      <ChooseUs />
     </>
   );
 }

@@ -65,5 +65,12 @@
         "description": "✅ Zaprojektujemy stronę w taki sposób, aby wiernie oddała charakter Twojej marki"
       }
     }
+  },
+  "chooseUs": {
+    "title": "Mały krok dla nas, wielki skok dla Twojej firmy",
+    "description1": "🤔 Czy wiesz, że dzięki stronie internetowej możesz poprawić opinie o Twojej firmie? Dobrze zaprojektowana witryna daje klientom łatwy dostęp do informacji o działalności i wygodną możliwość kontaktu. Ludzie to doceniają!",
+    "description2": "🚀 “Wyróżnij się albo zgiń!” Ciekawa, estetyczna strona przyciągnie uwagę osoby, która w poszukiwaniu najlepszej oferty obejrzy 10 witryn… zapamięta Twoją… i wróci na nią, aby dokonać zakupu lub zarezerwować usługę.",
+    "description3": "👌💻 Prawidłowo działająca strona wspólnie z pozytywnymi opiniami, będzie budować niezachwianą wiarygodność Twojej firmy. ",
+    "description4": "✨📄 …a świetne treści zadbają o to, aby jak największa ilość potencjalnych klientów, zamieniła się w płacących klientów."
   }
 }
