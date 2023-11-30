@@ -2,21 +2,17 @@ import React from 'react';
 
 import Image from 'next/image';
 
-import contariaImg from 'app/assets/img/contaria.png';
-import demmanImg from 'app/assets/img/demman.webp';
-import fizjoterapiaImg from 'app/assets/img/fizjoterapia.png';
-import pospawaneImg from 'app/assets/img/pospawane.webp';
 import { Text } from 'components/atoms/text/Text';
 
 export const Trusted = () => (
   <article className="flex w-full flex-col justify-center gap-4">
     <div className="flex flex-1 items-center justify-between">
-      <Image src={pospawaneImg} alt="pospawane" className=" w-[100px] object-contain" />
-      <Image src={contariaImg} alt="contaria" className="w-[100px] object-contain" />
-      <Image src={fizjoterapiaImg} alt="fizjoterapia" className=" w-[100px] object-contain" />
-      <Image src={demmanImg} alt="demman" className="w-[100px] object-contain" />
+      <Image src="/images/pospawane.webp" alt="pospawane" className="object-contain" width={100} height={100} />
+      <Image src="/images/contaria.png" alt="contaria" className="object-contain" width={100} height={100} />
+      <Image src="/images/fizjoterapia.png" alt="fizjoterapia" className="object-contain" width={100} height={100} />
+      <Image src="/images/demman.webp" alt="demman" className="object-contain" width={100} height={100} />
     </div>
-    <Text as="h4" color="footer" className="text-center">
+    <Text as="span" size="small" className="text-center !text-[#8f8f8f]">
       ZAUFALI NAM
     </Text>
   </article>

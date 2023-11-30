@@ -1,7 +1,7 @@
 import type { PropsWithChildren } from 'react';
 import React from 'react';
 
-import BackgroundImage from 'app/assets/img/blue-background.webp';
+import BackgroundImage from 'public/images/blue-background.webp';
 
 export const Wrapper = ({ children }: PropsWithChildren) => (
   <div
