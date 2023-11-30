@@ -25,7 +25,7 @@ export const Hero = async () => {
           <Text as="h1">{t('title')}</Text>
           <Text>{t('description')}</Text>
           <section className="flex gap-6">
-            <Button size="lg" iconStart={<ChevronDown />}>
+            <Button size="md" variant="primary" iconStart={<ChevronDown />}>
               {t('cta')}
             </Button>
             <GoogleRating />
