@@ -72,5 +72,30 @@
     "description2": "🚀 “Wyróżnij się albo zgiń!” Ciekawa, estetyczna strona przyciągnie uwagę osoby, która w poszukiwaniu najlepszej oferty obejrzy 10 witryn… zapamięta Twoją… i wróci na nią, aby dokonać zakupu lub zarezerwować usługę.",
     "description3": "👌💻 Prawidłowo działająca strona wspólnie z pozytywnymi opiniami, będzie budować niezachwianą wiarygodność Twojej firmy. ",
     "description4": "✨📄 …a świetne treści zadbają o to, aby jak największa ilość potencjalnych klientów, zamieniła się w płacących klientów."
+  },
+  "whatGot": {
+    "title": "Nasze strony mają wszystko, co potrzebne i jeszcze więcej",
+    "cards": {
+      "1": {
+        "title": "Doradztwo",
+        "description": "Nie musisz przychodzić do nas z gotowym projektem. Chętnie doradzimy i podpowiemy najlepsze rozwiązania."
+      },
+      "2": {
+        "title": "Nowoczesny design",
+        "description": "Strona będzie cieszyła oko 👁️ potencjalnych klientów, dzięki czemu nikt nie opuści jej przed zapoznaniem się z treścią."
+      },
+      "3": {
+        "title": "Treści",
+        "description": "Jeśli nie chcesz, zajmować się pisaniem treści na stronę możesz zostawić to nam. Tworzymy świetne teksty"
+      },
+      "4": {
+        "title": "Dostosowanie do telefonów",
+        "description": "Witryna będzie wyświetlała się estetycznie na komputerach, tabletach i telefonach. 🖥️📱"
+      },
+      "5": {
+        "title": "Wsparcie",
+        "description": "Po zakończeniu projektu cały czas jesteśmy do dyspozycji. Zapewniamy ciągłe wsparcie techniczne i merytoryczne."
+      }
+    }
   }
 }
