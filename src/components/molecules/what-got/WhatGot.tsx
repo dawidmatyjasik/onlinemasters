@@ -21,7 +21,9 @@ export const WhatGot = async () => {
   return (
     <Container>
       <section className="grid grid-cols-3 grid-rows-2 gap-8">
-        <Text as="h2">{t('title')}</Text>
+        <Text as="h2" className="p-8">
+          {t('title')}
+        </Text>
         {WHAT_GOT_STRUCTURE.map(({ src, title, description }) => (
           <Card key={title}>
             <WhatGotCards src={src} title={title} description={description} />
