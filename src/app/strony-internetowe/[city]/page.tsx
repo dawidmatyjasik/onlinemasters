@@ -5,6 +5,7 @@ import { DontWorry } from 'components/molecules/dont-worry/DontWorry';
 import { Hero } from 'components/molecules/hero/Hero';
 import { PriceBegin } from 'components/molecules/price-begin/PriceBegin';
 import { WhatGot } from 'components/molecules/what-got/WhatGot';
+import { WhatImportant } from 'components/molecules/what-important/WhatImportant';
 import { WhyUs } from 'components/molecules/why-us/WhyUs';
 import { getCityData } from 'utils/getCityData';
 
@@ -22,6 +23,7 @@ export default async function Page() {
       <ChooseUs />
       <PriceBegin />
       <WhatGot />
+      <WhatImportant />
     </>
   );
 }
