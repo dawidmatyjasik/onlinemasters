@@ -16,7 +16,7 @@ export const WhyUs = async () => {
         <Text as="h2">{t('title')}</Text>
         <Divider />
         <Text className="text-balance">{t('description')}</Text>
-        <section className="grid grid-cols-3 grid-rows-2 gap-12 ">
+        <section className="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-3 lg:grid-rows-2">
           {Array.from({ length: 6 }, (_, i) => i + 1).map((index) => (
             <Tile index={index} key={index} />
           ))}
