@@ -39,7 +39,7 @@ export const DontWorry = async () => {
         </Text>
         <Divider />
         <Text>{t('description')}</Text>
-        <div className="flex items-center gap-6">
+        <div className="flex flex-col gap-6 md:flex-row md:items-center">
           {STEP_STRUCTURE.map(({ title, description, img, id }, index) => (
             <StepBox
               step={index + 1}
