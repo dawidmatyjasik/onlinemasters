@@ -35,7 +35,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => (
       <NavigationProvider>
         <Navigation />
       </NavigationProvider>
-      <main className="flex min-h-screen flex-1 flex-col gap-[100px]  pt-[200px]">{children}</main>
+      <main className="flex min-h-screen flex-1 flex-col gap-[100px] pb-10 pt-[200px]">{children}</main>
 
       <Footer />
       <Analytics />
