@@ -26,7 +26,7 @@ export const WhatImportant = async () => {
       <section className="flex flex-col gap-4">
         <Text as="h2">{t('title')}</Text>
         <Text>{t('description')}</Text>
-        <div className="grid grid-cols-2 grid-rows-5 gap-12">
+        <div className="grid grid-cols-1 grid-rows-5 gap-12 md:grid-cols-2">
           {WHAT_IMPORTANT_STRUCTURE.map(({ title, description }, index) => (
             <WhatImportantItem title={title} description={description} index={index + 1} key={title} />
           ))}

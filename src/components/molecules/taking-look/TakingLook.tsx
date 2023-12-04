@@ -9,7 +9,13 @@ import { Container } from 'components/atoms/container/Container';
 export const TakingLook = () => (
   <Container>
     <section className="flex gap-10">
-      <Image src="/images/taking-look/taking-look.webp" alt="Przyglądamy się" width={520} height={770} />
+      <Image
+        src="/images/taking-look/taking-look.webp"
+        alt="Przyglądamy się"
+        width={520}
+        height={770}
+        className="hidden lg:block"
+      />
       <TakingLookContent />
     </section>
   </Container>

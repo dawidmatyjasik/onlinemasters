@@ -20,7 +20,7 @@ export const WhatGot = async () => {
 
   return (
     <Container>
-      <section className="grid grid-cols-3 grid-rows-2 gap-8">
+      <section className="lg grid grid-cols-1 grid-rows-2 gap-8 md:grid-cols-2 lg:grid-cols-3">
         <Text as="h2" className="p-8">
           {t('title')}
         </Text>

@@ -14,7 +14,7 @@ export const ChooseUs = () => (
         alt="Wybierz nas"
         width={425}
         height={640}
-        className="rounded-2xl"
+        className="hidden rounded-2xl lg:block"
       />
       <Content />
     </section>

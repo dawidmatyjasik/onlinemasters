@@ -10,7 +10,7 @@ import { Text } from 'components/atoms/text/Text';
 const Gallery = async () => {
   const { t } = await useTranslation('gallery');
   return (
-    <section className="flex flex-col gap-6">
+    <section className="flex flex-col gap-12">
       <Container className="flex flex-col gap-4">
         <Text as="h2">{t('title')}</Text>
         <Divider />
