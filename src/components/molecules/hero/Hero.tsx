@@ -19,14 +19,14 @@ export const Hero = async () => {
 
   return (
     <Wrapper>
-      <Container className="flex gap-10 pt-[200px]">
-        <section className="flex w-1/2 flex-col gap-6">
+      <Container className="flex flex-col gap-10 pt-[200px] lg:flex-row">
+        <section className="flex w-full flex-col gap-6 lg:w-1/2">
           <Text as="span" size="small" className="text-heading">
             {t('subTitle')}
           </Text>
           <Text as="h1">{t('title')}</Text>
           <Text>{t('description')}</Text>
-          <section className="flex gap-6">
+          <section className="flex flex-col gap-6 md:flex-row">
             <Button size="md" variant="primary" iconStart={<ChevronDown />}>
               {t('cta')}
             </Button>

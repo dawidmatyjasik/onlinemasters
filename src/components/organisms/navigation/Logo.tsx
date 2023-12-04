@@ -6,9 +6,13 @@ import Link from 'next/link';
 export function Logo() {
   return (
     <Link href="https://onlinemasters.pl/">
-      <div className="relative h-[60px] w-[130px] ">
-        <Image src="/images/logo.webp" layout="fill" alt="Online Masters logo" className="object-contain" />
-      </div>
+      <Image
+        src="/images/website/logo.webp"
+        height={60}
+        width={130}
+        alt="Online Masters logo"
+        className="object-contain"
+      />
     </Link>
   );
 }

@@ -2,9 +2,6 @@ import React from 'react';
 
 import StepBox from './components/stepBox/StepBox';
 
-import Img3 from 'app/assets/svg/website-seo-marketing-hitting-the-bullseye-svgrepo-com.svg';
-import Img2 from 'app/assets/svg/website-seo-promotion-svgrepo-com.svg';
-import Img1 from 'app/assets/svg/website-theme-svgrepo-com.svg';
 import { useTranslation } from 'app/i18n';
 import { Container } from 'components/atoms/container/Container';
 import { Divider } from 'components/atoms/divider/Divider';
@@ -15,19 +12,19 @@ const STEP_STRUCTURE = [
     id: 1,
     title: '1.title',
     description: '1.description',
-    img: Img1,
+    img: '/svg/website-theme-svgrepo-com.svg',
   },
   {
     id: 2,
     title: '2.title',
     description: '2.description',
-    img: Img2,
+    img: '/svg/website-seo-promotion-svgrepo-com.svg',
   },
   {
     id: 3,
     title: '3.title',
     description: '3.description',
-    img: Img3,
+    img: '/svg/website-seo-marketing-hitting-the-bullseye-svgrepo-com.svg',
   },
 ];
 
@@ -42,7 +39,7 @@ export const DontWorry = async () => {
         </Text>
         <Divider />
         <Text>{t('description')}</Text>
-        <div className="flex items-center gap-6">
+        <div className="flex flex-col gap-6 md:flex-row md:items-center">
           {STEP_STRUCTURE.map(({ title, description, img, id }, index) => (
             <StepBox
               step={index + 1}

@@ -4,11 +4,10 @@ import Image from 'next/image';
 
 import { Text } from '../text/Text';
 
-import Img from 'app/assets/svg/right-arrow-svgrepo-com.svg';
 import { cn } from 'lib/utils';
 
 interface StepProps {
-  img: any;
+  img: string;
   step?: number;
   hideArrow?: boolean;
   hideStep?: boolean;
@@ -27,8 +26,8 @@ export const Step = ({ step, img, hideArrow, hideStep, className }: StepProps) =
           Krok {step}
         </Text>
       )}
-      <Image src={img} className="w-[40px]" alt="Krok" />
+      <Image src={img} width={46} height={46} alt="Krok" />
     </div>
-    {!hideArrow && <Image src={Img} className="w-[100px]" alt="Strzałka w prawo" />}
+    {!hideArrow && <Image src="/svg/right-arrow-svgrepo-com.svg" width={120} height={100} alt="Strzałka w prawo" />}
   </div>
 );

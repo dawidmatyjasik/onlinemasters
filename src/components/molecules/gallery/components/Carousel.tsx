@@ -32,15 +32,25 @@ const CAROUSEL_STRUCTURE = [
 ];
 
 export const Carousel = () => (
-  <article>
+  <article className="w-screen">
     <Swiper
       spaceBetween={40}
-      slidesPerView={3}
       autoplay={{ delay: 2000 }}
       loop
       centeredSlides
       modules={[Autoplay]}
-      observer>
+      observer
+      breakpoints={{
+        480: {
+          slidesPerView: 1,
+        },
+        768: {
+          slidesPerView: 2,
+        },
+        1024: {
+          slidesPerView: 3,
+        },
+      }}>
       {CAROUSEL_STRUCTURE.map(({ img }) => (
         <SwiperSlide key={img}>
           <Image width={470} height={300} src={img} alt="gallery" />

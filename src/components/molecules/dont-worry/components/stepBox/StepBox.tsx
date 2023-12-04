@@ -8,7 +8,7 @@ interface StepBoxProps {
   step: number;
   title: string;
   description: string;
-  img: any;
+  img: string;
   isLast?: boolean;
 }
 
