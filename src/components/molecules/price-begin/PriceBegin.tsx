@@ -6,7 +6,7 @@ import { Button } from 'components/ui/button';
 
 export const PriceBegin = () => (
   <div
-    className="flex h-[300px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat"
+    className="flex h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat"
     style={{
       backgroundPosition: 'top center',
       backgroundImage: `url(/images/website_background_blue_colors_l.webp)`,
