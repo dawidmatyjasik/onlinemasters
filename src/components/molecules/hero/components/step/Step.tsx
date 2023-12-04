@@ -8,7 +8,7 @@ import type { StepType } from '../stepSection/StepSection';
 
 export const Step = ({ icon, description, alt }: Omit<StepType, 'id'>) => (
   <div className="flex items-center gap-3">
-    <Image src={icon} className="w-8" alt={alt} />
+    <Image src={icon} width={32} height={32} alt={alt} />
     <Text as="h6">{description}</Text>
   </div>
 );

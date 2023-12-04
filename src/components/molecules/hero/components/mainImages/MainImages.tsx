@@ -7,7 +7,7 @@ export const MainImages = async () => (
     <div className="relative left-0 top-0">
       <div>
         <Image
-          src="/images/hero-first-image.webp"
+          src="/strony-internetowe/hero/hero-first-image.webp"
           alt="Strony internetowe — kobieta i mężczyzna — Online Masters"
           className="relative left-0 top-0 rounded-lg"
           width={335}
@@ -16,7 +16,7 @@ export const MainImages = async () => (
       </div>
       <div>
         <Image
-          src="/images/hero-second-image.webp"
+          src="/strony-internetowe/hero/hero-second-image.webp"
           alt="Strony internetowe — kobieta i mężczyzna — Grupa ludzi"
           className="invisible absolute -bottom-48 -right-48 rounded-lg md:visible"
           width={260}

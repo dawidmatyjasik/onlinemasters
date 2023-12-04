@@ -9,7 +9,7 @@ export const PriceBegin = () => (
     className="flex h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat"
     style={{
       backgroundPosition: 'top center',
-      backgroundImage: `url(/images/website_background_blue_colors_l.webp)`,
+      backgroundImage: `url(/images/website/website_background_blue_colors_l.webp)`,
     }}>
     <Container>
       <div className="flex flex-col gap-6">
