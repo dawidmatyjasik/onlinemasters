@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 
 import { ChevronDown } from 'lucide-react';
-import { useRouter } from 'next/navigation';
 
 import { Text } from 'components/atoms/text/Text';
 import { useNavigation } from 'context/NavigationProvider';
@@ -59,7 +58,6 @@ const PRIMARY_MENU: MenuItem[] = [
 export function MobileNavigationList() {
   const { isMobile } = useNavigation();
   const [isSubExpanded, setIsSubExpanded] = useState(true);
-  const router = useRouter();
 
   const handleSubMenuToggle = () => {
     setIsSubExpanded((prevExpanded) => !prevExpanded);
@@ -69,9 +67,9 @@ export function MobileNavigationList() {
     <nav className={cn('block md:hidden', !isMobile && 'hidden')}>
       <ul className="items-center justify-center">
         {PRIMARY_MENU.map(({ path, title, subMenu }) => (
-          <Text key={title} as="li" className="flex flex-col border-b border-[#E8E8E8] bg-white">
-            <div className="flex items-center justify-between px-8 py-4 hover:bg-[#4175FC] [&:hover>*]:text-white">
-              <Text onClick={() => router.push(path)} className="flex-1" as="a">
+          <Text key={title} as="li" className="flex cursor-pointer flex-col border-b border-[#E8E8E8] bg-white">
+            <div className="flex items-center justify-between px-8 py-4 hover:bg-[#4175FC] [&:hover_*]:!text-white">
+              <Text href={path} className="flex-1" as="a">
                 {title}
               </Text>
               {subMenu && <ChevronDown className="hover:text-white" onClick={handleSubMenuToggle} />}
@@ -82,8 +80,8 @@ export function MobileNavigationList() {
                   <Text
                     key={sub.title}
                     as="li"
-                    className="flex items-center justify-between bg-white px-10 py-3 hover:bg-[#4175FC] [&:hover>*]:text-white">
-                    <Text onClick={() => router.push(path)} className="flex-1" as="a" size="small">
+                    className="flex items-center justify-between bg-white px-10 py-3 hover:bg-[#4175FC] [&:hover_*]:!text-white">
+                    <Text className="flex-1" as="a" size="small" href={path}>
                       {sub.title}
                     </Text>
                   </Text>
