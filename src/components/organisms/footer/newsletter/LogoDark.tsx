@@ -6,7 +6,7 @@ import Link from 'next/link';
 export const LogoDark = () => (
   <Link href="https://onlinemasters.pl/">
     <Image
-      src="/images/webiste/logo-dark.webp"
+      src="/images/website/logo-dark.webp"
       height={60}
       width={130}
       alt="Online Masters logo"
