@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 
+import { permanentRedirect } from 'next/navigation';
+
 type Service = 'strony-internetowe';
 
 export const getCityData = (service: Service) => {
@@ -12,4 +14,11 @@ export const getCityData = (service: Service) => {
     .map((fileName) => fileName.replace('.json', ''));
 
   return fileNames.map((city) => ({ city }));
+};
+
+export const useRedirect = (service: Service, city: string) => {
+  const fileNames = getCityData(service);
+  if (!fileNames.some((file) => file.city === city)) {
+    permanentRedirect('https://onlinemasters.pl/');
+  }
 };

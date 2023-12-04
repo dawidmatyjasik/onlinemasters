@@ -9,14 +9,15 @@ import { TakingLook } from 'components/molecules/taking-look/TakingLook';
 import { WhatGot } from 'components/molecules/what-got/WhatGot';
 import { WhatImportant } from 'components/molecules/what-important/WhatImportant';
 import { WhyUs } from 'components/molecules/why-us/WhyUs';
-import { getCityData } from 'utils/getCityData';
+import { getCityData, useRedirect } from 'utils/getCityData';
 
 export async function generateStaticParams() {
   const fileNames = getCityData('strony-internetowe');
   return fileNames;
 }
 
-export default async function Page() {
+export default async function Page({ params }: { params: { city: string } }) {
+  useRedirect('strony-internetowe', params.city);
   return (
     <>
       <Hero />
