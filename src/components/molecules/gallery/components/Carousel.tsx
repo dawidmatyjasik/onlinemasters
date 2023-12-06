@@ -1,8 +1,9 @@
+/* eslint-disable @next/next/no-img-element */
+
 'use client';
 
 import React from 'react';
 
-import Image from 'next/image';
 import { Autoplay } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
@@ -50,7 +51,8 @@ export const Carousel = () => (
       }}>
       {CAROUSEL_STRUCTURE.map(({ img }) => (
         <SwiperSlide key={img}>
-          <Image width={470} height={300} src={img} alt="gallery" unoptimized />
+          {/* <Image width={470} height={300} src={img} alt="gallery" /> */}
+          <img className="h-[300px] w-[470px]" src={img} alt="gallery" />
         </SwiperSlide>
       ))}
     </Swiper>
