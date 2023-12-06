@@ -9,25 +9,22 @@ import 'swiper/css';
 
 const CAROUSEL_STRUCTURE = [
   {
-    img: '/images/gallery/Strony-internetowe-portfolio-1.jpg',
+    img: '/images/gallery/Strony-internetowe-portfolio-1.webp',
   },
   {
-    img: '/images/gallery/Strony-internetowe-portfolio-2.jpg',
+    img: '/images/gallery/Strony-internetowe-portfolio-2.webp',
   },
   {
-    img: '/images/gallery/Strony-internetowe-portfolio-3.jpg',
+    img: '/images/gallery/Strony-internetowe-portfolio-3.webp',
   },
   {
-    img: '/images/gallery/Strony-internetowe-portfolio-6.jpg',
+    img: '/images/gallery/Strony-internetowe-portfolio-4.webp',
   },
   {
-    img: '/images/gallery/Strony-internetowe-portfolio-1.jpg',
+    img: '/images/gallery/Strony-internetowe-portfolio-5.webp',
   },
   {
-    img: '/images/gallery/Strony-internetowe-Zator-portfolio-5.jpg',
-  },
-  {
-    img: '/images/gallery/Strony-internetowe-Zator-portfolio-6.png',
+    img: '/images/gallery/Strony-internetowe-portfolio-6.webp',
   },
 ];
 
