@@ -14,10 +14,10 @@ export const TakingLookContent = async () => {
     <article className="flex flex-col justify-center gap-6">
       <Text as="h2">{t('takingLook.title')}</Text>
       <Divider />
-      <Step img="/svg/star-svgrepo-com.svg" hideArrow hideStep className="h-24 w-24" />
+      <Step img="/svg/star-svgrepo-com.svg" hideArrow hideStep className="h-24 w-24" alt="Zadowolenie Katowice" />
       <Text as="h3">{t('takingLook.subTitle1')}</Text>
       <Text>{t('takingLook.subDescription1')}</Text>
-      <Step img="/svg/support-svgrepo-com.svg" hideArrow hideStep className="h-24 w-24" />
+      <Step img="/svg/support-svgrepo-com.svg" hideArrow hideStep className="h-24 w-24" alt="Wsparcie Katowice" />
       <Text as="h3">{t('takingLook.subTitle2')}</Text>
       <Text>{t('takingLook.subDescription2')}</Text>
       <Button size="md" variant="primary" className="w-[260px]" iconStart={<ChevronRight />}>

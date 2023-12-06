@@ -15,13 +15,13 @@ export const WhyUs = async () => {
       <section className="flex flex-col gap-4">
         <Text as="h2">{t('title')}</Text>
         <Divider />
-        <Text className="text-balance">{t('description')}</Text>
+        <Text className="text-balance">{t('_description')}</Text>
         <section className="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-3 lg:grid-rows-2">
           {Array.from({ length: 6 }, (_, i) => i + 1).map((index) => (
             <Tile index={index} key={index} />
           ))}
         </section>
-        <Text>{t('summary')}</Text>
+        <Text>{t('_summary')}</Text>
       </section>
     </Container>
   );

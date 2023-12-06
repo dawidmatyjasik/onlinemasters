@@ -8,12 +8,12 @@ export const Content = async () => {
   const { t } = await useTranslation('chooseUs');
   return (
     <article className="flex flex-col gap-4">
-      <Text as="h2">{t('title')}</Text>
+      <Text as="h2">{t('_title')}</Text>
       <Divider />
-      <Text>{t('description1')}</Text>
-      <Text>{t('description2')}</Text>
-      <Text>{t('description3')}</Text>
-      <Text>{t('description4')}</Text>
+      <Text>{t('_description1')}</Text>
+      <Text>{t('_description2')}</Text>
+      <Text>{t('_description3')}</Text>
+      <Text>{t('_description4')}</Text>
     </article>
   );
 };

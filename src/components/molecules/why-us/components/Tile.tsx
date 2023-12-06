@@ -12,7 +12,7 @@ export const Tile = async ({ index }: TileProps) => {
   return (
     <article className="flex flex-col gap-4">
       <Text as="h3">{t(`${index}.title`)}</Text>
-      <Text>{t(`${index}.description`)}</Text>
+      <Text>{t(`${index}._description`)}</Text>
     </article>
   );
 };
