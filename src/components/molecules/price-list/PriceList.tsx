@@ -138,7 +138,7 @@ export const PRICE_LIST_STRUCTURE: PriceListStructure[] = [
 
 export const PriceList = () => (
   <Container>
-    <section className="grid grid-cols-3 grid-rows-1 gap-5">
+    <section className="grid grid-cols-1 grid-rows-1 gap-5 lg:grid-cols-3">
       {PRICE_LIST_STRUCTURE.map(({ title, description, price, features }) => (
         <PriceListItem key={title} title={title} description={description} price={price} features={features} />
       ))}
