@@ -2,8 +2,6 @@ import React from 'react';
 
 import { Step } from '../step/Step';
 
-import { useTranslation } from 'app/i18n';
-
 export interface StepType {
   id: number;
   icon: string;
@@ -11,26 +9,24 @@ export interface StepType {
   alt: string;
 }
 
-export const StepSection = async () => {
-  const { t } = await useTranslation('hero.steps');
-
+export const StepSection = () => {
   const stepsArray: StepType[] = [
     {
       id: 1,
       icon: '/svg/website-theme-svgrepo-com.svg',
-      description: t('1.description'),
+      description: 'Stworzymy koncepcję strony',
       alt: 'Koncepcja strony ikonka',
     },
     {
       id: 2,
       icon: '/svg/website-seo-promotion-svgrepo-com.svg',
-      description: t('2.description'),
+      description: 'Przygotujemy skuteczne treści',
       alt: 'Skuteczne treści ikonka',
     },
     {
       id: 3,
       icon: '/svg/website-seo-marketing-hitting-the-bullseye-svgrepo-com.svg',
-      description: t('3.description'),
+      description: 'Wykonamy indywidualny projekt',
       alt: 'Indywidualny projekt',
     },
   ];
