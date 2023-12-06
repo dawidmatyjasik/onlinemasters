@@ -14,9 +14,30 @@ import { WhatImportant } from 'components/molecules/what-important/WhatImportant
 import { WhyUs } from 'components/molecules/why-us/WhyUs';
 import { getCityData, useRedirect } from 'utils/getCityData';
 
+import type { Metadata } from 'next';
+
 export async function generateStaticParams() {
   const fileNames = getCityData('strony-internetowe');
   return fileNames;
+}
+
+export async function generateMetadata({ params }: { params: { city: string } }): Promise<Metadata> {
+  const { city } = params;
+
+  return {
+    title: `Strony Internetowe ${city} | Online Masters`,
+    description: `Strony internetowe ${city} - zobacz nasze realizacje. Tworzymy strony internetowe dla firm z ${city}.`,
+    keywords: `strony internetowe ${city}, strony www ${city}, strony internetowe dla firm ${city}, strony www dla firm ${city}`,
+    alternates: {
+      canonical: `https://oferty.onlinemasters.pl/strony-internetowe/${city}`,
+      languages: {
+        pl: `https://oferty.onlinemasters.pl/strony-internetowe/${city}`,
+      },
+    },
+    referrer: 'origin-when-cross-origin',
+    publisher: 'Online Masters',
+    creator: 'Online Masters',
+  };
 }
 
 export default async function Page({ params }: { params: { city: string } }) {
