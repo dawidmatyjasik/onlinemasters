@@ -7,6 +7,7 @@ import Gallery from 'components/molecules/gallery/Gallery';
 import { GetProject } from 'components/molecules/get-project/GetProject';
 import { Hero } from 'components/molecules/hero/Hero';
 import { PriceBegin } from 'components/molecules/price-begin/PriceBegin';
+import { PriceList } from 'components/molecules/price-list/PriceList';
 import { TakingLook } from 'components/molecules/taking-look/TakingLook';
 import { WhatGot } from 'components/molecules/what-got/WhatGot';
 import { WhatImportant } from 'components/molecules/what-important/WhatImportant';
@@ -31,6 +32,7 @@ export default async function Page({ params }: { params: { city: string } }) {
       <WhatImportant />
       <TakingLook />
       <Gallery />
+      <PriceList />
       <GetProject />
       <FreeStaff />
     </>
