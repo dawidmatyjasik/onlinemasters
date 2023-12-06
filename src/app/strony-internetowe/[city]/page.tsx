@@ -2,6 +2,7 @@ import React from 'react';
 
 import { ChooseUs } from 'components/molecules/choose-us/ChooseUs';
 import { DontWorry } from 'components/molecules/dont-worry/DontWorry';
+import { FreeStaff } from 'components/molecules/free-staff/FreeStaff';
 import Gallery from 'components/molecules/gallery/Gallery';
 import { GetProject } from 'components/molecules/get-project/GetProject';
 import { Hero } from 'components/molecules/hero/Hero';
@@ -31,6 +32,7 @@ export default async function Page({ params }: { params: { city: string } }) {
       <TakingLook />
       <Gallery />
       <GetProject />
+      <FreeStaff />
     </>
   );
 }
