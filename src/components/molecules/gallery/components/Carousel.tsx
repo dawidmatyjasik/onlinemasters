@@ -50,7 +50,7 @@ export const Carousel = () => (
       }}>
       {CAROUSEL_STRUCTURE.map(({ img }) => (
         <SwiperSlide key={img}>
-          <Image width={470} height={300} src={img} alt="gallery" />
+          <Image width={470} height={300} src={img} alt="gallery" unoptimized />
         </SwiperSlide>
       ))}
     </Swiper>
