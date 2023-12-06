@@ -3,6 +3,7 @@ import React from 'react';
 import { ChooseUs } from 'components/molecules/choose-us/ChooseUs';
 import { DontWorry } from 'components/molecules/dont-worry/DontWorry';
 import Gallery from 'components/molecules/gallery/Gallery';
+import { GetProject } from 'components/molecules/get-project/GetProject';
 import { Hero } from 'components/molecules/hero/Hero';
 import { PriceBegin } from 'components/molecules/price-begin/PriceBegin';
 import { TakingLook } from 'components/molecules/taking-look/TakingLook';
@@ -29,6 +30,7 @@ export default async function Page({ params }: { params: { city: string } }) {
       <WhatImportant />
       <TakingLook />
       <Gallery />
+      <GetProject />
     </>
   );
 }
