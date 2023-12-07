@@ -79,48 +79,38 @@
     }
   },
   "whatImportant": {
-    "title": "Strony Internetowe Katowice - co jest istotne?",
+    "_title": "Strony Internetowe Katowice - co jest istotne?",
     "description": "Oto kluczowe cechy, na które zwracamy uwagę podczas tworzenia stron internetowych. Wykonanie strony internetowej to inwestycja w sukces online, a odpowiednio dostosowana do lokalnych potrzeb strona może znacznie zwiększyć widoczność i pozycję firmy. Skorzystaj z naszych usług, aby stworzyć strony internetowe w Katowicach, które przyciągną uwagę i spełnią oczekiwania lokalnego rynku.",
     "items": {
       "1": {
-        "title": "Responsywność",
-        "description": "Dobra strona internetowa w Katowicach musi być w pełni responsywna, dostosowując się do różnych urządzeń, tak aby użytkownicy mieli doskonałe doświadczenie niezależnie od tego, czy korzystają z komputera, tabletu czy smartfona."
+        "_description": "Dobra strona internetowa w Katowicach musi być w pełni responsywna, dostosowując się do różnych urządzeń, tak aby użytkownicy mieli doskonałe doświadczenie niezależnie od tego, czy korzystają z komputera, tabletu czy smartfona."
       },
       "2": {
-        "title": "Lokalna Optymalizacja",
-        "description": "Kluczowym elementem jest lokalna optymalizacja pod kątem Katowic. Słowo kluczowe “Strony Internetowe Katowice” powinno być strategicznie umieszczone w treściach, nagłówkach i meta opisach, aby zwiększyć widoczność strony w lokalnych wynikach wyszukiwania."
+        "_description": "Kluczowym elementem jest lokalna optymalizacja pod kątem Katowic. Słowo kluczowe “Strony Internetowe Katowice” powinno być strategicznie umieszczone w treściach, nagłówkach i meta opisach, aby zwiększyć widoczność strony w lokalnych wynikach wyszukiwania."
       },
       "3": {
-        "title": " Nawigacja i Struktura",
-        "description": "Wygodna i intuicyjna nawigacja jest kluczowa dla użytkowników w Katowicach. Strona powinna być łatwo zrozumiała, a menu powinno umożliwiać szybkie dotarcie do ważnych informacji o firmie czy usługach."
+        "_description": "Wygodna i intuicyjna nawigacja jest kluczowa dla użytkowników w Katowicach. Strona powinna być łatwo zrozumiała, a menu powinno umożliwiać szybkie dotarcie do ważnych informacji o firmie czy usługach."
       },
       "4": {
-        "title": "Personalizacja Treści",
-        "description": "Dostosowanie treści do lokalnego otoczenia to istotny element. Treści powinny odzwierciedlać specyfikę Katowic, dostarczając informacji istotnych dla mieszkańców tego regionu."
+        "_description": "Dostosowanie treści do lokalnego otoczenia to istotny element. Treści powinny odzwierciedlać specyfikę Katowic, dostarczając informacji istotnych dla mieszkańców tego regionu."
       },
       "5": {
-        "title": "Estetyka i Design",
-        "description": "Przejrzysty, estetyczny design jest kluczowy dla przyciągania uwagi użytkowników. Dla strony internetowej w Katowicach ważne jest, aby design był zgodny z lokalnymi preferencjami i kulturą."
+        "_description": "Przejrzysty, estetyczny design jest kluczowy dla przyciągania uwagi użytkowników. Dla strony internetowej w Katowicach ważne jest, aby design był zgodny z lokalnymi preferencjami i kulturą."
       },
       "6": {
-        "title": "Bezpieczeństwo",
-        "description": " Dobra strona internetowa w Katowicach musi być w pełni responsywna, dostosowując się do różnych urządzeń, tak aby użytkownicy mieli doskonałe doświadczenie niezależnie od tego, czy korzystają z komputera, tabletu czy smartfona."
+        "_description": " Dobra strona internetowa w Katowicach musi być w pełni responsywna, dostosowując się do różnych urządzeń, tak aby użytkownicy mieli doskonałe doświadczenie niezależnie od tego, czy korzystają z komputera, tabletu czy smartfona."
       },
       "7": {
-        "title": "SEO-friendly",
-        "description": "Skuteczne SEO to klucz do osiągnięcia wysokich pozycji w wynikach wyszukiwania. Wprowadzenie optymalizacji SEO pod słowo kluczowe “Strony Internetowe Katowice” pozwoli na efektywne dotarcie do lokalnego audytorium."
+        "_description": "Skuteczne SEO to klucz do osiągnięcia wysokich pozycji w wynikach wyszukiwania. Wprowadzenie optymalizacji SEO pod słowo kluczowe “Strony Internetowe Katowice” pozwoli na efektywne dotarcie do lokalnego audytorium."
       },
       "8": {
-        "title": "Interakcja i Engażowanie",
-        "description": "Elementy interaktywne, takie jak formularze kontaktowe czy chat online, zwiększają zaangażowanie użytkowników. Dla mieszkańców Katowic to ważne, aby mieć możliwość szybkiego kontaktu z firmą."
+        "_description": "Elementy interaktywne, takie jak formularze kontaktowe czy chat online, zwiększają zaangażowanie użytkowników. Dla mieszkańców Katowic to ważne, aby mieć możliwość szybkiego kontaktu z firmą."
       },
       "9": {
-        "title": "Aktualizacje Treści",
-        "description": "Regularne aktualizacje treści utrzymują stronę na bieżąco. Dla mieszkańców Katowic ważne są informacje dotyczące nowości, promocji czy lokalnych wydarzeń."
+        "_description": "Regularne aktualizacje treści utrzymują stronę na bieżąco. Dla mieszkańców Katowic ważne są informacje dotyczące nowości, promocji czy lokalnych wydarzeń."
       },
       "10": {
-        "title": "Analiza i Statystyki",
-        "description": "Wykorzystanie narzędzi do analizy ruchu pozwala na monitorowanie efektywności strony. Dla firm w Katowicach istotne jest dostosowanie strategii marketingowej do lokalnych preferencji."
+        "_description": "Wykorzystanie narzędzi do analizy ruchu pozwala na monitorowanie efektywności strony. Dla firm w Katowicach istotne jest dostosowanie strategii marketingowej do lokalnych preferencji."
       }
     }
   },
