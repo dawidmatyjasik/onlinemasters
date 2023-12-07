@@ -12,7 +12,7 @@ const Gallery = async () => {
   return (
     <section className="flex flex-col gap-12">
       <Container className="flex flex-col gap-4">
-        <Text as="h2">{t('title')}</Text>
+        <Text as="h2">{t('_title')}</Text>
         <Divider />
       </Container>
       <Carousel />

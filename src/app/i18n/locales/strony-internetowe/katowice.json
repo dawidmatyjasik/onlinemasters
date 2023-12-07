@@ -115,13 +115,12 @@
     }
   },
   "takingLook": {
-    "title": "Przyglądamy się temu, na co inni przymykają oko",
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie oddamy słabego projektu.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie oddamy słabego projektu.",
     "subTitle2": "Zapewniamy wsparcie",
-    "subDescription2": "😉 Czasami trzeba “coś dodać” do stworzonej już strony. Po wykonaniu witryny nie znikamy, jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Czasami trzeba “coś dodać” do stworzonej już strony. Po wykonaniu witryny nie znikamy, jesteśmy pod telefonem!"
   },
   "gallery": {
-    "title": "Strony Internetowe Katowice - Robimy to co lubimy i to, na czym bardzo dobrze się znamy"
+    "_title": "Strony Internetowe Katowice - Robimy to co lubimy i to, na czym bardzo dobrze się znamy"
   }
 }

@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { Container } from 'components/atoms/container/Container';
+import { Link } from 'components/atoms/link/Link';
 import { Text } from 'components/atoms/text/Text';
 import { Button } from 'components/ui/button';
 
@@ -23,9 +24,11 @@ export const FreeStaff = () => (
           Z tego powodu, jeśli jest to możliwe, dajemy opcję przetestowania usług i podjęcia decyzji o ewentualnej
           współpracy po zapoznaniu się z naszą jakością i podejściem do działania.
         </Text>
-        <Button size="lg" variant="secondary" className="mx-auto w-[400px]">
-          Odbieram cennik
-        </Button>
+        <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
+          <Button size="lg" variant="secondary" className="mx-auto w-[400px]">
+            Odbieram projekt
+          </Button>
+        </Link>
       </div>
     </Container>
   </div>
