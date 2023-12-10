@@ -17,18 +17,24 @@ export const PriceBegin = async () => {
         backgroundPosition: 'top center',
         backgroundImage: `url(/images/website/website_background_blue_colors_l.webp)`,
       }}>
-      <Container>
-        <div className="flex flex-col gap-6">
-          <Text className="text-center" color="white" as="h2">
-            {t('title')}
-          </Text>
-          <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
-            <Button size="lg" variant="secondary" className="mx-auto w-[400px]" iconStart={<ChevronRight />}>
-              Odbieram projekt
-            </Button>
-          </Link>
-        </div>
-      </Container>
+      <div
+        className="flex h-full w-full  items-center justify-center"
+        style={{
+          backgroundColor: 'rgba(2, 24, 82, 0.7)',
+        }}>
+        <Container>
+          <div className="flex flex-col gap-6">
+            <Text className="text-center" color="white" as="h2">
+              {t('title')}
+            </Text>
+            <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
+              <Button size="lg" variant="secondary" className="mx-auto w-[400px]" iconStart={<ChevronRight />}>
+                Odbieram projekt
+              </Button>
+            </Link>
+          </div>
+        </Container>
+      </div>
     </div>
   );
 };
