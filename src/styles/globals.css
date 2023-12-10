@@ -116,7 +116,12 @@ body {
     @apply text-h5;
   }
 
-  p {
+  p,
+  span,
+  ol,
+  ul,
+  li,
+  a {
     @apply font-body;
   }
 }

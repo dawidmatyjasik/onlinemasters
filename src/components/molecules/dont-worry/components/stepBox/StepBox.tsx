@@ -9,15 +9,16 @@ interface StepBoxProps {
   title: string;
   description: string;
   img: string;
+  alt: string;
   isLast?: boolean;
 }
 
-const StepBox = async ({ step, isLast, title, img, description }: StepBoxProps) => {
+const StepBox = async ({ step, isLast, title, img, description, alt }: StepBoxProps) => {
   const { t } = await useTranslation('dontWorry.steps');
   return (
     <article className="flex flex-col gap-6">
-      <Step step={step} hideArrow={isLast} img={img} />
-      <Text as="h4">{t(title)}</Text>
+      <Step step={step} hideArrow={isLast} img={img} alt={alt} />
+      <Text as="h4">{title}</Text>
       <Text>{t(description)}</Text>
     </article>
   );

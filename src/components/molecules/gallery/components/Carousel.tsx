@@ -4,6 +4,7 @@
 
 import React from 'react';
 
+import Image from 'next/image';
 import { Autoplay } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
@@ -11,21 +12,27 @@ import 'swiper/css';
 const CAROUSEL_STRUCTURE = [
   {
     img: '/images/gallery/Strony-internetowe-portfolio-1.webp',
+    alt: 'Strony Internetowe Online Masters',
   },
   {
     img: '/images/gallery/Strony-internetowe-portfolio-2.webp',
+    alt: 'Sklepy Internetowe Online Masters',
   },
   {
     img: '/images/gallery/Strony-internetowe-portfolio-3.webp',
+    alt: 'Social Media Online Masters',
   },
   {
     img: '/images/gallery/Strony-internetowe-portfolio-4.webp',
+    alt: 'Aplikacje Webowe Online Masters',
   },
   {
     img: '/images/gallery/Strony-internetowe-portfolio-5.webp',
+    alt: 'Prowadzenie Wizytówek Google Online Masters',
   },
   {
     img: '/images/gallery/Strony-internetowe-portfolio-6.webp',
+    alt: 'Opieka nad Stroną WWW Online Masters',
   },
 ];
 
@@ -49,10 +56,9 @@ export const Carousel = () => (
           slidesPerView: 3,
         },
       }}>
-      {CAROUSEL_STRUCTURE.map(({ img }) => (
+      {CAROUSEL_STRUCTURE.map(({ img, alt }) => (
         <SwiperSlide key={img}>
-          {/* <Image width={470} height={300} src={img} alt="gallery" /> */}
-          <img className="h-[300px] w-[470px]" src={img} alt="gallery" />
+          <Image width={470} height={300} src={img} alt={alt} />
         </SwiperSlide>
       ))}
     </Swiper>

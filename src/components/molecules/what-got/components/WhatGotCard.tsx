@@ -17,7 +17,7 @@ export const WhatGotCards = async ({ description, src, title }: WhatGotCardsProp
     <div className="flex flex-col gap-2">
       <Image src={src} alt="TODO" width={38} height={38} />
       <Text weight="medium" as="h3">
-        {t(title)}
+        {title}
       </Text>
       <Text>{t(description)}</Text>
     </div>

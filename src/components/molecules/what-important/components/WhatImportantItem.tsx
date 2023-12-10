@@ -14,7 +14,7 @@ export const WhatImportantItem = async ({ description, index, title }: WhatImpor
   return (
     <article>
       <Text as="h3" size="body" weight="bold">
-        {index}. {t(title)}:{' '}
+        {index}. {title}:{' '}
       </Text>
       <Text className="inline">{t(description)}</Text>
     </article>

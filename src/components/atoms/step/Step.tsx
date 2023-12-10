@@ -8,13 +8,14 @@ import { cn } from 'lib/utils';
 
 interface StepProps {
   img: string;
+  alt: string;
   step?: number;
   hideArrow?: boolean;
   hideStep?: boolean;
   className?: string;
 }
 
-export const Step = ({ step, img, hideArrow, hideStep, className }: StepProps) => (
+export const Step = ({ step, img, hideArrow, hideStep, className, alt }: StepProps) => (
   <div className="flex gap-4">
     <div className={cn('relative grid h-32 w-32 place-items-center rounded-lg border border-primary', className)}>
       {!hideStep && (
@@ -26,7 +27,7 @@ export const Step = ({ step, img, hideArrow, hideStep, className }: StepProps) =
           Krok {step}
         </Text>
       )}
-      <Image src={img} width={46} height={46} alt="Krok" />
+      <Image src={img} width={46} height={46} alt={alt} />
     </div>
     {!hideArrow && <Image src="/svg/right-arrow-svgrepo-com.svg" width={120} height={100} alt="Strzałka w prawo" />}
   </div>

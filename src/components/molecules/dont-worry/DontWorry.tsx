@@ -10,21 +10,24 @@ import { Text } from 'components/atoms/text/Text';
 const STEP_STRUCTURE = [
   {
     id: 1,
-    title: '1.title',
-    description: '1.description',
+    title: 'Stworzymy koncepcję strony',
+    description: '1._description',
     img: '/svg/website-theme-svgrepo-com.svg',
+    alt: 'Strony internetowe - krok 1',
   },
   {
     id: 2,
-    title: '2.title',
-    description: '2.description',
+    title: 'Przygotujemy treści sprzedażowe',
+    description: '2._description',
     img: '/svg/website-seo-promotion-svgrepo-com.svg',
+    alt: 'Strony internetowe - krok 2',
   },
   {
     id: 3,
-    title: '3.title',
-    description: '3.description',
+    title: 'Wykonamy indywidualny projekt',
+    description: '3._description',
     img: '/svg/website-seo-marketing-hitting-the-bullseye-svgrepo-com.svg',
+    alt: 'Strony internetowe - krok 3',
   },
 ];
 
@@ -35,12 +38,12 @@ export const DontWorry = async () => {
     <Container>
       <section className="flex flex-col gap-4">
         <Text type="heading" as="h2">
-          {t('title')}
+          {t('_title')}
         </Text>
         <Divider />
-        <Text>{t('description')}</Text>
+        <Text>{t('_description')}</Text>
         <div className="flex flex-col gap-6 md:flex-row md:items-center">
-          {STEP_STRUCTURE.map(({ title, description, img, id }, index) => (
+          {STEP_STRUCTURE.map(({ title, description, img, id, alt }, index) => (
             <StepBox
               step={index + 1}
               isLast={index + 1 === STEP_STRUCTURE.length}
@@ -48,6 +51,7 @@ export const DontWorry = async () => {
               title={title}
               img={img}
               description={description}
+              alt={alt}
             />
           ))}
         </div>

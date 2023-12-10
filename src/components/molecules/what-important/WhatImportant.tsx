@@ -7,16 +7,16 @@ import { Container } from 'components/atoms/container/Container';
 import { Text } from 'components/atoms/text/Text';
 
 const WHAT_IMPORTANT_STRUCTURE = [
-  { title: '1.title', description: '1.description' },
-  { title: '2.title', description: '2.description' },
-  { title: '3.title', description: '3.description' },
-  { title: '4.title', description: '4.description' },
-  { title: '5.title', description: '5.description' },
-  { title: '6.title', description: '6.description' },
-  { title: '7.title', description: '7.description' },
-  { title: '8.title', description: '8.description' },
-  { title: '9.title', description: '9.description' },
-  { title: '10.title', description: '10.description' },
+  { title: 'Responsywność', description: '1._description' },
+  { title: 'Lokalna Optymalizacja', description: '2._description' },
+  { title: 'Nawigacja i Struktura', description: '3._description' },
+  { title: 'Personalizacja Treści', description: '4._description' },
+  { title: 'Estetyka i Design', description: '5._description' },
+  { title: 'Bezpieczeństwo', description: '6._description' },
+  { title: 'SEO-friendly', description: '7._description' },
+  { title: 'Interakcja i Engażowanie', description: '8._description' },
+  { title: 'Aktualizacje Treści', description: '9._description' },
+  { title: 'Analiza i Statystyki', description: '10._description' },
 ];
 
 export const WhatImportant = async () => {
@@ -24,7 +24,7 @@ export const WhatImportant = async () => {
   return (
     <Container>
       <section className="flex flex-col gap-4">
-        <Text as="h2">{t('title')}</Text>
+        <Text as="h2">{t('_title')}</Text>
         <Text>{t('description')}</Text>
         <div className="grid grid-cols-1 grid-rows-5 gap-12 md:grid-cols-2">
           {WHAT_IMPORTANT_STRUCTURE.map(({ title, description }, index) => (
