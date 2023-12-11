@@ -27,6 +27,8 @@ export const PriceListItem = ({ description, features, price, title }: PriceList
         </Text>
       ))}
     </ul>
-    <Text className="text-h2 font-bold">{price}</Text>
+    <Text size="h2" weight="bold" color="heading">
+      {price}
+    </Text>
   </article>
 );

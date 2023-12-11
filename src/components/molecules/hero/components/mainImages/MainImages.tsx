@@ -14,7 +14,7 @@ export const MainImages = async () => (
       />
       <div>
         <Image
-          src="/strony-internetowe/hero/strony-www-katowice.webp"
+          src="/strony-internetowe/hero/tworzenie_stron_internetowych_katowice.webp"
           alt="Strony www katowice — Online Masters"
           className="absolute -bottom-48 -right-48 hidden rounded-lg lg:block"
           width={260}

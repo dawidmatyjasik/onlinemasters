@@ -35,10 +35,6 @@ const textVariants = cva('', {
       tiny: 'text-tiny',
     },
   },
-  defaultVariants: {
-    weight: 'regular',
-    color: 'text',
-  },
 });
 
 export type TextProps<T extends TextElements> = {
