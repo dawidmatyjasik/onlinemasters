@@ -31,7 +31,7 @@ export const FreeStaff = () => (
           </Text>
           <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
             <Button size="lg" variant="secondary" className="mx-auto w-[400px]">
-              Odbieram projekt
+              Zamawiam bezpłatny projekt
             </Button>
           </Link>
         </div>

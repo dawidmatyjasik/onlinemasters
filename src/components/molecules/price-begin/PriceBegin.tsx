@@ -24,12 +24,15 @@ export const PriceBegin = async () => {
         }}>
         <Container>
           <div className="flex flex-col gap-6">
+            <Text color="white" className="text-center uppercase">
+              Rewolucja
+            </Text>
             <Text className="text-center" color="white" as="h2">
               {t('title')}
             </Text>
             <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
               <Button size="lg" variant="secondary" className="mx-auto w-[400px]" iconStart={<ChevronRight />}>
-                Odbieram projekt
+                Zamawiam bezpłatny projekt
               </Button>
             </Link>
           </div>
