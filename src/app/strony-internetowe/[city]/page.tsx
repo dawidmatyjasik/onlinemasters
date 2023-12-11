@@ -38,6 +38,7 @@ export async function generateMetadata({ params }: { params: { city: string } })
     referrer: 'origin-when-cross-origin',
     publisher: 'Online Masters',
     creator: 'Online Masters',
+    verification: { google: '' },
   };
 }
 
