@@ -25,7 +25,9 @@ export const Hero = async () => {
           <Text as="span" size="small" className="text-heading">
             ONLINE MASTERS
           </Text>
-          <Text as="h1">{t('title')}</Text>
+          <Text type="heading" as="h1">
+            {t('title')}
+          </Text>
           <Text>{t('_description')}</Text>
           <section className="flex flex-col gap-6 md:flex-row">
             <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="w-fit">

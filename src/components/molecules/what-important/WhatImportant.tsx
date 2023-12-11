@@ -4,6 +4,7 @@ import { WhatImportantItem } from './components/WhatImportantItem';
 
 import { useTranslation } from 'app/i18n';
 import { Container } from 'components/atoms/container/Container';
+import { Divider } from 'components/atoms/divider/Divider';
 import { Text } from 'components/atoms/text/Text';
 
 const WHAT_IMPORTANT_STRUCTURE = [
@@ -25,6 +26,7 @@ export const WhatImportant = async () => {
     <Container>
       <section className="flex flex-col gap-4">
         <Text as="h2">{t('_title')}</Text>
+        <Divider />
         <Text>{t('description')}</Text>
         <div className="grid grid-cols-1 grid-rows-5 gap-12 md:grid-cols-2">
           {WHAT_IMPORTANT_STRUCTURE.map(({ title, description }, index) => (

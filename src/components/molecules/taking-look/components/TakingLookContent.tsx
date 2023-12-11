@@ -23,7 +23,7 @@ export const TakingLookContent = async () => {
       <Text>{t('takingLook._subDescription2')}</Text>
       <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="w-fit">
         <Button size="md" variant="primary" iconStart={<ChevronRight />}>
-          Odbieram projekt
+          Zamawiam projekt za 0 zł
         </Button>
       </Link>
     </article>

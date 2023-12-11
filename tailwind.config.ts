@@ -15,18 +15,21 @@ module.exports = {
         '48px',
         {
           fontWeight: '500',
+          lineHeight: '58px',
         },
       ],
       h2: [
         '40px',
         {
           fontWeight: '500',
+          lineHeight: '50px',
         },
       ],
       h3: [
         '24px',
         {
           fontWeight: '500',
+          lineHeight: '29px',
         },
       ],
       h4: [

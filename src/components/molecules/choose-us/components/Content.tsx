@@ -2,6 +2,7 @@ import React from 'react';
 
 import { useTranslation } from 'app/i18n';
 import { Divider } from 'components/atoms/divider/Divider';
+import { Link } from 'components/atoms/link/Link';
 import { Text } from 'components/atoms/text/Text';
 
 export const Content = async () => {
@@ -14,6 +15,17 @@ export const Content = async () => {
       <Text>{t('_description2')}</Text>
       <Text>{t('_description3')}</Text>
       <Text>{t('_description4')}</Text>
+      <div className="flex flex-wrap gap-1.5">
+        <Link href="https://onlinemasters.pl" className="w-fit font-semibold">
+          #OnlineMasters
+        </Link>
+        <Link href="https://onlinemasters.pl/strony-internetowe" className="w-fit font-semibold">
+          #StronyInternetowe
+        </Link>
+        <Link href="https://onlinemasters.pl/oferta" className="w-fit font-semibold">
+          #WyróżnijSwojąFirmę
+        </Link>
+      </div>
     </article>
   );
 };
