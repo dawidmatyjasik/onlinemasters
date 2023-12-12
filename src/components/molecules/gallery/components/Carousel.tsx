@@ -38,6 +38,9 @@ const CAROUSEL_STRUCTURE = [
 
 export const Carousel = () => (
   <article className="w-screen">
+    <Image height={100} width={100} alt="" src="/images/gallery/strony-internetowe-portfolio-1.webp" />
+    <Image height={100} width={100} alt="" src="/images/test.webp" />
+    <Image height={100} width={100} alt="" src="/images/test2.png" />
     <Swiper
       spaceBetween={40}
       autoplay={{ delay: 2000 }}
@@ -58,7 +61,7 @@ export const Carousel = () => (
       }}>
       {CAROUSEL_STRUCTURE.map(({ img, alt }) => (
         <SwiperSlide key={img}>
-          <Image width={470} height={300} src={img} alt={alt} loading="eager" className="rounded-3xl" />
+          <Image width={470} height={300} src={img} alt={alt} loading="eager" className="rounded-3xl" unoptimized />
         </SwiperSlide>
       ))}
     </Swiper>
