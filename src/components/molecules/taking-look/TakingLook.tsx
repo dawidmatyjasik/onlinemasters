@@ -13,10 +13,10 @@ export const TakingLook = () => (
       <article className="flex flex-col gap-2">
         <Image
           src="/images/taking-look/taking-look.webp"
-          alt="Przyglądamy się"
+          alt="Przyglądamy się Online Masters"
           width={520}
           height={770}
-          className="hidden lg:block"
+          className="hidden rounded-3xl lg:block"
         />
         <div className="flex flex-wrap gap-1.5">
           <Link href="https://onlinemasters.pl" className="w-fit font-semibold">

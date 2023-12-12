@@ -15,7 +15,7 @@ export const WhatGotCards = async ({ description, src, title }: WhatGotCardsProp
   const { t } = await useTranslation('whatGot.cards');
   return (
     <div className="flex flex-col gap-2">
-      <Image src={src} alt="TODO" width={38} height={38} />
+      <Image src={src} alt="Co oferujemy?" width={38} height={38} />
       <Text weight="medium" as="h3">
         {title}
       </Text>

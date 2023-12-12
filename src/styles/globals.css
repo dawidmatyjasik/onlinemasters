@@ -126,8 +126,4 @@ body {
     @apply font-body;
     color: #494b51;
   }
-
-  img {
-    border-radius: 24px;
-  }
 }

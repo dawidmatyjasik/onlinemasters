@@ -58,7 +58,7 @@ export const Carousel = () => (
       }}>
       {CAROUSEL_STRUCTURE.map(({ img, alt }) => (
         <SwiperSlide key={img}>
-          <Image width={470} height={300} src={img} alt={alt} />
+          <Image width={470} height={300} src={img} alt={alt} loading="eager" className="rounded-3xl" />
         </SwiperSlide>
       ))}
     </Swiper>
