@@ -11,19 +11,19 @@ import 'swiper/css';
 
 const CAROUSEL_STRUCTURE = [
   {
-    img: '/images/portfolio-1.webp',
+    img: '/images/portfolioA.png',
     alt: 'Strony Internetowe Online Masters',
   },
   {
-    img: '/images/portfolio-2.webp',
+    img: '/images/portfoliob.webp',
     alt: 'Sklepy Internetowe Online Masters',
   },
   {
-    img: '/images/portfolio-3.webp',
+    img: '/images/portfolioc.webp',
     alt: 'Social Media Online Masters',
   },
   {
-    img: '/images/portfolio-4.webp',
+    img: '/images/portfolio-4.png',
     alt: 'Aplikacje Webowe Online Masters',
   },
   {
