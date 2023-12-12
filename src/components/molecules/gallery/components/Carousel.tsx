@@ -11,27 +11,27 @@ import 'swiper/css';
 
 const CAROUSEL_STRUCTURE = [
   {
-    img: '/images/strony-internetowe-portfolio-1.webp',
+    img: '/images/portfolio-1.webp',
     alt: 'Strony Internetowe Online Masters',
   },
   {
-    img: '/images/strony-internetowe-portfolio-2.webp',
+    img: '/images/portfolio-2.webp',
     alt: 'Sklepy Internetowe Online Masters',
   },
   {
-    img: '/images/strony-internetowe-portfolio-3.webp',
+    img: '/images/portfolio-3.webp',
     alt: 'Social Media Online Masters',
   },
   {
-    img: '/images/strony-internetowe-portfolio-4.webp',
+    img: '/images/portfolio-4.webp',
     alt: 'Aplikacje Webowe Online Masters',
   },
   {
-    img: '/images/strony-internetowe-portfolio-5.webp',
+    img: '/images/portfolio-5.webp',
     alt: 'Prowadzenie Wizytówek Google Online Masters',
   },
   {
-    img: '/images/strony-internetowe-portfolio-6.webp',
+    img: '/images/portfolio-6.webp',
     alt: 'Opieka nad Stroną WWW Online Masters',
   },
 ];
