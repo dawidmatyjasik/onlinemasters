@@ -68,8 +68,8 @@ export function MobileNavigationList() {
       <ul className="items-center justify-center">
         {PRIMARY_MENU.map(({ path, title, subMenu }) => (
           <Text key={title} as="li" className="flex cursor-pointer flex-col border-b border-[#E8E8E8] bg-white">
-            <div className="flex items-center justify-between px-8 py-4 hover:bg-[#4175FC] [&:hover_*]:!text-white">
-              <Text href={path} className="flex-1" as="a">
+            <div className="flex items-center justify-between px-8  hover:bg-[#4175FC] [&:hover_*]:!text-white">
+              <Text href={path} className="flex-1 py-5" as="a">
                 {title}
               </Text>
               {subMenu && <ChevronDown className="hover:text-white" onClick={handleSubMenuToggle} />}
@@ -80,8 +80,8 @@ export function MobileNavigationList() {
                   <Text
                     key={sub.title}
                     as="li"
-                    className="flex items-center justify-between bg-white px-10 py-3 hover:bg-[#4175FC] [&:hover_*]:!text-white">
-                    <Text className="flex-1" as="a" size="small" href={path}>
+                    className="flex items-center justify-between bg-white px-10  hover:bg-[#4175FC] [&:hover_*]:!text-white">
+                    <Text className="flex-1 py-4" as="a" size="small" href={path}>
                       {sub.title}
                     </Text>
                   </Text>
