@@ -11,27 +11,27 @@ import 'swiper/css';
 
 const CAROUSEL_STRUCTURE = [
   {
-    img: '/images/portfolioA.png',
+    img: '/images/portfolio-chrupek.png',
     alt: 'Strony Internetowe Online Masters',
   },
   {
-    img: '/images/portfoliob.webp',
+    img: '/images/portfolio-villa.webp',
     alt: 'Sklepy Internetowe Online Masters',
   },
   {
-    img: '/images/portfolioc.webp',
+    img: '/images/portfolio-instalacje.webp',
     alt: 'Social Media Online Masters',
   },
   {
-    img: '/images/portfolio-4.png',
+    img: '/images/portfolio-fotowoltaika.png',
     alt: 'Aplikacje Webowe Online Masters',
   },
   {
-    img: '/images/portfolio-5.webp',
+    img: '/images/portfolio-king.webp',
     alt: 'Prowadzenie Wizytówek Google Online Masters',
   },
   {
-    img: '/images/portfolio-6.webp',
+    img: '/images/portfolio-biuro.webp',
     alt: 'Opieka nad Stroną WWW Online Masters',
   },
 ];
