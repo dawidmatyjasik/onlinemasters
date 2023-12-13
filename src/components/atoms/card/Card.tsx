@@ -1,8 +1,16 @@
 import type { PropsWithChildren } from 'react';
 import React from 'react';
 
-export const Card = ({ children }: PropsWithChildren) => (
-  <article className="bg-white p-10" style={{ boxShadow: '0px 10px 35px -20px rgba(0,0,0,.16)' }}>
+import { cn } from 'lib/utils';
+
+interface CardProps {
+  className?: string;
+}
+
+export const Card = ({ className, children }: PropsWithChildren<CardProps>) => (
+  <article
+    className={cn('rounded-3xl bg-white p-10', className)}
+    style={{ boxShadow: '0px 0px 20px 0px rgba(0, 0, 0, 0.05)' }}>
     {children}
   </article>
 );

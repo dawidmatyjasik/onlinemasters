@@ -1,25 +1,14 @@
+import type { PropsWithChildren } from 'react';
 import React from 'react';
 
-import Image from 'next/image';
+import { cn } from 'lib/utils';
 
-import { useTranslation } from 'app/i18n';
-import { Text } from 'components/atoms/text/Text';
-
-interface WhatGotCardsProps {
-  src: string;
-  title: string;
-  description: string;
+interface WhatGotCardProps {
+  className?: string;
 }
 
-export const WhatGotCards = async ({ description, src, title }: WhatGotCardsProps) => {
-  const { t } = await useTranslation('whatGot.cards');
-  return (
-    <div className="flex flex-col gap-2">
-      <Image src={src} alt="Co oferujemy?" width={38} height={38} />
-      <Text weight="medium" as="h3">
-        {title}
-      </Text>
-      <Text>{t(description)}</Text>
-    </div>
-  );
-};
+export const WhatGotCard = ({ className, children }: PropsWithChildren<WhatGotCardProps>) => (
+  <article className={cn('bg-white p-10', className)} style={{ boxShadow: '0px 10px 35px -20px rgba(0,0,0,.16)' }}>
+    {children}
+  </article>
+);
