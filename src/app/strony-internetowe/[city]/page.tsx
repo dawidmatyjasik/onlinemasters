@@ -8,6 +8,7 @@ import Gallery from 'components/molecules/gallery/Gallery';
 import { GetProject } from 'components/molecules/get-project/GetProject';
 import { Hero } from 'components/molecules/hero/Hero';
 import { Informations } from 'components/molecules/informations/Informations';
+import { Intuition } from 'components/molecules/intuition/Intuition';
 import { PageCosts } from 'components/molecules/page-costs/PageCosts';
 import { PriceBegin } from 'components/molecules/price-begin/PriceBegin';
 import { PriceList } from 'components/molecules/price-list/PriceList';
@@ -63,6 +64,7 @@ export default async function Page({ params }: { params: { city: string } }) {
       <PageCosts />
       <Informations />
       <Characters />
+      <Intuition />
     </>
   );
 }
