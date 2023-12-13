@@ -194,5 +194,79 @@
         "_subDescription2": null
       }
     }
+  },
+  "characters": {
+    "_title": "Cechy dobrej strony www - strony internetowe Katowice",
+    "_description": "Dobra strona internetowa powinna posiadać szereg cech, które przyczynią się do pozytywnego doświadczenia użytkownika, efektywności działania i skuteczności w komunikacji. Oto kilka kluczowych cech dobrej strony www:",
+    "items": {
+      "1": {
+        "_subTitle": "Przekonujące treści",
+        "_subDescription": "treści na stronie internetowej powinny skutecznie przekonywać potencjalnych klientów do zakupu usług lub produktów Twojej firmy"
+      },
+      "2": {
+        "_subTitle": "Responsywność",
+        "_subDescription": "strona powinna być dostosowana do różnych urządzeń, tak aby była czytelna i funkcjonalna zarówno na komputerze, tabletach, jak i smartfonach."
+      },
+      "3": {
+        "_subTitle": "Intuicyjna Nawigacja",
+        "_subDescription": "łatwa do zrozumienia nawigacja, umożliwiająca szybkie odnalezienie informacji bez zbędnych kliknięć."
+      },
+      "4": {
+        "_subTitle": "Estetyczny Design",
+        "_subDescription": "przemyślany i atrakcyjny projekt graficzny, zgodny z identyfikacją wizualną marki."
+      },
+      "5": {
+        "_subTitle": "Szybkość Ładowania",
+        "_subDescription": "optymalizacja strony pod kątem szybkości ładowania, aby zminimalizować czas oczekiwania użytkowników."
+      },
+      "6": {
+        "_subTitle": "Bezpieczeństwo",
+        "_subDescription": "wykorzystanie zabezpieczeń, takich jak certyfikat SSL, aby chronić dane użytkowników."
+      },
+      "7": {
+        "_subTitle": "Clear Call-to-Action (CTA)",
+        "_subDescription": "wyraźne i zachęcające do działania przyciski i linki, kierujące użytkowników do konkretnych działań."
+      },
+      "8": {
+        "_subTitle": "Spójność Treści",
+        "_subDescription": "konsekwencja i spójność treści na stronie, aby ułatwić zrozumienie informacji."
+      },
+      "9": {
+        "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
+        "_subDescription": "optymalizacja treści i struktury strony, aby poprawić jej widoczność w wynikach wyszukiwania."
+      },
+      "10": {
+        "_subTitle": "Formularze Kontaktowe",
+        "_subDescription": "formularze kontaktowe i/lub zgłoszeniowe dla łatwej interakcji z użytkownikami."
+      },
+      "11": {
+        "_subTitle": "Analiza Danych",
+        "_subDescription": "zintegrowane narzędzia analityczne, takie jak Google Analytics, do śledzenia ruchu i analizy zachowań użytkowników."
+      },
+      "12": {
+        "_subTitle": "Aktualne Informacje",
+        "_subDescription": "regularnie aktualizowane treści i informacje na stronie, aby utrzymać ją na bieżąco."
+      },
+      "13": {
+        "_subTitle": "Zgodność Z Standardami",
+        "_subDescription": "zgodność z aktualnymi standardami internetowymi i przeglądarkami internetowymi."
+      },
+      "14": {
+        "_subTitle": "Działające Linki",
+        "_subDescription": "sprawdzenie, czy wszystkie linki na stronie są aktywne i prowadzą do odpowiednich miejsc."
+      },
+      "15": {
+        "_subTitle": "Forma i Funkcja",
+        "_subDescription": "połączenie estetyki z funkcjonalnością, tak aby strona była atrakcyjna wizualnie i jednocześnie użyteczna."
+      },
+      "16": {
+        "_subTitle": "Dobrze Zorganizowana Struktura",
+        "_subDescription": "jasna struktura strony, z łatwo dostępnymi sekcjami i podstronami."
+      },
+      "17": {
+        "_subTitle": "Zgodność Z Prawem",
+        "_subDescription": "zgodność z obowiązującymi przepisami prawnymi, w tym polityką prywatności i warunkami korzystania."
+      }
+    }
   }
 }

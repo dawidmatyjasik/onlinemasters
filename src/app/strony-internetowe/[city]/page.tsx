@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { Characters } from 'components/molecules/characters/Characters';
 import { ChooseUs } from 'components/molecules/choose-us/ChooseUs';
 import { DontWorry } from 'components/molecules/dont-worry/DontWorry';
 import { FreeStaff } from 'components/molecules/free-staff/FreeStaff';
@@ -61,6 +62,7 @@ export default async function Page({ params }: { params: { city: string } }) {
       <FreeStaff />
       <PageCosts />
       <Informations />
+      <Characters />
     </>
   );
 }
