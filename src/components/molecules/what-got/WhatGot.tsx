@@ -1,10 +1,10 @@
 import React from 'react';
 
-import { WhatGotCards } from './components/WhatGotCard';
+import { WhatGotCards } from './components/WhatGotCards';
 
-import { Card } from 'components/atoms/card/Card';
 import { Container } from 'components/atoms/container/Container';
 import { Text } from 'components/atoms/text/Text';
+import { WhatGotCard } from 'components/molecules/what-got/components/WhatGotCard';
 
 const WHAT_GOT_STRUCTURE = [
   { src: '/svg/support-svgrepo-com.svg', title: 'Doradztwo', description: '1._description' },
@@ -21,9 +21,9 @@ export const WhatGot = async () => (
         Nasze strony mają wszystko, co potrzebne i jeszcze więcej
       </Text>
       {WHAT_GOT_STRUCTURE.map(({ src, title, description }) => (
-        <Card key={title}>
+        <WhatGotCard key={title}>
           <WhatGotCards src={src} title={title} description={description} />
-        </Card>
+        </WhatGotCard>
       ))}
     </section>
   </Container>

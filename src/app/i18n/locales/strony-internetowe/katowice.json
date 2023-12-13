@@ -122,5 +122,26 @@
   },
   "gallery": {
     "_title": "Strony Internetowe Katowice - Robimy to co lubimy i to, na czym bardzo dobrze się znamy"
+  },
+  "pageCosts": {
+    "_title": "Strony Internetowe Katowice - ile kosztuje utrzymanie strony www?",
+    "_description": "Koszt utrzymania strony internetowej można podzielić na dwie główne kategorie - niezbędne i dodatkowe.",
+    "cards": {
+      "1": {
+        "title": "Koszty niezbędne",
+        "subTitle1": "Hosting",
+        "_subDescription1": " Jest to przestrzeń, na której przechowywane są wszystkie pliki strony internetowej. To właśnie hosting jest odpowiedzialny za to, żeby Twoja strona była widoczna w internecie. Ceny hostingów różnią się w zależności od tego, jak dużo miejsca na dane potrzebujesz. Zazwyczaj firmy proponujące hosting oferują niską cenę za pierwszy rok, a odnowienie jest odpowiednio droższe. Standardowe ceny zaczynają się od 50 zł za pierwszy rok i 300 zł za każdy kolejny rok.",
+        "subTitle2": "Domena",
+        "_subDescription2": "To adres strony. Naszym adresem jest onlinemasters.pl. Zakup domeny również w pierwszym roku jest tańszy a droższy w każdym kolejnym.  Standardowe ceny domen z końcówką .pl zaczynają się od 10 zł za pierwszy rok i 130 zł za każdy kolejny rok."
+      },
+      "2": {
+        "title": "Koszty dodatkowe",
+        "subTitle1": "Opieka nad stroną",
+        "_subDescription1": "Koszt podstawowej opieki nad stroną zaczyna się od 50 zł/miesiąc. W skład takiej opieki wchodzi wykonywanie 1 aktualizacji WordPressa, motywów, wtyczek w miesiącu. Stworzenie 1 kopii zapasowej umożliwiającej przywrócenie strony, usuwanie błędów oraz monitorowanie prędkości i bezpieczeństwa. W ekstremalnych przypadkach przy bardzo rozbudowanych stronach i wielu wprowadzanych zmianach koszt opieki może wynosić nawet powyżej 1000 zł/miesiąc.",
+        "subTitle2": "Wprowadzanie zmian",
+        "_subDescription2": " Każdą zmianę na stronie można wprowadzić samodzielnie, jednak w takiej sytuacji zawsze istnieje ryzyko wystąpienia błędów. Koszt wprowadzenia zmian uzgadniamy indywidualnie, albo wykonujemy je w ramach wyższego pakietu opieki."
+      }
+    },
+    "_summary": "Podsumowując, utrzymanie strony internetowej wiąże się z kosztami niezbędnymi, takimi jak hosting i domena, oraz kosztami dodatkowymi związanych z opieką nad stroną i ewentualnymi zmianami, które mogą być realizowane samodzielnie lub w ramach wyższego pakietu opieki."
   }
 }
