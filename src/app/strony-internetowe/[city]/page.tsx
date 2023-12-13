@@ -14,7 +14,6 @@ import { PriceBegin } from 'components/molecules/price-begin/PriceBegin';
 import { PriceList } from 'components/molecules/price-list/PriceList';
 import { TakingLook } from 'components/molecules/taking-look/TakingLook';
 import { WhatGot } from 'components/molecules/what-got/WhatGot';
-import { WhatImportant } from 'components/molecules/what-important/WhatImportant';
 import { WhyUs } from 'components/molecules/why-us/WhyUs';
 import { getCityData, useRedirect } from 'utils/getCityData';
 
@@ -55,7 +54,6 @@ export default async function Page({ params }: { params: { city: string } }) {
       <ChooseUs />
       <PriceBegin />
       <WhatGot />
-      <WhatImportant />
       <TakingLook />
       <Gallery />
       <PriceList />
