@@ -6,6 +6,7 @@ import { FreeStaff } from 'components/molecules/free-staff/FreeStaff';
 import Gallery from 'components/molecules/gallery/Gallery';
 import { GetProject } from 'components/molecules/get-project/GetProject';
 import { Hero } from 'components/molecules/hero/Hero';
+import { Informations } from 'components/molecules/informations/Informations';
 import { PageCosts } from 'components/molecules/page-costs/PageCosts';
 import { PriceBegin } from 'components/molecules/price-begin/PriceBegin';
 import { PriceList } from 'components/molecules/price-list/PriceList';
@@ -59,6 +60,7 @@ export default async function Page({ params }: { params: { city: string } }) {
       <GetProject />
       <FreeStaff />
       <PageCosts />
+      <Informations />
     </>
   );
 }

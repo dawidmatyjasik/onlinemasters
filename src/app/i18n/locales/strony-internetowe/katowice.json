@@ -143,5 +143,56 @@
       }
     },
     "_summary": "Podsumowując, utrzymanie strony internetowej wiąże się z kosztami niezbędnymi, takimi jak hosting i domena, oraz kosztami dodatkowymi związanych z opieką nad stroną i ewentualnymi zmianami, które mogą być realizowane samodzielnie lub w ramach wyższego pakietu opieki."
+  },
+  "informations": {
+    "_title": "Jakie informacje warto umieścić na firmowej stronie?",
+    "_description": "Firmowa strona internetowa powinna zawierać różnorodne informacje, które dostarczą potencjalnym klientom, partnerom biznesowym i odwiedzającym ważnych danych o firmie. Oto kluczowe informacje, które warto uwzględnić na firmowej stronie:",
+    "items": {
+      "1": {
+        "_subTitle": "Strona Główna:",
+        "_subDescription1": "Krótka prezentacja działalności firmy.",
+        "_subDescription2": "Możliwie atrakcyjny i zachęcający design."
+      },
+      "2": {
+        "_subTitle": "O Nas:",
+        "_subDescription1": "Historia firmy i zespołu.",
+        "_subDescription2": "Wartości i misja przedsiębiorstwa."
+      },
+      "3": {
+        "_subTitle": "Usługi/Produkty:",
+        "_subDescription1": "Szczegółowe informacje na temat oferowanych usług lub produktów.",
+        "_subDescription2": "Opisy cech i korzyści dla klientów."
+      },
+      "4": {
+        "_subTitle": "Kontakt:",
+        "_subDescription1": "Dane kontaktowe, takie jak adres, numer telefonu, adres e-mail.",
+        "_subDescription2": "Formularz kontaktowy."
+      },
+      "5": {
+        "_subTitle": "Referencje/Opinie:",
+        "_subDescription1": "Opinie i referencje od zadowolonych klientów.",
+        "_subDescription2": "Realne przypadki sukcesu."
+      },
+      "6": {
+        "_subTitle": "Blog/Artykuły:",
+        "_subDescription1": "Sekcja bloga z artykułami związanych z branżą.",
+        "_subDescription2": "Aktualności związane z firmą."
+      },
+      "7": {
+        "_subTitle": "FAQ (Najczęstsze Pytania):",
+        "_subDescription1": "Sekcja z odpowiedziami na najczęściej zadawane pytania.",
+        "_subDescription2": null
+      },
+      "8": {
+        "_subTitle": "Galeria/Zdjęcia:",
+        "_subDescription1": "Zdjęcia zespołu, biura, realizowanych projektów, itp.",
+        "_subDescription2": null
+      },
+      "9": {
+        "_subTitle": "Linki do Mediów Społecznościowych:",
+        "_subDescription1": "Ikony i linki do profili firmy na platformach społecznościowych.",
+        "_subDescription2": null
+      }
+    }
   }
 }
