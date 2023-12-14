@@ -11,8 +11,12 @@ export const Contact = () => (
       Kontakt
     </Text>
     <div className="flex flex-col">
-      <Link href="tel:+48575990730">+48 575 990 730</Link>
-      <Link href="mailto:kontakt@onlinemasters.pl">kontakt@onlinemasters.pl</Link>
+      <Link href="tel:+48575990730" className="h-[48px]">
+        +48 575 990 730
+      </Link>
+      <Link className="h-[48px]" href="mailto:kontakt@onlinemasters.pl">
+        kontakt@onlinemasters.pl
+      </Link>
     </div>
     <div className="flex items-center gap-2">
       <FacebookIcon

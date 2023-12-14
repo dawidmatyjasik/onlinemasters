@@ -36,7 +36,7 @@ export const Trusted = () => (
         height={100}
       />
     </div>
-    <Text as="span" size="small" className="text-center !text-[#8f8f8f]">
+    <Text as="span" size="small" className="text-center tracking-[2px] !text-[#8f8f8f]" type="heading">
       ZAUFALI NAM
     </Text>
   </article>

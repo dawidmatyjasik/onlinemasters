@@ -9,10 +9,18 @@ export const Menu = () => (
       Menu
     </Text>
     <div className="flex flex-col">
-      <Link href="https://onlinemasters.pl/">Główna</Link>
-      <Link href="https://onlinemasters.pl/oferta">Oferta</Link>
-      <Link href="https://onlinemasters.pl/realizacje">Realizacje</Link>
-      <Link href="https://onlinemasters.pl/o-nas">O nas</Link>
+      <Link href="https://onlinemasters.pl/" className="h-[48px]">
+        Główna
+      </Link>
+      <Link href="https://onlinemasters.pl/oferta" className="h-[48px]">
+        Oferta
+      </Link>
+      <Link href="https://onlinemasters.pl/realizacje" className="h-[48px]">
+        Realizacje
+      </Link>
+      <Link href="https://onlinemasters.pl/o-nas" className="h-[48px]">
+        O nas
+      </Link>
     </div>
   </div>
 );
