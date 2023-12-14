@@ -18,7 +18,7 @@ const StepBox = async ({ step, isLast, title, img, description, alt }: StepBoxPr
   return (
     <article className="flex flex-col gap-6">
       <Step step={step} hideArrow={isLast} img={img} alt={alt} />
-      <Text as="h4">{title}</Text>
+      <Text>{title}</Text>
       <Text>{t(description)}</Text>
     </article>
   );

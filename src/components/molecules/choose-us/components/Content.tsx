@@ -16,13 +16,15 @@ export const Content = async () => {
       <Text>{t('_description3')}</Text>
       <Text>{t('_description4')}</Text>
       <div className="flex flex-wrap gap-1.5">
-        <Link href="https://onlinemasters.pl" className="w-fit font-semibold">
+        <Link href="https://onlinemasters.pl" className="flex h-[48px] w-fit items-center font-semibold">
           #OnlineMasters
         </Link>
-        <Link href="https://onlinemasters.pl/strony-internetowe" className="w-fit font-semibold">
+        <Link
+          href="https://onlinemasters.pl/strony-internetowe"
+          className="flex h-[48px] w-fit items-center font-semibold">
           #StronyInternetowe
         </Link>
-        <Link href="https://onlinemasters.pl/oferta" className="w-fit font-semibold">
+        <Link href="https://onlinemasters.pl/oferta" className="flex h-[48px] w-fit items-center font-semibold">
           #WyróżnijSwojąFirmę
         </Link>
       </div>
