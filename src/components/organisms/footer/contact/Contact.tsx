@@ -11,10 +11,10 @@ export const Contact = () => (
       Kontakt
     </Text>
     <div className="flex flex-col">
-      <Link href="tel:+48575990730" className="h-[48px]">
+      <Link href="tel:+48575990730" className="h-[48px] sm:h-fit">
         +48 575 990 730
       </Link>
-      <Link className="h-[48px]" href="mailto:kontakt@onlinemasters.pl">
+      <Link className="h-[48px] sm:h-fit" href="mailto:kontakt@onlinemasters.pl">
         kontakt@onlinemasters.pl
       </Link>
     </div>

@@ -4,7 +4,9 @@ import { Text } from 'components/atoms/text/Text';
 
 export const Company = () => (
   <div className="flex flex-col justify-center gap-4 border-l border-[rgb(73,75,65)] px-4">
-    <Text color="white">Dane firmy</Text>
+    <Text color="white" as="h4">
+      Dane firmy
+    </Text>
     <div className="flex flex-col">
       <Text color="footer">NIP: 5492470598</Text>
       <Text color="footer">Kamil Hajduk Strony Internetowe</Text>
