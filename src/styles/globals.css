@@ -82,6 +82,7 @@ body {
 @layer base {
   * {
     @apply border-border;
+    font-display: swap;
   }
   body {
     @apply bg-background text-foreground;

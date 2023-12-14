@@ -22,7 +22,7 @@ export const Hero = async () => {
     <Wrapper>
       <Container className="flex flex-col gap-10 pt-[200px] lg:flex-row">
         <section className="flex w-full flex-col gap-6 lg:w-1/2">
-          <Text as="span" size="small" className="text-heading">
+          <Text as="span" type="heading" size="small" className="text-heading tracking-[5px] text-[#101218]">
             ONLINE MASTERS
           </Text>
           <Text type="heading" as="h1">
