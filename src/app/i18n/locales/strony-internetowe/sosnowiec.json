@@ -1,15 +1,15 @@
 {
     "hero": {
       "title": "Strony Internetowe Sosnowiec",
-      "_description": "Strony Internetowe Sosnowiec opracowane, aby kreować silny wizerunek online i efektywnie sprzedawać Twoje usługi. Zaprezentuj profesjonalnie swoją działalność w internecie i przyciągaj nowych klientów w Sosnowcu! 💻"
+      "_description": "Strony Internetowe Sosnowiec opracowane, aby kreować silny wizerunek online i efektywnie sprzedawać Twoje usługi. Zaprezentuj profesjonalnie swoją działalność w internecie i przyciągaj nowych klientów! 💻"
     },
     "whyUs": {
       "title": "Strony Internetowe Sosnowiec - dlaczego warto mieć stronę www?",
-      "_description": "Dla przedsiębiorców i firm w Sosnowcu, posiadanie własnej strony internetowej jest kluczowe dla sukcesu. W dynamicznym świecie biznesu i życia społecznego, internet jest nieodłącznym elementem codzienności, a strona www przynosi wiele korzyści w Sosnowcu.",
+      "_description": "Dla przedsiębiorców i firm w Sosnowcu, posiadanie własnej strony internetowej jest kluczowe dla sukcesu. W dynamicznym świecie biznesu i życia społecznego, internet jest nieodłącznym elementem codzienności, a strona www przynosi wiele korzyści.",
       "tiles": {
         "1": {
           "title": "Konkurencyjność na rynku:",
-          "_description": "Posiadanie strony internetowej w Sosnowcu jest obecnie standardem w wielu branżach. Brak strony może obniżyć atrakcyjność firmy w oczach klientów, którzy coraz częściej szukają online informacji o produktach i usługach."
+          "_description": "Posiadanie strony internetowej jest obecnie standardem w wielu branżach. Brak strony może obniżyć atrakcyjność firmy w oczach klientów, którzy coraz częściej szukają online informacji o produktach i usługach."
         },
         "2": {
           "title": "Dostępność 24/7:",
@@ -25,21 +25,21 @@
         },
         "5": {
           "title": "Rozwój sprzedaży online:",
-          "_description": "W Sosnowcu posiadanie strony internetowej jest niezbędne dla rozwoju e-commerce. Sklep internetowy pozwala na rozszerzenie rynku i dotarcie do klientów preferujących zakupy online."
+          "_description": "Posiadanie strony internetowej jest niezbędne dla rozwoju e-commerce. Sklep internetowy pozwala na rozszerzenie rynku i dotarcie do klientów preferujących zakupy online."
         },
         "6": {
           "title": "Globalna obecność:",
           "_description": "Strona internetowa pozwala na analizę ruchu online, co pomaga dostosować strategię marketingową i lepiej zrozumieć potrzeby klientów w Sosnowcu."
         }
       },
-      "_summary": "Posiadanie strony internetowej w Sosnowcu to ważny element strategii biznesowej. W erze cyfrowej, strona www jest niezbędnym narzędziem dla każdej firmy, wpływającym na jej zasięg i efektywność."
+      "_summary": "Posiadanie strony internetowej to ważny element strategii biznesowej. W erze cyfrowej, strona www jest niezbędnym narzędziem dla każdej firmy, wpływającym na jej zasięg i efektywność."
     },
     "dontWorry": {
       "_title": "Nie martw się o nic, zadbamy o wszystko od A do Ż - Strony Internetowe Sosnowiec",
       "_description": "👨‍💻🔊 Jako przedsiębiorca w Sosnowcu nie musisz być ekspertem w projektowaniu stron czy pisaniu treści. Możesz przekazać nam swoje materiały lub po prostu potrzebę prostej strony, a my zajmiemy się resztą.",
       "steps": {
         "1": {
-            "_description": "🤝 Razem ustalimy strukturę i styl Twojej strony, aby odpowiadała celom Twojej firmy w Sosnowcu."
+            "_description": "🤝 Razem ustalimy strukturę i styl Twojej strony, aby odpowiadała celom Twojej firmy."
         },
         "2": {
           "_description": "📝 Opracujemy treści, które mają na celu zwiększenie sprzedaży Twoich usług lub produktów."
@@ -50,10 +50,10 @@
       }
     },
     "chooseUs": {
-      "_title": "Mały krok dla nas, wielki skok dla Twojej firmy w Sosnowcu",
-      "_description1": "🤔 Wiesz, że dobrze zaprojektowana strona internetowa może pozytywnie wpłynąć na opinię o Twojej firmie w Sosnowcu? Dostępna i przejrzysta witryna to komfort dla klientów, co jest doceniane.",
+      "_title": "Mały krok dla nas, wielki skok dla Twojej firmy.",
+      "_description1": "🤔 Wiesz, że dobrze zaprojektowana strona internetowa może pozytywnie wpłynąć na opinię o Twojej firmie? Dostępna i przejrzysta witryna to komfort dla klientów, co jest doceniane.",
       "_description2": "🚀 'Wyróżnij się albo zgiń!' Atrakcyjna strona przyciągnie uwagę i zostanie zapamiętana przez tych, którzy przeglądają wiele witryn, co zwiększa szansę na powrót klienta w celu dokonania zakupu.",
-      "_description3": "👌💻 Sprawnie działająca strona w połączeniu z pozytywnymi opiniami buduje solidną wiarygodność Twojej firmy w Sosnowcu.",
+      "_description3": "👌💻 Sprawnie działająca strona w połączeniu z pozytywnymi opiniami buduje solidną wiarygodność Twojej firmy.",
       "_description4": "✨📄 Doskonałe treści pomogą przekształcić większą liczbę potencjalnych klientów w stałych klientów."
     },
     "priceBegin": {
@@ -62,7 +62,7 @@
     "whatGot": {
       "cards": {
         "1": {
-          "_description": "Nie musisz mieć gotowego projektu. Chętnie doradzimy i zaproponujemy najlepsze rozwiązania dla Twojej firmy w Sosnowcu."
+          "_description": "Nie musisz mieć gotowego projektu. Chętnie doradzimy i zaproponujemy najlepsze rozwiązania dla Twojej firmy."
         },
         "2": {
           "_description": "Twoja strona będzie estetycznie cieszyć oko klientów, zachęcając ich do poznania treści i oferty."
@@ -79,7 +79,7 @@
       }
     },
     "takingLook": {
-      "subTitle1": "Zależy nam na Twoim zadowoleniu w Sosnowcu",
+      "subTitle1": "Zależy nam na Twoim zadowoleniu",
       "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest uzyskanie 100 pozytywnych opinii w Google z oceną 5.0, dlatego nigdy nie oddamy projektu, który nas nie satysfakcjonuje.",
       "subTitle2": "Zapewniamy wsparcie",
       "_subDescription2": "😉 Czasami potrzebne są dodatkowe modyfikacje już istniejącej strony. Po jej wykonaniu nie znikamy – jesteśmy zawsze dostępni!"
@@ -109,8 +109,8 @@
       "_summary": "Podsumowując, utrzymanie strony internetowej w Sosnowcu wiąże się z kosztami zarówno niezbędnymi, jak hosting i domena, jak i dodatkowymi, związanymi z opieką i ewentualnymi zmianami."
     },
     "informations": {
-      "_title": "Jakie informacje warto umieścić na firmowej stronie w Sosnowcu?",
-      "_description": "Firmowa strona internetowa powinna zawierać ważne informacje, które dostarczą potencjalnym klientom i partnerom biznesowym niezbędnych danych o firmie w Sosnowcu. Oto przykłady informacji, które warto uwzględnić:",
+      "_title": "Jakie informacje warto umieścić na firmowej stronie?",
+      "_description": "Firmowa strona internetowa powinna zawierać ważne informacje, które dostarczą potencjalnym klientom i partnerom biznesowym niezbędnych danych o firmie. Oto przykłady informacji, które warto uwzględnić:",
       "items": {
         "1": {
           "_subTitle": "Strona Główna:",

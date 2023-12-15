@@ -1,22 +1,22 @@
 {
   "hero": {
     "title": "Strony Internetowe Gliwice",
-    "_description": "Strony Internetowe Gliwice zaprojektowane, aby tworzyć silny wizerunek online i efektywnie sprzedawać Twoje usługi. Profesjonalnie przedstaw swoją działalność w internecie i zdobywaj nowych klientów w Gliwicach! 💻"
+    "_description": "Strony Internetowe Gliwice zaprojektowane, aby tworzyć silny wizerunek online i efektywnie sprzedawać Twoje usługi. Profesjonalnie przedstaw swoją działalność w internecie i zdobywaj nowych klientów! 💻"
   },
   "whyUs": {
     "title": "Strony Internetowe Gliwice - dlaczego warto mieć stronę www?",
-    "_description": "Dla biznesów i przedsiębiorców w Gliwicach, własna strona internetowa to klucz do sukcesu. W dynamicznej rzeczywistości biznesowej i społecznej, internet jest niezbędnym elementem, a strona www oferuje liczne korzyści w Gliwicach.",
+    "_description": "Dla biznesów i przedsiębiorców w Gliwicach, własna strona internetowa to klucz do sukcesu. W dynamicznej rzeczywistości biznesowej i społecznej, internet jest niezbędnym elementem, a strona www oferuje liczne korzyści.",
     "tiles": {
       "1": {
         "title": "Konkurencyjność na rynku:",
-        "_description": "W Gliwicach posiadanie strony internetowej to standard w wielu sektorach. Brak strony może zmniejszać atrakcyjność firmy w oczach klientów poszukujących informacji o lokalnych produktach i usługach w sieci."
+        "_description": "Posiadanie strony internetowej to standard w wielu sektorach. Brak strony może zmniejszać atrakcyjność firmy w oczach klientów poszukujących informacji o lokalnych produktach i usługach w sieci."
       },
       "2": {
         "title": "Dostępność 24/7:",
-        "_description": "Strona internetowa gwarantuje ciągłą dostępność Twojej oferty, co jest istotne w szybkim tempie życia. Umożliwia to klientom w Gliwicach zapoznanie się z Twoją firmą w dowolnym momencie."
+        "_description": "Strona internetowa gwarantuje ciągłą dostępność Twojej oferty, co jest istotne w szybkim tempie życia. Umożliwia to klientom zapoznanie się z Twoją firmą w dowolnym momencie."
       },
       "3": {
-        "title": "Budowanie marki w Gliwicach:",
+        "title": "Budowanie marki:",
         "_description": "Twoja strona internetowa to Twoja cyfrowa wizytówka, pozwalająca na budowanie i promowanie marki. Jasny design i przyciągające treści pomagają w kreowaniu pozytywnego wizerunku firmy."
       },
       "4": {
@@ -29,40 +29,40 @@
       },
       "6": {
         "title": "Globalna obecność:",
-        "_description": "Twoja strona internetowa umożliwia analizę ruchu online, co pomaga w dostosowywaniu strategii marketingowej i lepszym zrozumieniu potrzeb klientów w Gliwicach."
+        "_description": "Twoja strona internetowa umożliwia analizę ruchu online, co pomaga w dostosowywaniu strategii marketingowej i lepszym zrozumieniu potrzeb klientów."
       }
     },
-    "_summary": "Posiadanie strony internetowej w Gliwicach to kluczowy element strategii biznesowej. W epoce cyfrowej, strona www jest niezbędnym narzędziem dla każdej firmy, wpływającym na zasięg, widoczność i skuteczność."
+    "_summary": "Posiadanie strony internetowej to kluczowy element strategii biznesowej. W epoce cyfrowej, strona www jest niezbędnym narzędziem dla każdej firmy, wpływającym na zasięg, widoczność i skuteczność."
   },
   "dontWorry": {
     "_title": "Nie martw się o nic, zadbamy o wszystko od A do Ż - Strony Internetowe Gliwice",
     "_description": "👨‍💻🔊 Jako przedsiębiorca w Gliwicach nie musisz być ekspertem od projektowania stron czy pisania treści. Dostarcz nam swoje materiały lub zgłoś potrzebę prostej strony, a resztę wykonamy za Ciebie.",
     "steps": {
       "1": {
-        "_description": "🤝 Wspólnie ustalimy strukturę i styl Twojej strony, aby najlepiej odpowiadała celom Twojej firmy w Gliwicach."
+        "_description": "🤝 Wspólnie ustalimy strukturę i styl Twojej strony, aby najlepiej odpowiadała celom Twojej firmy."
       },
       "2": {
         "_description": "📝 Stworzymy treści skoncentrowane na maksymalizacji sprzedaży Twoich produktów lub usług."
       },
       "3": {
-        "_description": "✅ Zaprojektujemy Twoją stronę, aby dokładnie odzwierciedlała charakter Twojej marki i przyciągała klientów w Gliwicach."
+        "_description": "✅ Zaprojektujemy Twoją stronę, aby dokładnie odzwierciedlała charakter Twojej marki i przyciągała klientów."
       }
     }
   },
   "chooseUs": {
     "_title": "Mały krok dla nas, wielki skok dla Twojej firmy w Gliwicach",
-    "_description1": "🤔 Czy wiesz, że profesjonalnie zaprojektowana strona internetowa może znacząco poprawić wizerunek Twojej firmy w Gliwicach? Przejrzysta i łatwo dostępna witryna to coś, co klienci cenią.",
+    "_description1": "🤔 Czy wiesz, że profesjonalnie zaprojektowana strona internetowa może znacząco poprawić wizerunek Twojej firmy? Przejrzysta i łatwo dostępna witryna to coś, co klienci cenią.",
     "_description2": "🚀 'Wyróżnij się albo zgiń!' Efektowna strona przyciągnie uwagę klientów przeglądających wiele witryn, zwiększając szanse na to, że Twoja strona zostanie zapamiętana i odwiedzona ponownie.",
-    "_description3": "👌💻 Sprawna i dobrze funkcjonująca strona w połączeniu z pozytywnymi opiniami klientów buduje trwałą reputację Twojej firmy w Gliwicach.",
+    "_description3": "👌💻 Sprawna i dobrze funkcjonująca strona w połączeniu z pozytywnymi opiniami klientów buduje trwałą reputację Twojej firmy.",
     "_description4": "✨📄 Starannie opracowane treści przekonają więcej potencjalnych klientów do wyboru Twoich usług lub produktów."
   },
   "priceBegin": {
-    "title": "Za 0 zł wykonamy wizualny projekt strony i wdrożymy go odpłatnie tylko jeśli spełni Twoje wymagania - Strony Internetowe Gliwice"
+    "title": "Za 0 zł wykonamy wizualny projekt strony i wdrożymy go odpłatnie tylko jeśli spełni Twoje wymagania"
   },
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Nie musisz dostarczać gotowego projektu. Z przyjemnością doradzimy i zaproponujemy najlepsze rozwiązania dla Twojej firmy w Gliwicach."
+        "_description": "Nie musisz dostarczać gotowego projektu. Z przyjemnością doradzimy i zaproponujemy najlepsze rozwiązania dla Twojej firmy."
       },
       "2": {
         "_description": "Twoja strona będzie estetycznie przyciągać wzrok klientów, zachęcając ich do zapoznania się z Twoją ofertą."
@@ -79,7 +79,7 @@
     }
   },
   "takingLook": {
-    "subTitle1": "Zależy nam na Twoim zadowoleniu w Gliwicach",
+    "subTitle1": "Zależy nam na Twoim zadowoleniu",
     "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii w Google z oceną 5.0, dlatego nigdy nie oddamy projektu, który nie spełnia naszych wysokich standardów.",
     "subTitle2": "Zapewniamy wsparcie",
     "_subDescription2": "😉 Zawsze jesteśmy gotowi na wprowadzenie dodatkowych modyfikacji do już istniejącej strony. Po wykonaniu projektu pozostajemy do Twojej dyspozycji."
@@ -110,7 +110,7 @@
   },
   "informations": {
     "_title": "Jakie informacje warto umieścić na firmowej stronie w Gliwicach?",
-    "_description": "Firmowa strona internetowa powinna zawierać różnorodne informacje, aby dostarczyć potencjalnym klientom i partnerom biznesowym pełnych danych o Twojej firmie w Gliwicach. Oto ważne elementy do uwzględnienia:",
+    "_description": "Firmowa strona internetowa powinna zawierać różnorodne informacje, aby dostarczyć potencjalnym klientom i partnerom biznesowym pełnych danych o Twojej firmie. Oto ważne elementy do uwzględnienia:",
     "items": {
       "1": {
         "_subTitle": "Strona Główna:",
@@ -156,7 +156,7 @@
   },
   "characters": {
     "_title": "Cechy dobrej strony www - strony internetowe Gliwice",
-    "_description": "Dobra strona internetowa w Gliwicach powinna wykazywać się szeregiem cech, które zapewnią użytkownikom pozytywne doświadczenia i efektywność komunikacji. Oto niektóre z nich:",
+    "_description": "Dobra strona internetowa powinna wykazywać się szeregiem cech, które zapewnią użytkownikom pozytywne doświadczenia i efektywność komunikacji. Oto niektóre z nich:",
     "items": {
       "1": {
         "_subTitle": "Przekonujące treści",
@@ -230,7 +230,7 @@
   },
   "intuition": {
     "_title": "Strony Internetowe Gliwice - dlaczego ważna jest intuicyjność strony?",
-    "_description": "Intuicyjność strony internetowej ma kluczowe znaczenie dla pozytywnych doświadczeń użytkowników. Prosta nawigacja po stronie pozwala użytkownikom z Gliwic łatwo znaleźć potrzebne informacje, zwiększając satysfakcję i skuteczność interakcji. Intuicyjna strona zachęca do dłuższego przeglądania, co przekłada się na większe zaangażowanie i potencjalnie lepsze wyniki konwersji. Ponadto, strona przyjazna dla użytkownika buduje pozytywny wizerunek marki, demonstrując profesjonalizm i troskę o potrzeby klientów."
+    "_description": "Intuicyjność strony internetowej ma kluczowe znaczenie dla pozytywnych doświadczeń użytkowników. Prosta nawigacja po stronie pozwala użytkownikom łatwo znaleźć potrzebne informacje, zwiększając satysfakcję i skuteczność interakcji. Intuicyjna strona zachęca do dłuższego przeglądania, co przekłada się na większe zaangażowanie i potencjalnie lepsze wyniki konwersji. Ponadto, strona przyjazna dla użytkownika buduje pozytywny wizerunek marki, demonstrując profesjonalizm i troskę o potrzeby klientów."
   }
 }
           
