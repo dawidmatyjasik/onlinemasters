@@ -1,15 +1,15 @@
 {
     "hero": {
       "title": "Strony Internetowe Bielsko-Biała",
-      "_description": "Strony Internetowe Bielsko-Biała zaprojektowane, by wzmocnić Twoją obecność w sieci i efektywnie sprzedawać usługi. Profesjonalnie zaprezentuj swoją działalność w internecie i zdobądź nowych klientów w Bielsku-Białej! 💻"
+      "_description": "Strony Internetowe Bielsko-Biała zaprojektowane, by wzmocnić Twoją obecność w sieci i efektywnie sprzedawać usługi. Profesjonalnie zaprezentuj swoją działalność w internecie i zdobądź nowych klientów! 💻"
     },
     "whyUs": {
       "title": "Strony Internetowe Bielsko-Biała - dlaczego warto mieć stronę www?",
-      "_description": "Posiadanie własnej strony internetowej w Bielsku-Białej jest dzisiaj niezbędne dla każdego przedsiębiorstwa. To klucz do sukcesu w nowoczesnym świecie cyfrowym, otwierający wiele możliwości na lokalnym rynku.",
+      "_description": "Posiadanie własnej strony internetowej jest dzisiaj niezbędne dla każdego przedsiębiorstwa. To klucz do sukcesu w nowoczesnym świecie cyfrowym, otwierający wiele możliwości na lokalnym rynku.",
       "tiles": {
         "1": {
           "title": "Konkurencyjność na rynku:",
-          "_description": "Strona internetowa to standard w wielu branżach w Bielsku-Białej. Pozwala na skuteczne konkurowanie o uwagę klientów, którzy coraz częściej poszukują usług i produktów online."
+          "_description": "Strona internetowa to standard w wielu branżach. Pozwala na skuteczne konkurowanie o uwagę klientów, którzy coraz częściej poszukują usług i produktów online."
         },
         "2": {
           "title": "Dostępność 24/7:",
@@ -29,14 +29,14 @@
         },
         "6": {
           "title": "Globalna obecność:",
-          "_description": "Strona internetowa to szansa na dotarcie do klientów poza granicami Bielska-Białej, co może znacząco zwiększyć Twoją bazę klientów."
+          "_description": "Strona internetowa to szansa na dotarcie do klientów poza granicami Bielska, co może znacząco zwiększyć Twoją bazę klientów."
         }
       },
-      "_summary": "Podsumowując, strona internetowa to kluczowy element strategii marketingowej każdej firmy w Bielsku-Białej, umożliwiający rozszerzenie zasięgu i zwiększenie widoczności na rynku."
+      "_summary": "Podsumowując, strona internetowa to kluczowy element strategii marketingowej każdej firmy, umożliwiający rozszerzenie zasięgu i zwiększenie widoczności na rynku."
     },
     "dontWorry": {
       "_title": "Zadbamy o wszystko - Strony Internetowe Bielsko-Biała",
-      "_description": "Nie musisz być ekspertem w dziedzinie tworzenia stron internetowych. Zajmiemy się wszystkim za Ciebie, tworząc stronę, która idealnie odpowiada potrzebom Twojej firmy w Bielsku-Białej.",
+      "_description": "Nie musisz być ekspertem w dziedzinie tworzenia stron internetowych. Zajmiemy się wszystkim za Ciebie, tworząc stronę, która idealnie odpowiada potrzebom Twojej firmy.",
       "steps": {
         "1": {
           "_description": "Wspólnie zaprojektujemy stronę, która będzie odpowiadać Twoim celom biznesowym i estetycznym."
@@ -50,14 +50,14 @@
       }
     },
       "chooseUs": {
-        "_title": "Wybierz naszą ofertę dla Twojej firmy w Bielsku-Białej",
+        "_title": "Wybierz naszą ofertę dla Twojej firmy",
         "_description1": "Doskonale zaprojektowana strona internetowa to klucz do zwiększenia rozpoznawalności i zaufania do Twojej marki w Bielsku-Białej.",
         "_description2": "Stworzymy dla Ciebie stronę, która nie tylko przyciągnie uwagę, ale także przekona potencjalnych klientów do wybrania Twojej oferty.",
         "_description3": "Zadbamy o każdy szczegół, od projektu graficznego po optymalizację SEO, aby Twoja strona była nie tylko estetyczna, ale i funkcjonalna.",
         "_description4": "Nasze profesjonalne podejście i doświadczenie zapewnią Ci stronę, która będzie wyróżniać się na tle konkurencji."
       },
       "priceBegin": {
-        "title": "Za 0 zł przygotujemy projekt Twojej strony, realizacja będzie odpłatna tylko w przypadku Twojej akceptacji - Strony Internetowe Bielsko-Biała"
+        "title": "Za 0 zł przygotujemy projekt Twojej strony, wdrożymy go odpłatnie tylko jeśli Ci się spodoba"
       },
       "whatGot": {
         "cards": {
@@ -230,6 +230,6 @@
       },
       "intuition": {
         "_title": "Strony Internetowe Bielsko-Biała - Dlaczego intuicyjność jest kluczowa?",
-        "_description": "Intuicyjność strony internetowej jest kluczowa, szczególnie w kontekście zapewnienia łatwego dostępu do informacji dla użytkowników z Bielska-Białej. Umożliwia to lepsze doświadczenia użytkownika, skraca czas na znalezienie potrzebnych informacji i zwiększa prawdopodobieństwo powrotu na stronę."
+        "_description": "Intuicyjność strony internetowej jest kluczowa, szczególnie w kontekście zapewnienia łatwego dostępu do informacji dla użytkowników. Umożliwia to lepsze doświadczenia użytkownika, skraca czas na znalezienie potrzebnych informacji i zwiększa prawdopodobieństwo powrotu na stronę."
       }
     }
