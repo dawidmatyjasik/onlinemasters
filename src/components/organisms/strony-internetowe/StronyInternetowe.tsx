@@ -1,10 +1,10 @@
 import React from 'react';
 
+import { Gallery } from 'components/molecules/gallery/Gallery';
 import { Characters } from 'components/strony-internetowe/characters/Characters';
 import { ChooseUs } from 'components/strony-internetowe/choose-us/ChooseUs';
 import { DontWorry } from 'components/strony-internetowe/dont-worry/DontWorry';
 import { FreeStaff } from 'components/strony-internetowe/free-staff/FreeStaff';
-import Gallery from 'components/strony-internetowe/gallery/Gallery';
 import { GetProject } from 'components/strony-internetowe/get-project/GetProject';
 import { Hero } from 'components/strony-internetowe/hero/Hero';
 import { Informations } from 'components/strony-internetowe/informations/Informations';

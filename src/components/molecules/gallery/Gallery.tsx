@@ -7,7 +7,7 @@ import { Container } from 'components/atoms/container/Container';
 import { Divider } from 'components/atoms/divider/Divider';
 import { Text } from 'components/atoms/text/Text';
 
-const Gallery = async () => {
+export const Gallery = async () => {
   const { t } = await useTranslation('gallery');
   return (
     <section className="flex flex-col gap-12">
@@ -19,5 +19,3 @@ const Gallery = async () => {
     </section>
   );
 };
-
-export default Gallery;
