@@ -1,0 +1,234 @@
+{
+    "hero": {
+      "title": "Strony Internetowe Dąbrowa Górnicza",
+      "_description": "Strony Internetowe Dąbrowa Górnicza stworzone, aby wzmacniać wizerunek online i efektywnie promować Twoje usługi. Profesjonalnie prezentuj swoją działalność w sieci i zdobywaj nowych klientów! 💻"
+    },
+    "whyUs": {
+      "title": "Strony Internetowe Dąbrowa Górnicza - dlaczego warto posiadać stronę www?",
+      "_description": "Dla przedsiębiorców w Dąbrowie Górniczej, posiadanie strony internetowej jest kluczowe. W dzisiejszym dynamicznym środowisku biznesowym i społecznym, internet jest niezbędną częścią codzienności, a strona www oferuje wiele korzyści.",
+      "tiles": {
+        "1": {
+          "title": "Konkurencyjność na rynku:",
+          "_description": "W Dąbrowie Górniczej, strona internetowa jest standardem w wielu branżach. Firma bez strony może tracić klientów, którzy poszukują usług i produktów online."
+        },
+        "2": {
+          "title": "Dostępność 24/7:",
+          "_description": "Strona internetowa umożliwia dostęp do Twojej oferty przez całą dobę, co jest kluczowe w dzisiejszych czasach, pozwalając klientom z Dąbrowy Górniczej na zapoznanie się z Twoją ofertą o każdej porze."
+        },
+        "3": {
+          "title": "Budowanie marki:",
+          "_description": "Strona internetowa to wirtualna wizytówka Twojej firmy, pozwalająca na budowanie i promowanie Twojej marki w Dąbrowie Górniczej. Atrakcyjny design i treści przyczyniają się do pozytywnego wizerunku."
+        },
+        "4": {
+          "title": "Komunikacja z klientami:",
+          "_description": "Strona internetowa ułatwia utrzymanie stałego kontaktu z klientami, informując ich o nowościach, promocjach i zmianach w ofercie."
+        },
+        "5": {
+          "title": "Rozwój sprzedaży online:",
+          "_description": "Strona internetowa jest niezbędna dla rozwoju e-commerce w Dąbrowie Górniczej, umożliwiając dotarcie do szerszego grona klientów."
+        },
+        "6": {
+          "title": "Globalna obecność:",
+          "_description": "Dzięki stronie internetowej, Twoja firma z Dąbrowy Górniczej może dotrzeć do klientów na całym świecie, zwiększając zasięg biznesu."
+        }
+      },
+      "_summary": "Podsumowując, strona internetowa to kluczowy element strategii biznesowej dla każdej firmy w Dąbrowie Górniczej. W epoce cyfrowej, strona www jest nieodzownym narzędziem, wpływającym na zasięg, widoczność i efektywność."
+    },
+    "dontWorry": {
+      "_title": "Zadbamy o wszystko - Strony Internetowe Dąbrowa Górnicza",
+      "_description": "👨‍💻🔊 Jako przedsiębiorca w Dąbrowie Górniczej, nie musisz być ekspertem od projektowania stron czy pisania treści. Dostarcz nam swoje materiały lub zgłoś potrzebę prostej strony, a my zajmiemy się resztą.",
+      "steps": {
+        "1": {
+          "_description": "🤝 Wspólnie ustalimy strukturę i styl Twojej strony, aby najlepiej odpowiadała celom Twojej firmy."
+        },
+        "2": {
+          "_description": "📝 Stworzymy treści skoncentrowane na maksymalizacji sprzedaży Twoich produktów lub usług."
+        },
+        "3": {
+          "_description": "✅ Zaprojektujemy Twoją stronę, aby dokładnie odzwierciedlała charakter Twojej marki i przyciągała klientów."
+        }
+      }
+    },
+    "chooseUs": {
+      "_title": "Mały krok dla nas, wielki skok dla Twojej firmy w Dąbrowie Górniczej",
+      "_description1": "🤔 Czy wiesz, że profesjonalnie zaprojektowana strona internetowa może znacząco poprawić wizerunek Twojej firmy? Przejrzysta i łatwo dostępna witryna to coś, co klienci cenią.",
+      "_description2": "🚀 'Wyróżnij się albo zgiń!' Efektowna strona przyciągnie uwagę klientów przeglądających wiele witryn, zwiększając szanse na to, że Twoja strona zostanie zapamiętana i odwiedzona ponownie.",
+      "_description3": "👌💻 Sprawna i dobrze funkcjonująca strona w połączeniu z pozytywnymi opiniami klientów buduje trwałą reputację Twojej firmy.",
+      "_description4": "✨📄 Starannie opracowane treści przekonają więcej potencjalnych klientów do wyboru Twoich usług lub produktów."
+    },
+    "priceBegin": {
+      "title": "Za 0 zł przygotujemy wizualny projekt strony głównej i tylko jeśli Ci się spodoba, wykonamy całą stronę odpłatnie"
+    },
+    "whatGot": {
+      "cards": {
+        "1": {
+          "_description": "Nie musisz dostarczać gotowego projektu. Z przyjemnością doradzimy i zaproponujemy najlepsze rozwiązania dla Twojej firmy."
+        },
+        "2": {
+          "_description": "Twoja strona będzie estetycznie przyciągać wzrok klientów, zachęcając ich do zapoznania się z Twoją ofertą."
+        },
+        "3": {
+          "_description": "Jeżeli nie chcesz samodzielnie zajmować się tworzeniem treści, nasz zespół przygotuje angażujące i przekonujące teksty dla Twojej strony."
+        },
+        "4": {
+          "_description": "Twoja strona będzie wyświetlała się poprawnie na wszystkich urządzeniach, od komputerów po smartfony. 🖥️📱"
+        },
+        "5": {
+          "_description": "Jesteśmy do Twojej dyspozycji nawet po zakończeniu projektu, oferując ciągłe wsparcie techniczne i merytoryczne."
+        }
+      }
+    },
+    "takingLook": {
+      "subTitle1": "Zależy nam na Twoim zadowoleniu",
+      "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii w Google z oceną 5.0, dlatego nigdy nie oddamy projektu, który nie spełnia naszych wysokich standardów.",
+      "subTitle2": "Zapewniamy wsparcie",
+      "_subDescription2": "😉 Zawsze jesteśmy gotowi na wprowadzenie dodatkowych modyfikacji do już istniejącej strony. Po wykonaniu projektu pozostajemy do Twojej dyspozycji."
+    },
+    "gallery": {
+      "_title": "Strony Internetowe Dąbrowa Górnicza - Nasza pasja i doświadczenie"
+    },
+    "pageCosts": {
+      "_title": "Strony Internetowe Dąbrowa Górnicza - ile kosztuje utrzymanie strony www?",
+      "_description": "Koszty utrzymania strony internetowej w Dąbrowie Górniczej dzielą się na podstawowe i dodatkowe, które są niezbędne do jej efektywnego funkcjonowania.",
+      "cards": {
+        "1": {
+          "title": "Koszty niezbędne",
+          "subTitle1": "Hosting",
+          "_subDescription1": "Hosting jest podstawowym elementem każdej strony internetowej, zapewniając jej widoczność w sieci. Koszty hostingu zależą od potrzeb i skali strony.",
+          "subTitle2": "Domena",
+          "_subDescription2": "Domena to Twój adres internetowy. Ceny domen mogą się różnić, w zależności od ich rodzaju i popularności."
+        },
+        "2": {
+          "title": "Koszty dodatkowe",
+          "subTitle1": "Opieka nad stroną",
+          "_subDescription1": "Obejmuje bieżące aktualizacje, tworzenie kopii zapasowych, usuwanie błędów oraz monitorowanie bezpieczeństwa i szybkości strony. Koszty mogą wzrosnąć w zależności od złożoności strony.",
+          "subTitle2": "Wprowadzanie zmian",
+          "_subDescription2": "Zmiany na stronie można realizować samodzielnie lub zlecić specjalistom. Może to być częścią dodatkowego pakietu opieki."
+        }
+      },
+      "_summary": "Podsumowując, utrzymanie strony internetowej w Dąbrowie Górniczej wiąże się z kosztami zarówno podstawowymi, jak hosting i domena, jak i dodatkowymi, związanymi z bieżącą opieką nad stroną."
+    },
+    "informations": {
+      "_title": "Jakie informacje warto umieścić na firmowej stronie w Dąbrowie Górniczej?",
+      "_description": "Firmowa strona internetowa powinna zawierać ważne informacje, które pomogą klientom i partnerom biznesowym zrozumieć Twoją działalność i ofertę. Oto kluczowe elementy do uwzględnienia:",
+      "items": {
+        "1": {
+          "_subTitle": "Strona Główna:",
+          "_subDescription1": "Krótka prezentacja Twojej firmy, ukazująca główne atuty i unikalność.",
+          "_subDescription2": "Design przyciągający uwagę, zachęcający do dalszego poznawania witryny."
+        },
+        "2": {
+          "_subTitle": "O Nas:",
+          "_subDescription1": "Informacje o historii firmy, jej wartościach i misji.",
+          "_subDescription2": "Przedstawienie zespołu oraz ich doświadczenia i umiejętności."
+        },
+        "3": {
+          "_subTitle": "Usługi/Produkty:",
+          "_subDescription1": "Szczegółowy opis oferowanych usług lub produktów, podkreślający ich korzyści dla klientów."
+        },
+        "4": {
+          "_subTitle": "Kontakt:",
+          "_subDescription1": "Kompletne dane kontaktowe, ułatwiające szybki kontakt z Twoją firmą.",
+          "_subDescription2": "Formularz kontaktowy dla łatwej komunikacji z klientami."
+        },
+        "5": {
+          "_subTitle": "Referencje/Opinie:",
+          "_subDescription1": "Recenzje i opinie od zadowolonych klientów, świadczące o jakości i efektywności Twoich usług."
+        },
+        "6": {
+            "_subTitle": "Blog/Artykuły:",
+            "_subDescription1": "Sekcja z artykułami branżowymi i aktualnościami dotyczącymi Twojej firmy."
+          },
+          "7": {
+            "_subTitle": "FAQ (Najczęstsze Pytania):",
+            "_subDescription1": "Sekcja zawierająca odpowiedzi na najczęściej zadawane pytania, pomagająca wyjaśnić wątpliwości klientów."
+          },
+          "8": {
+            "_subTitle": "Galeria/Zdjęcia:",
+            "_subDescription1": "Zdjęcia przedstawiające zespół, biuro, realizowane projekty itp., które pokazują firmę od środka."
+          },
+          "9": {
+            "_subTitle": "Linki do Mediów Społecznościowych:",
+            "_subDescription1": "Linki do profilów Twojej firmy na różnych platformach społecznościowych, ułatwiające nawiązanie kontaktu."
+          }
+      }
+    },
+    "characters": {
+      "_title": "Cechy dobrej strony www - Strony Internetowe Dąbrowa Górnicza",
+      "_description": "Dobra strona internetowa powinna posiadać szereg cech, które przyczyniają się do pozytywnego doświadczenia użytkownika i skutecznej komunikacji. Oto kilka z nich:",
+      "items": {
+      "1": {
+        "_subTitle": "Przekonujące treści",
+        "_subDescription": "Treści, które efektywnie przekonują potencjalnych klientów do korzystania z Twoich usług lub produktów."
+      },
+      "2": {
+        "_subTitle": "Responsywność",
+        "_subDescription": "Strona dostosowana do różnych urządzeń, zapewniająca komfortowe korzystanie zarówno na komputerach, jak i urządzeniach mobilnych."
+      },
+      "3": {
+        "_subTitle": "Intuicyjna Nawigacja",
+        "_subDescription": "Łatwa nawigacja, umożliwiająca szybkie dotarcie do potrzebnych informacji, co jest kluczowe dla poprawy wrażeń użytkownika."
+      },
+      "4": {
+        "_subTitle": "Estetyczny Design",
+        "_subDescription": "Przyciągający wzrok design, który odzwierciedla tożsamość Twojej marki i wyróżnia się na tle konkurencji."
+      },
+      "5": {
+        "_subTitle": "Szybkość Ładowania",
+        "_subDescription": "Optymalizacja strony pod kątem szybkości ładowania, aby zminimalizować czas oczekiwania użytkowników."
+      },
+      "6": {
+        "_subTitle": "Bezpieczeństwo",
+        "_subDescription": "Wykorzystanie najnowszych technologii zabezpieczających, w tym certyfikatu SSL, do ochrony danych użytkowników."
+      },
+      "7": {
+        "_subTitle": "Clear Call-to-Action (CTA)",
+        "_subDescription": "Wyraźne i motywujące do działania przyciski i linki, kierujące użytkowników do konkretnych akcji, takich jak zakup produktu lub kontakt."
+    },
+    "8": {
+      "_subTitle": "Spójność Treści",
+      "_subDescription": "konsekwencja i spójność treści na stronie, aby ułatwić zrozumienie informacji."
+    },
+    "9": {
+      "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
+      "_subDescription": "optymalizacja treści i struktury strony, aby poprawić jej widoczność w wynikach wyszukiwania."
+    },
+    "10": {
+      "_subTitle": "Formularze Kontaktowe",
+      "_subDescription": "formularze kontaktowe i/lub zgłoszeniowe dla łatwej interakcji z użytkownikami."
+    },
+    "11": {
+      "_subTitle": "Analiza Danych",
+      "_subDescription": "zintegrowane narzędzia analityczne, takie jak Google Analytics, do śledzenia ruchu i analizy zachowań użytkowników."
+    },
+    "12": {
+      "_subTitle": "Aktualne Informacje",
+      "_subDescription": "regularnie aktualizowane treści i informacje na stronie, aby utrzymać ją na bieżąco."
+    },
+    "13": {
+      "_subTitle": "Zgodność Z Standardami",
+      "_subDescription": "zgodność z aktualnymi standardami internetowymi i przeglądarkami internetowymi."
+    },
+    "14": {
+      "_subTitle": "Działające Linki",
+      "_subDescription": "sprawdzenie, czy wszystkie linki na stronie są aktywne i prowadzą do odpowiednich miejsc."
+    },
+    "15": {
+      "_subTitle": "Forma i Funkcja",
+      "_subDescription": "połączenie estetyki z funkcjonalnością, tak aby strona była atrakcyjna wizualnie i jednocześnie użyteczna."
+    },
+    "16": {
+      "_subTitle": "Dobrze Zorganizowana Struktura",
+      "_subDescription": "jasna struktura strony, z łatwo dostępnymi sekcjami i podstronami."
+    },
+    "17": {
+      "_subTitle": "Zgodność Z Prawem",
+      "_subDescription": "zgodność z obowiązującymi przepisami prawnymi, w tym polityką prywatności i warunkami korzystania."
+    }
+    }
+  },
+  "intuition": {
+    "_title": "Strony Internetowe Dąbrowa Górnicza - Dlaczego intuicyjność jest kluczowa?",
+    "_description": "Intuicyjność strony internetowej jest niezwykle ważna dla zapewnienia pozytywnych doświadczeń użytkowników. Prosta nawigacja ułatwia szybkie znalezienie potrzebnych informacji, co zwiększa satysfakcję i skuteczność interakcji z witryną."
+  }
+}
