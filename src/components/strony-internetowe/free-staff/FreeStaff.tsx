@@ -10,7 +10,7 @@ export const FreeStaff = () => (
     className="flex h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat"
     style={{
       backgroundPosition: 'top center',
-      backgroundImage: `url(/strony-internetowe/free-staff/Widoki-na-onlinemasters.webp)`,
+      backgroundImage: `url(/strony-internetowe/free-staff/darmowe-rzeczy.webp)`,
     }}>
     <div
       className="flex h-full w-full  items-center justify-center"

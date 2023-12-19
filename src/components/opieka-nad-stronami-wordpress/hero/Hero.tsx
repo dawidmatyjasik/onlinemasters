@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { ChevronDown } from 'lucide-react';
-import Link from 'next/link';
 
 import { GoogleRating } from './components/googleRating/GoogleRating';
 import { MainImages } from './components/mainImages/MainImages';
@@ -30,11 +29,11 @@ export const Hero = async () => {
           </Text>
           <Text>{t('_description')}</Text>
           <section className="flex flex-col gap-6 md:flex-row">
-            <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="w-fit">
+            <a href="#cennik">
               <Button size="md" variant="primary" iconStart={<ChevronDown />}>
                 Zobacz cennik
               </Button>
-            </Link>
+            </a>
             <GoogleRating />
           </section>
           <Line />

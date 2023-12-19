@@ -1,10 +1,10 @@
 import React from 'react';
 
+import { WhatGotCard } from './components/WhatGotCard';
 import { WhatGotCards } from './components/WhatGotCards';
 
 import { Container } from 'components/atoms/container/Container';
 import { Text } from 'components/atoms/text/Text';
-import { WhatGotCard } from 'components/molecules/what-got/components/WhatGotCard';
 
 const WHAT_GOT_STRUCTURE = [
   { src: '/svg/support-svgrepo-com.svg', title: 'Aktualizacje', description: '1._description' },

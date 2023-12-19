@@ -10,15 +10,15 @@ import { Link } from 'components/atoms/link/Link';
 export const TakingLook = () => (
   <Container>
     <section className="flex gap-10">
-      <article className="hidden flex-col gap-2 lg:flex ">
+      <article className="hidden flex-[1] flex-col justify-center gap-2 lg:flex">
         <Image
-          src="/images/taking-look/taking-look.webp"
+          src="/opieka/taking-look/przygladamy-sie.webp"
           alt="Przyglądamy się Online Masters"
           width={520}
           height={770}
-          className="rounded-3xl "
+          className="rounded-3xl"
         />
-        <div className="flex flex-wrap gap-1.5">
+        <div className="flex gap-1.5">
           <Link href="https://onlinemasters.pl" className="flex h-[48px] w-fit items-center font-semibold">
             #OnlineMasters
           </Link>

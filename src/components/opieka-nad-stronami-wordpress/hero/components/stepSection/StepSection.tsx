@@ -13,19 +13,19 @@ export const StepSection = () => {
   const stepsArray: StepType[] = [
     {
       id: 1,
-      icon: '/svg/website-theme-svgrepo-com.svg',
+      icon: '/svg/settings-cogwheel-svgrepo-com.svg',
       description: 'Dopilnujemy, aby strona działała bezbłędnie',
       alt: 'Działająca strona ikonka',
     },
     {
       id: 2,
-      icon: '/svg/website-seo-promotion-svgrepo-com.svg',
+      icon: '/svg/security-svgrepo-com.svg',
       description: 'Zatroszczymy się o bezpieczeństwo strony',
       alt: 'Bezpieczeństwo strony ikonka',
     },
     {
       id: 3,
-      icon: '/svg/website-seo-marketing-hitting-the-bullseye-svgrepo-com.svg',
+      icon: '/svg/page-svgrepo-com.svg',
       description: 'Dopilnujemy, aby strona działała bezbłędnie',
       alt: 'Aktualizowanie strony ikonka',
     },

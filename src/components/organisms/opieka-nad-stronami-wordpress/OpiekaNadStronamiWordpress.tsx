@@ -1,10 +1,10 @@
 import React from 'react';
 
+import { Gallery } from 'components/molecules/gallery/Gallery';
 import { Backups } from 'components/opieka-nad-stronami-wordpress/backups/Backups';
 import { Characters } from 'components/opieka-nad-stronami-wordpress/characters/Characters';
 import { ChooseUs } from 'components/opieka-nad-stronami-wordpress/choose-us/ChooseUs';
 import { DontWorry } from 'components/opieka-nad-stronami-wordpress/dont-worry/DontWorry';
-import Gallery from 'components/opieka-nad-stronami-wordpress/gallery/Gallery';
 import { Hero } from 'components/opieka-nad-stronami-wordpress/hero/Hero';
 import { PriceBegin } from 'components/opieka-nad-stronami-wordpress/price-begin/PriceBegin';
 import { PriceList } from 'components/opieka-nad-stronami-wordpress/price-list/PriceList';
