@@ -74,6 +74,9 @@ module.exports = {
       body: ['var(--font-poppins)'],
     },
     extend: {
+      flex: {
+        full: '1 1 100%',
+      },
       colors: {
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',

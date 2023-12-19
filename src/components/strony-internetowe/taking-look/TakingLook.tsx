@@ -12,7 +12,7 @@ export const TakingLook = () => (
     <section className="flex gap-10">
       <article className="hidden flex-col gap-2 lg:flex ">
         <Image
-          src="/images/taking-look/taking-look.webp"
+          src="/strony-internetowe/taking-look/przygladamy-sie.webp"
           alt="Przyglądamy się Online Masters"
           width={520}
           height={770}

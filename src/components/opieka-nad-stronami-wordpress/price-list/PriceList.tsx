@@ -84,7 +84,7 @@ export const PRICE_LIST_STRUCTURE: PriceListStructure[] = [
 
 export const PriceList = () => (
   <Container>
-    <section className="flex flex-col gap-8">
+    <section className="mx-auto flex max-w-[900px] flex-col gap-8">
       <article className="grid grid-cols-1 grid-rows-1 gap-5 lg:grid-cols-2">
         {PRICE_LIST_STRUCTURE.map(({ title, description, price, features }) => (
           <PriceListItem key={title} title={title} description={description} price={price} features={features} />

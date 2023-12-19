@@ -10,8 +10,8 @@ export const ChooseUs = () => (
   <Container>
     <section className="flex items-center gap-20">
       <Image
-        src="/images/choose-us/strony-www-katowice.webp"
-        alt="Strony www katowice - Online Masters"
+        src="/opieka/choose-us/wybierz-nas.webp"
+        alt="Opieka nad stronami wordpress  - Online Masters"
         width={425}
         height={640}
         className="hidden rounded-2xl lg:block"

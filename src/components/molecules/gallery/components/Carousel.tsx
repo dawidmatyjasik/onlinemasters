@@ -37,7 +37,7 @@ const CAROUSEL_STRUCTURE = [
 ];
 
 export const Carousel = () => (
-  <article className="w-screen">
+  <article className="w-screen" id="cennik">
     <Swiper
       spaceBetween={40}
       autoplay={{ delay: 2000 }}

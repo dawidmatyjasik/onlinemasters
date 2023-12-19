@@ -4,7 +4,6 @@ import { ChevronRight } from 'lucide-react';
 
 import { useTranslation } from 'app/i18n';
 import { Container } from 'components/atoms/container/Container';
-import { Link } from 'components/atoms/link/Link';
 import { Text } from 'components/atoms/text/Text';
 import { Button } from 'components/ui/button';
 
@@ -27,11 +26,11 @@ export const PriceBegin = async () => {
             <Text className="text-center" color="white" as="h2">
               {t('title')}
             </Text>
-            <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
+            <a href="#cennik" className="mx-auto w-fit">
               <Button size="lg" variant="secondary" className="mx-auto w-[400px]" iconStart={<ChevronRight />}>
                 Zobacz cennik
               </Button>
-            </Link>
+            </a>
           </div>
         </Container>
       </div>
