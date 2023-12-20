@@ -6,7 +6,7 @@ import { getCityData, useRedirect } from 'utils/getCityData';
 import type { Metadata } from 'next';
 
 export async function generateStaticParams() {
-  const fileNames = getCityData('strony-internetowe');
+  const fileNames = await getCityData('strony-internetowe');
   return fileNames;
 }
 
@@ -30,6 +30,6 @@ export async function generateMetadata({ params }: { params: { city: string } })
 }
 
 export default async function Page({ params }: { params: { city: string } }) {
-  useRedirect('strony-internetowe', params.city);
+  await useRedirect('strony-internetowe', params.city);
   return <StronyInternetowe />;
 }
