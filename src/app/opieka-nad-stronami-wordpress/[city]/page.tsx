@@ -6,7 +6,7 @@ import { getCityData, useRedirect } from 'utils/getCityData';
 import type { Metadata } from 'next';
 
 export async function generateStaticParams() {
-  const fileNames = await getCityData('opieka-nad-stronami-wordpress');
+  const fileNames = getCityData('opieka-nad-stronami-wordpress');
   return fileNames;
 }
 
