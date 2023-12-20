@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { StronyInternetowe } from 'components/organisms/strony-internetowe/StronyInternetowe';
-import { getCityData } from 'utils/getCityData';
+import { getCityData, useRedirect } from 'utils/getCityData';
 
 import type { Metadata } from 'next';
 
@@ -30,7 +30,6 @@ export async function generateMetadata({ params }: { params: { city: string } })
 }
 
 export default async function Page({ params }: { params: { city: string } }) {
-  console.log(params);
-  // useRedirect('strony-internetowe', params.city);
+  useRedirect('strony-internetowe', params.city);
   return <StronyInternetowe />;
 }

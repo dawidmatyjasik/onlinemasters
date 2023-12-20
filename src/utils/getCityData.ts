@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 
+import { permanentRedirect } from 'next/navigation';
+
 // import { permanentRedirect } from 'next/navigation';
 
 type Service = 'strony-internetowe' | 'opieka-nad-stronami-wordpress';
@@ -19,10 +21,7 @@ export const getCityData = (service: Service) => {
 export const useRedirect = (service: Service, city: string) => {
   const fileNames = getCityData(service);
 
-  console.log(service, city);
-  console.log(fileNames);
-
-  // if (!fileNames.some((file) => file.city === city)) {
-  // permanentRedirect('https://onlinemasters.pl/');
-  // }
+  if (!fileNames.some((file) => file.city === city)) {
+    permanentRedirect('https://onlinemasters.pl/');
+  }
 };
