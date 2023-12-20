@@ -18,6 +18,7 @@ export const getCityData = (service: Service) => {
 
 export const useRedirect = (service: Service, city: string) => {
   const fileNames = getCityData(service);
+
   if (!fileNames.some((file) => file.city === city)) {
     permanentRedirect('https://onlinemasters.pl/');
   }
