@@ -1,0 +1,235 @@
+{
+    "hero": {
+      "title": "Strony Internetowe Pyskowice",
+      "_description": "Strony Internetowe Pyskowice stworzone, aby umacniać Twoją pozycję w sieci i efektywnie sprzedawać Twoje usługi. Profesjonalnie reprezentuj swoją działalność w internecie i przyciągaj nowych klientów! 💻"
+    },
+    "whyUs": {
+      "title": "Strony Internetowe Pyskowice - dlaczego warto mieć stronę www?",
+      "_description": "Posiadanie własnej strony internetowej jest kluczowe dla sukcesu w każdej branży, zwłaszcza w Pyskowicach. W dynamicznym środowisku biznesowym, internet stanowi niezbędny element, a strona www przynosi mnóstwo korzyści.",
+      "tiles": {
+        "1": {
+          "title": "Konkurencyjność na rynku:",
+          "_description": "W obecnym świecie biznesowym, zwłaszcza w Pyskowicach, strona internetowa to podstawa. Bez niej, firma może tracić na atrakcyjności w oczach klientów, którzy coraz częściej szukają usług i produktów online."
+        },
+        "2": {
+          "title": "Dostępność 24/7:",
+          "_description": "Strona internetowa zapewnia dostęp do Twojej oferty przez cały czas, co jest kluczowe w szybko zmieniającym się świecie. Daje to klientom z Pyskowic możliwość zapoznania się z Twoją firmą w dowolnym momencie."
+        },
+        "3": {
+          "title": "Budowanie marki w Pyskowicach:",
+          "_description": "Strona internetowa to Twoja cyfrowa wizytówka, umożliwiająca efektywne budowanie i promowanie Twojej marki. Atrakcyjny design i przyciągające treści budują pozytywny wizerunek Twojej firmy."
+        },
+        "4": {
+          "title": "Komunikacja z klientami:",
+          "_description": "Strona internetowa pozwala na stały kontakt z klientami, umożliwiając publikowanie informacji o nowościach, promocjach i zmianach w ofercie, dostosowanych do lokalnych potrzeb Pyskowic."
+        },
+        "5": {
+          "title": "Rozwój sprzedaży online:",
+          "_description": "Dla firm w Pyskowicach, strona internetowa jest niezbędna do rozwijania e-commerce. Sklep online pozwala na poszerzenie rynku i dotarcie do klientów preferujących zakupy przez internet."
+        },
+        "6": {
+          "title": "Globalna obecność:",
+          "_description": "Strona internetowa umożliwia analizowanie ruchu online i dostosowywanie strategii marketingowej do potrzeb klientów, co jest ważne zarówno na rynku lokalnym, jak i globalnym."
+        }
+      },
+      "_summary": "Podsumowując, strona internetowa jest niezbędnym elementem biznesu, wpływającym na zasięg, widoczność i efektywność działania firmy, szczególnie w kontekście miasta Pyskowice."
+    },
+    "dontWorry": {
+      "_title": "Nie martw się o nic, zadbamy o wszystko od A do Ż - Strony Internetowe Pyskowice",
+      "_description": "👨‍💻🔊 Jako przedsiębiorca w Pyskowicach możesz skupić się na swoim biznesie, powierzając nam stworzenie profesjonalnej strony internetowej, która spełni wszystkie Twoje oczekiwania.",
+      "steps": {
+        "1": {
+          "_description": "🤝 Razem ustalimy strukturę i styl strony, aby odpowiadała Twoim potrzebom biznesowym."
+        },
+        "2": {
+          "_description": "📝 Opracujemy treści skoncentrowane na zwiększeniu sprzedaży Twoich produktów lub usług."
+        },
+        "3": {
+          "_description": "✅ Zaprojektujemy Twoją stronę, by wiernie odzwierciedlała charakter Twojej marki i przyciągała klientów."
+        }
+      }
+    },
+    "chooseUs": {
+      "_title": "Mały krok dla nas, wielki skok dla Twojej firmy w Pyskowicach",
+      "_description1": "🤔 Czy wiesz, że profesjonalnie zaprojektowana strona internetowa może znacząco poprawić wizerunek Twojej firmy? Przejrzysta i łatwo dostępna witryna to coś, co klienci cenią.",
+      "_description2": "🚀 'Wyróżnij się albo zgiń!' Efektowna strona przyciągnie uwagę i zostanie zapamiętana przez tych, którzy przeglądają wiele witryn, co zwiększa szansę na powrót klienta.",
+      "_description3": "👌💻 Sprawnie działająca strona w połączeniu z pozytywnymi opiniami klientów buduje solidną reputację Twojej firmy.",
+      "_description4": "✨📄 Doskonałe treści przekonają większą liczbę potencjalnych klientów do wyboru Twoich usług lub produktów."
+    },
+    "priceBegin": {
+      "title": "Za 0 zł wykonamy wizualny projekt strony i wdrożymy go odpłatnie tylko jeśli spełni Twoje wymagania - Strony Internetowe Pyskowice"
+    },
+    "whatGot": {
+      "cards": {
+        "1": {
+          "_description": "Nie potrzebujesz dostarczać gotowego projektu. Chętnie doradzimy i zaproponujemy najlepsze rozwiązania dla Twojej firmy."
+        },
+        "2": {
+          "_description": "Twoja strona będzie estetycznie przyciągać wzrok klientów, zachęcając ich do zapoznania się z Twoją ofertą."
+        },
+        "3": {
+          "_description": "Jeżeli nie chcesz samodzielnie zajmować się tworzeniem treści, nasz zespół przygotuje angażujące i przekonujące teksty dla Twojej strony."
+        },
+        "4": {
+          "_description": "Twoja strona będzie wyświetlała się poprawnie na wszystkich urządzeniach, od komputerów po smartfony. 🖥️📱"
+        },
+        "5": {
+          "_description": "Jesteśmy do Twojej dyspozycji nawet po zakończeniu projektu, oferując ciągłe wsparcie techniczne i merytoryczne."
+        }
+      }
+    },
+    "takingLook": {
+      "subTitle1": "Zależy nam na Twoim zadowoleniu",
+      "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii w Google z oceną 5.0, dlatego nigdy nie oddamy projektu, który nie spełnia naszych wysokich standardów.",
+      "subTitle2": "Zapewniamy wsparcie",
+      "_subDescription2": "😉 Zawsze jesteśmy gotowi na wprowadzenie dodatkowych modyfikacji do już istniejącej strony. Po wykonaniu projektu pozostajemy do Twojej dyspozycji."
+    },
+    "gallery": {
+      "_title": "Strony Internetowe Pyskowice - Nasza pasja i doświadczenie"
+    },
+    "pageCosts": {
+      "_title": "Strony Internetowe Pyskowice - ile kosztuje utrzymanie strony www?",
+      "_description": "Koszty utrzymania strony internetowej w Pyskowicach dzielą się na podstawowe i dodatkowe, które są niezbędne do jej efektywnego funkcjonowania.",
+      "cards": {
+        "1": {
+          "title": "Koszty niezbędne",
+          "subTitle1": "Hosting",
+          "_subDescription1": "Hosting to kluczowy element każdej strony internetowej, zapewniający jej obecność w sieci. Ceny zależą od potrzebnej przestrzeni na dane i mogą się różnić.",
+          "subTitle2": "Domena",
+          "_subDescription2": "Adres Twojej strony w internecie. Koszty domeny zależą od wybranej nazwy i jej popularności, różniąc się w pierwszym roku i w kolejnych latach."
+        },
+        "2": {
+          "title": "Koszty dodatkowe",
+          "subTitle1": "Opieka nad stroną",
+          "_subDescription1": "Opieka nad stroną obejmuje takie usługi jak aktualizacje, kopie zapasowe, usuwanie błędów oraz monitorowanie bezpieczeństwa. Koszty wzrastają przy bardziej rozbudowanych witrynach.",
+          "subTitle2": "Wprowadzanie zmian",
+          "_subDescription2": "Możliwość wprowadzania zmian na stronie, zarówno samodzielnie, jak i przez zespół specjalistów, w ramach wyższego pakietu opieki."
+        }
+      },
+      "_summary": "Utrzymanie strony internetowej w Pyskowicach wiąże się z różnymi kosztami, w tym niezbędnymi, takimi jak hosting i domena, oraz dodatkowymi, związanymi z opieką nad stroną."
+    },
+    "informations": {
+      "_title": "Jakie informacje warto umieścić na firmowej stronie w Pyskowicach?",
+      "_description": "Firmowa strona internetowa powinna zawierać różnorodne informacje, aby dostarczyć potencjalnym klientom i partnerom biznesowym pełnych danych o Twojej firmie. Oto ważne elementy do uwzględnienia:",
+      "items": {
+        "1": {
+          "_subTitle": "Strona Główna:",
+          "_subDescription1": "Krótka prezentacja Twojej firmy.",
+          "_subDescription2": "Design, który przyciąga uwagę i zachęca do dalszego odkrywania witryny."
+        },
+        "2": {
+          "_subTitle": "O Nas:",
+          "_subDescription1": "Historia i informacje o zespole.",
+          "_subDescription2": "Prezentacja wartości i misji Twojej firmy."
+        },
+        "3": {
+          "_subTitle": "Usługi/Produkty:",
+          "_subDescription1": "Szczegółowe informacje o oferowanych usługach lub produktach.",
+          "_subDescription2": "Opisy, które podkreślają korzyści dla klientów."
+        },
+        "4": {
+          "_subTitle": "Kontakt:",
+          "_subDescription1": "Kompletne dane kontaktowe, takie jak adres, numer telefonu, adres e-mail.",
+          "_subDescription2": "Formularz kontaktowy dla ułatwienia komunikacji."
+        },
+        "5": {
+          "_subTitle": "Referencje/Opinie:",
+          "_subDescription1": "Recenzje od zadowolonych klientów i przykłady udanych realizacji."
+        },
+        "6": {
+          "_subTitle": "Blog/Artykuły:",
+          "_subDescription1": "Sekcja z artykułami branżowymi i aktualnościami dotyczącymi Twojej firmy."
+        },
+        "7": {
+          "_subTitle": "FAQ (Najczęstsze Pytania):",
+          "_subDescription1": "Sekcja zawierająca odpowiedzi na najczęściej zadawane pytania, pomagająca wyjaśnić wątpliwości klientów."
+        },
+        "8": {
+          "_subTitle": "Galeria/Zdjęcia:",
+          "_subDescription1": "Zdjęcia przedstawiające zespół, biuro, realizowane projekty itp., które pokazują firmę od środka."
+        },
+        "9": {
+          "_subTitle": "Linki do Mediów Społecznościowych:",
+          "_subDescription1": "Linki do profilów Twojej firmy na różnych platformach społecznościowych, ułatwiające nawiązanie kontaktu."
+        }
+      }
+    },
+    "characters": {
+      "_title": "Cechy dobrej strony www - strony internetowe Pyskowice",
+      "_description": "Dobra strona internetowa powinna wykazywać się szeregiem cech, które zapewnią użytkownikom pozytywne doświadczenia i efektywność komunikacji. Oto niektóre z nich:",
+      "items": {
+        "1": {
+          "_subTitle": "Przekonujące treści",
+          "_subDescription": "Treści, które skutecznie zachęcają potencjalnych klientów do skorzystania z Twoich usług lub produktów."
+        },
+        "2": {
+          "_subTitle": "Responsywność",
+          "_subDescription": "Strona dostosowana do różnych urządzeń, zapewniająca czytelność i funkcjonalność na komputerach, tabletach i smartfonach."
+        },
+        "3": {
+          "_subTitle": "Intuicyjna Nawigacja",
+          "_subDescription": "Nawigacja prosta w zrozumieniu, umożliwiająca szybkie dotarcie do poszukiwanych informacji."
+        },
+        "4": {
+          "_subTitle": "Estetyczny Design",
+          "_subDescription": "Atrakcyjny wizualnie projekt strony, odpowiadający identyfikacji wizualnej marki."
+        },
+        "5": {
+          "_subTitle": "Szybkość Ładowania",
+          "_subDescription": "Zoptymalizowana pod kątem szybkiego ładowania, co minimalizuje czas oczekiwania użytkowników."
+        },
+        "6": {
+          "_subTitle": "Bezpieczeństwo",
+          "_subDescription": "Zabezpieczenia, takie jak certyfikat SSL, chroniące dane użytkowników."
+        },
+        "7": {
+          "_subTitle": "Clear Call-to-Action (CTA)",
+          "_subDescription": "Jasne i motywujące do działania przyciski i linki, kierujące użytkowników do określonych działań."
+        },
+        "8": {
+          "_subTitle": "Spójność Treści",
+          "_subDescription": "Jednolite i spójne treści na stronie, ułatwiające zrozumienie przekazu."
+        },
+        "9": {
+          "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
+          "_subDescription": "Optymalizacja pod kątem wyszukiwarek internetowych, aby poprawić widoczność strony w wynikach wyszukiwania."
+        },
+        "10": {
+          "_subTitle": "Formularze Kontaktowe",
+          "_subDescription": "Formularze umożliwiające łatwą interakcję i kontakt z użytkownikami."
+        },
+        "11": {
+          "_subTitle": "Analiza Danych",
+          "_subDescription": "Narzędzia analityczne, takie jak Google Analytics, do monitorowania ruchu na stronie i analizy zachowań użytkowników."
+        },
+        "12": {
+          "_subTitle": "Aktualne Informacje",
+          "_subDescription": "Regularne aktualizacje treści i informacji na stronie, aby zapewnić jej aktualność i relevancję."
+        },
+        "13": {
+          "_subTitle": "Zgodność Z Standardami",
+          "_subDescription": "Dostosowanie do aktualnych standardów internetowych i przeglądarek, co zapewnia poprawne wyświetlanie strony."
+        },
+        "14": {
+          "_subTitle": "Działające Linki",
+          "_subDescription": "Upewnienie się, że wszystkie linki na stronie są aktywne i prowadzą do właściwych miejsc."
+        },
+        "15": {
+          "_subTitle": "Forma i Funkcja",
+          "_subDescription": "Połączenie atrakcyjnego designu z praktyczną funkcjonalnością, tworząc stronę zarówno piękną, jak i użyteczną."
+        },
+        "16": {
+          "_subTitle": "Dobrze Zorganizowana Struktura",
+          "_subDescription": "Przejrzysta struktura strony, z łatwo dostępnymi sekcjami i podstronami."
+        },
+        "17": {
+          "_subTitle": "Zgodność Z Prawem",
+          "_subDescription": "Dostosowanie strony do obowiązujących przepisów prawa, w tym do polityki prywatności i warunków korzystania."
+        }
+      }
+    },
+    "intuition": {
+      "_title": "Strony Internetowe Pyskowice - Dlaczego intuicyjność jest kluczowa?",
+      "_description": "Intuicyjność strony internetowej jest niezwykle ważna, szczególnie w kontekście ułatwienia użytkownikom z Pyskowic dostępu do potrzebnych informacji. Strona, która jest łatwa w nawigacji i użytkowaniu, zwiększa szanse na dłuższe zatrzymanie użytkownika i skłania do częstszego powrotu."
+    }
+  }

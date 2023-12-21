@@ -1,0 +1,235 @@
+{
+    "hero": {
+      "title": "Strony Internetowe Bieruń",
+      "_description": "Strony Internetowe Bieruń zaprojektowane, by umocnić Twoją obecność online i efektywnie promować Twoje usługi. Zaprezentuj swoją działalność w sieci profesjonalnie i zwiększaj swoją bazę klientów! 💻"
+    },
+    "whyUs": {
+      "title": "Strony Internetowe Bieruń - dlaczego warto mieć własną stronę?",
+      "_description": "W dzisiejszej erze cyfrowej, posiadanie własnej strony internetowej jest kluczowe dla sukcesu biznesowego w Bieruniu. W dynamicznym świecie biznesu i życia społecznego, internet jest nieodzowną częścią codzienności, a strona www oferuje wiele korzyści.",
+      "tiles": {
+        "1": {
+          "title": "Konkurencyjność na rynku:",
+          "_description": "Dla firm w Bieruniu, posiadanie strony internetowej jest obecnie standardem. Brak strony może zmniejszać atrakcyjność firmy w oczach klientów, którzy coraz częściej szukają online informacji o lokalnych usługach i produktach."
+        },
+        "2": {
+          "title": "Dostępność 24/7:",
+          "_description": "Strona internetowa gwarantuje ciągłą dostępność oferty firmy, co jest niezmiernie ważne w szybkim tempie życia. Pozwala to klientom z Bierunia odkryć Twoją firmę w dowolnym momencie."
+        },
+        "3": {
+          "title": "Budowanie marki w Bieruniu:",
+          "_description": "Twoja strona internetowa to cyfrowa wizytówka, pozwalająca na efektywne budowanie i promowanie marki. Przemyślany design i przyciągające treści pomagają w kreowaniu pozytywnego wizerunku firmy."
+        },
+        "4": {
+          "title": "Komunikacja z klientami:",
+          "_description": "Strona internetowa umożliwia łatwy kontakt z klientami. Możesz informować ich o nowościach, promocjach i zmianach w ofercie, dostosowanych do potrzeb mieszkańców Bierunia."
+        },
+        "5": {
+          "title": "Rozwój sprzedaży online:",
+          "_description": "Dla firm w Bieruniu, strona internetowa jest niezbędna do rozwijania handlu elektronicznego. E-sklep pozwala na poszerzenie rynku i dotarcie do klientów preferujących zakupy online."
+        },
+        "6": {
+          "title": "Globalna obecność:",
+          "_description": "Strona internetowa umożliwia analizę ruchu online, co pomaga w dostosowywaniu strategii marketingowej i lepszym zrozumieniu potrzeb klientów."
+        }
+      },
+      "_summary": "Posiadanie strony internetowej to kluczowy element strategii biznesowej. W epoce cyfrowej, strona www jest niezbędnym narzędziem dla każdej firmy, wpływającym na zasięg, widoczność i skuteczność."
+    },
+    "dontWorry": {
+      "_title": "Nie martw się o nic, zadbamy o wszystko od A do Ż - Strony Internetowe Bieruń",
+      "_description": "👨‍💻🔊 Jako przedsiębiorca w Bieruniu nie musisz być ekspertem od projektowania stron czy pisania treści. Dostarcz nam swoje materiały lub zgłoś potrzebę prostej strony, a resztę wykonamy za Ciebie.",
+      "steps": {
+        "1": {
+          "_description": "🤝 Wspólnie ustalimy strukturę i styl Twojej strony, aby najlepiej odpowiadała celom Twojej firmy."
+        },
+        "2": {
+          "_description": "📝 Stworzymy treści skoncentrowane na maksymalizacji sprzedaży Twoich produktów lub usług."
+        },
+        "3": {
+          "_description": "✅ Zaprojektujemy Twoją stronę, aby dokładnie odzwierciedlała charakter Twojej marki i przyciągała klientów."
+        }
+      }
+    },
+    "chooseUs": {
+      "_title": "Mały krok dla nas, wielki skok dla Twojej firmy w Bieruniu",
+      "_description1": "🤔 Czy wiesz, że profesjonalnie zaprojektowana strona internetowa może znacząco poprawić wizerunek Twojej firmy? Przejrzysta i łatwo dostępna witryna to coś, co klienci cenią.",
+      "_description2": "🚀 'Wyróżnij się albo zgiń!' Efektowna strona przyciągnie uwagę klientów przeglądających wiele witryn, zwiększając szanse na to, że Twoja strona zostanie zapamiętana i odwiedzona ponownie.",
+      "_description3": "👌💻 Sprawna i dobrze funkcjonująca strona w połączeniu z pozytywnymi opiniami klientów buduje trwałą reputację Twojej firmy.",
+      "_description4": "✨📄 Starannie opracowane treści przekonają więcej potencjalnych klientów do wyboru Twoich usług lub produktów."
+    },
+    "priceBegin": {
+      "title": "Za 0 zł wykonamy wizualny projekt strony i wdrożymy go odpłatnie tylko jeśli spełni Twoje wymagania"
+    },
+    "whatGot": {
+      "cards": {
+        "1": {
+          "_description": "Nie musisz dostarczać gotowego projektu. Z przyjemnością doradzimy i zaproponujemy najlepsze rozwiązania dla Twojej firmy."
+        },
+        "2": {
+          "_description": "Twoja strona będzie estetycznie przyciągać wzrok klientów, zachęcając ich do zapoznania się z Twoją ofertą."
+        },
+        "3": {
+          "_description": "Jeżeli nie chcesz samodzielnie zajmować się tworzeniem treści, nasz zespół przygotuje angażujące i przekonujące teksty dla Twojej strony."
+        },
+        "4": {
+          "_description": "Twoja strona będzie wyświetlała się poprawnie na wszystkich urządzeniach, od komputerów po smartfony. 🖥️📱"
+        },
+        "5": {
+          "_description": "Jesteśmy do Twojej dyspozycji nawet po zakończeniu projektu, oferując ciągłe wsparcie techniczne i merytoryczne."
+        }
+      }
+    },
+    "takingLook": {
+      "subTitle1": "Zależy nam na Twoim zadowoleniu",
+      "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii w Google z oceną 5.0, dlatego nigdy nie oddamy projektu, który nie spełnia naszych wysokich standardów.",
+      "subTitle2": "Zapewniamy wsparcie",
+      "_subDescription2": "😉 Zawsze jesteśmy gotowi na wprowadzenie dodatkowych modyfikacji do już istniejącej strony. Po wykonaniu projektu pozostajemy do Twojej dyspozycji."
+    },
+    "gallery": {
+      "_title": "Strony Internetowe Bieruń - Nasza pasja i doświadczenie"
+    },
+    "pageCosts": {
+      "_title": "Strony Internetowe Bieruń - ile kosztuje utrzymanie strony www?",
+      "_description": "Koszty utrzymania strony internetowej w Bieruniu dzielą się na podstawowe i dodatkowe, które są niezbędne do jej efektywnego funkcjonowania.",
+      "cards": {
+        "1": {
+          "title": "Koszty niezbędne",
+          "subTitle1": "Hosting",
+          "_subDescription1": "Hosting to kluczowy element każdej strony internetowej, zapewniający jej obecność w sieci. Ceny zależą od potrzebnej przestrzeni na dane i mogą się różnić.",
+          "subTitle2": "Domena",
+          "_subDescription2": "Adres Twojej strony w internecie. Koszty domeny zależą od wybranej nazwy i jej popularności, różniąc się w pierwszym roku i w kolejnych latach."
+        },
+        "2": {
+          "title": "Koszty dodatkowe",
+          "subTitle1": "Opieka nad stroną",
+          "_subDescription1": "Opieka nad stroną obejmuje takie usługi jak aktualizacje, kopie zapasowe, usuwanie błędów oraz monitorowanie bezpieczeństwa. Koszty wzrastają przy bardziej rozbudowanych witrynach.",
+          "subTitle2": "Wprowadzanie zmian",
+          "_subDescription2": "Możliwość wprowadzania zmian na stronie, zarówno samodzielnie, jak i przez zespół specjalistów, w ramach wyższego pakietu opieki."
+        }
+      },
+      "_summary": "Utrzymanie strony internetowej w Bieruniu wiąże się z różnymi kosztami, w tym niezbędnymi, takimi jak hosting i domena, oraz dodatkowymi, związanymi z opieką nad stroną."
+    },
+    "informations": {
+      "_title": "Jakie informacje warto umieścić na firmowej stronie w Bieruniu?",
+      "_description": "Firmowa strona internetowa powinna zawierać różnorodne informacje, aby dostarczyć potencjalnym klientom i partnerom biznesowym pełnych danych o Twojej firmie. Oto ważne elementy do uwzględnienia:",
+      "items": {
+        "1": {
+          "_subTitle": "Strona Główna:",
+          "_subDescription1": "Krótka prezentacja Twojej firmy.",
+          "_subDescription2": "Design, który przyciąga uwagę i zachęca do dalszego odkrywania witryny."
+        },
+        "2": {
+          "_subTitle": "O Nas:",
+          "_subDescription1": "Historia i informacje o zespole.",
+          "_subDescription2": "Prezentacja wartości i misji Twojej firmy."
+        },
+        "3": {
+          "_subTitle": "Usługi/Produkty:",
+          "_subDescription1": "Szczegółowe informacje o oferowanych usługach lub produktach.",
+          "_subDescription2": "Opisy, które podkreślają korzyści dla klientów."
+        },
+        "4": {
+          "_subTitle": "Kontakt:",
+          "_subDescription1": "Kompletne dane kontaktowe, takie jak adres, numer telefonu, adres e-mail.",
+          "_subDescription2": "Formularz kontaktowy dla ułatwienia komunikacji."
+        },
+        "5": {
+          "_subTitle": "Referencje/Opinie:",
+          "_subDescription1": "Recenzje od zadowolonych klientów i przykłady udanych realizacji."
+        },
+        "6": {
+          "_subTitle": "Blog/Artykuły:",
+          "_subDescription1": "Sekcja z artykułami branżowymi i aktualnościami dotyczącymi Twojej firmy."
+        },
+        "7": {
+          "_subTitle": "FAQ (Najczęstsze Pytania):",
+          "_subDescription1": "Sekcja zawierająca odpowiedzi na najczęściej zadawane pytania, pomagająca wyjaśnić wątpliwości klientów."
+        },
+        "8": {
+          "_subTitle": "Galeria/Zdjęcia:",
+          "_subDescription1": "Zdjęcia przedstawiające zespół, biuro, realizowane projekty itp., które pokazują firmę od środka."
+        },
+        "9": {
+          "_subTitle": "Linki do Mediów Społecznościowych:",
+          "_subDescription1": "Linki do profilów Twojej firmy na różnych platformach społecznościowych, ułatwiające nawiązanie kontaktu."
+        }
+      }
+    },
+    "characters": {
+      "_title": "Cechy dobrej strony www - strony internetowe Bieruń",
+      "_description": "Dobra strona internetowa powinna wykazywać się szeregiem cech, które zapewnią użytkownikom pozytywne doświadczenia i efektywność komunikacji. Oto niektóre z nich:",
+      "items": {
+        "1": {
+          "_subTitle": "Przekonujące treści",
+          "_subDescription": "Treści, które skutecznie zachęcają potencjalnych klientów do skorzystania z Twoich usług lub produktów."
+        },
+        "2": {
+          "_subTitle": "Responsywność",
+          "_subDescription": "Strona dostosowana do różnych urządzeń, zapewniająca czytelność i funkcjonalność na komputerach, tabletach i smartfonach."
+        },
+        "3": {
+          "_subTitle": "Intuicyjna Nawigacja",
+          "_subDescription": "Nawigacja prosta w zrozumieniu, umożliwiająca szybkie dotarcie do poszukiwanych informacji."
+        },
+        "4": {
+          "_subTitle": "Estetyczny Design",
+          "_subDescription": "Atrakcyjny wizualnie projekt strony, odpowiadający identyfikacji wizualnej marki."
+        },
+        "5": {
+          "_subTitle": "Szybkość Ładowania",
+          "_subDescription": "Zoptymalizowana pod kątem szybkiego ładowania, co minimalizuje czas oczekiwania użytkowników."
+        },
+        "6": {
+          "_subTitle": "Bezpieczeństwo",
+          "_subDescription": "Zabezpieczenia, takie jak certyfikat SSL, chroniące dane użytkowników."
+        },
+        "7": {
+          "_subTitle": "Clear Call-to-Action (CTA)",
+          "_subDescription": "Jasne i motywujące do działania przyciski i linki, kierujące użytkowników do określonych działań."
+        },
+        "8": {
+          "_subTitle": "Spójność Treści",
+          "_subDescription": "Jednolite i spójne treści na stronie, ułatwiające zrozumienie przekazu."
+        },
+        "9": {
+          "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
+          "_subDescription": "Optymalizacja pod kątem wyszukiwarek internetowych, aby poprawić widoczność strony w wynikach wyszukiwania."
+        },
+        "10": {
+          "_subTitle": "Formularze Kontaktowe",
+          "_subDescription": "Formularze umożliwiające łatwą interakcję i kontakt z użytkownikami."
+        },
+        "11": {
+          "_subTitle": "Analiza Danych",
+          "_subDescription": "Narzędzia analityczne, takie jak Google Analytics, do monitorowania ruchu na stronie i analizy zachowań użytkowników."
+        },
+        "12": {
+          "_subTitle": "Aktualne Informacje",
+          "_subDescription": "Regularne aktualizacje treści i informacji na stronie, aby zapewnić jej aktualność i relevancję."
+        },
+        "13": {
+          "_subTitle": "Zgodność Z Standardami",
+          "_subDescription": "Dostosowanie do aktualnych standardów internetowych i przeglądarek, co zapewnia poprawne wyświetlanie strony."
+        },
+        "14": {
+          "_subTitle": "Działające Linki",
+          "_subDescription": "Upewnienie się, że wszystkie linki na stronie są aktywne i prowadzą do właściwych miejsc."
+        },
+        "15": {
+          "_subTitle": "Forma i Funkcja",
+          "_subDescription": "Połączenie atrakcyjnego designu z praktyczną funkcjonalnością, tworząc stronę zarówno piękną, jak i użyteczną."
+        },
+        "16": {
+          "_subTitle": "Dobrze Zorganizowana Struktura",
+          "_subDescription": "Przejrzysta struktura strony, z łatwym dostępem do wszystkich sekcji i podstron."
+        },
+        "17": {
+          "_subTitle": "Zgodność Z Prawem",
+          "_subDescription": "Dostosowanie strony do obowiązujących przepisów prawa, w tym do polityki prywatności i warunków korzystania."
+        }
+      }
+    },
+    "intuition": {
+      "_title": "Strony Internetowe Bieruń - dlaczego ważna jest intuicyjność strony?",
+      "_description": "Intuicyjność strony internetowej ma kluczowe znaczenie dla pozytywnych doświadczeń użytkowników. Prosta nawigacja po stronie pozwala użytkownikom łatwo znaleźć potrzebne informacje, zwiększając satysfakcję i skuteczność interakcji. Intuicyjna strona zachęca do dłuższego przeglądania, co przekłada się na większe zaangażowanie i potencjalnie lepsze wyniki konwersji. Ponadto, strona przyjazna dla użytkownika buduje pozytywny wizerunek marki, demonstrując profesjonalizm i troskę o potrzeby klientów."
+    }
+  }
