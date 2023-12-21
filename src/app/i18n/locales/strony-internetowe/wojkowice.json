@@ -1,0 +1,235 @@
+{
+    "hero": {
+      "title": "Strony Internetowe Wojkowice",
+      "_description": "Strony Internetowe Wojkowice zaprojektowane, aby wzmocnić Twoją obecność online i efektywnie sprzedawać Twoje usługi. Zaprezentuj swoją działalność w sieci profesjonalnie i zdobywaj nowych klientów! 💻"
+    },
+    "whyUs": {
+      "title": "Strony Internetowe Wojkowice - dlaczego warto mieć stronę www?",
+      "_description": "Dla przedsiębiorstw w Wojkowicach, posiadanie własnej strony internetowej to klucz do sukcesu w erze cyfrowej, otwierając drzwi do wielu możliwości na lokalnym rynku.",
+      "tiles": {
+        "1": {
+          "title": "Konkurencyjność na rynku:",
+          "_description": "Współcześnie, strona internetowa stanowi branżowy standard. Umożliwia efektywne przyciąganie uwagi klientów, którzy coraz częściej poszukują usług i produktów online."
+        },
+        "2": {
+          "title": "Dostępność 24/7:",
+          "_description": "Twoje usługi lub produkty są dostępne w sieci non-stop, co ma kluczowe znaczenie w obecnych czasach. Pozwala to mieszkańcom Wojkowic na korzystanie z Twojej oferty w dowolnym momencie."
+        },
+        "3": {
+          "title": "Budowanie marki w Wojkowicach:",
+          "_description": "Twoja strona internetowa to potężne narzędzie do kreowania i promocji Twojej marki, umożliwiające skuteczne wyróżnienie się na tle konkurencji."
+        },
+        "4": {
+          "title": "Komunikacja z klientami:",
+          "_description": "Strona internetowa to doskonały kanał komunikacji z klientami, pozwalający informować ich o nowościach, promocjach i aktualizacjach oferty."
+        },
+        "5": {
+          "title": "Rozwój sprzedaży online:",
+          "_description": "Strona internetowa otwiera drzwi do świata e-commerce, pozwalając na rozszerzenie rynku i dotarcie do klientów preferujących zakupy online."
+        },
+        "6": {
+          "title": "Globalna obecność:",
+          "_description": "Twoja strona to możliwość dotarcia do klientów poza lokalnym rynkiem Wojkowic, rozszerzając bazę klientów."
+        }
+      },
+      "_summary": "Podsumowując, strona internetowa jest kluczowym elementem w strategii marketingowej każdego biznesu, zwiększając zasięg i widoczność firmy."
+    },
+    "dontWorry": {
+      "_title": "Zadbamy o wszystko - Strony Internetowe Wojkowice",
+      "_description": "Jako przedsiębiorca w Wojkowicach, nie musisz być specjalistą w dziedzinie web designu. Zajmiemy się wszystkim, tworząc stronę idealnie odpowiadającą potrzebom Twojej firmy.",
+      "steps": {
+        "1": {
+          "_description": "Razem opracujemy koncepcję i design strony, aby była ona spójna z celami Twojej działalności."
+        },
+        "2": {
+          "_description": "Stworzymy treści, które będą angażować Twoich klientów i wyróżnią Twoją firmę na rynku Wojkowic."
+        },
+        "3": {
+          "_description": "✅ Twoja strona będzie precyzyjnie odzwierciedlać charakter Twojej marki, przyciągając uwagę klientów."
+        }
+      }
+    },
+    "chooseUs": {
+        "_title": "Wybierz naszą ofertę dla Twojej firmy w Wojkowicach",
+        "_description1": "Profesjonalnie zaprojektowana strona internetowa to klucz do zwiększenia rozpoznawalności i zaufania do Twojej marki w Wojkowicach.",
+        "_description2": "Zbudujemy stronę, która nie tylko przyciągnie uwagę, ale także przekona potencjalnych klientów do skorzystania z Twojej oferty.",
+        "_description3": "Dbamy o każdy szczegół - od projektu graficznego po SEO - by Twoja strona była nie tylko piękna, ale i funkcjonalna.",
+        "_description4": "Dzięki naszemu profesjonalizmowi i doświadczeniu, Twoja strona będzie się wyróżniać na tle konkurencji."
+      },
+    "priceBegin": {
+        "title": "Za 0 zł przygotujemy projekt Twojej strony, realizacja będzie odpłatna tylko, gdy spełni Twoje oczekiwania"
+    },
+    "whatGot": {
+        "cards": {
+          "1": {
+            "_description": "Dostarczamy kompleksowe wsparcie i poradnictwo w projektowaniu strony internetowej."
+          },
+          "2": {
+            "_description": "Twoja strona będzie estetycznie atrakcyjna i funkcjonalna, co jest kluczowe dla obsługi klienta."
+          },
+          "3": {
+            "_description": "Zajmiemy się tworzeniem treści, które zaangażują i zaciekawią Twoich klientów."
+          },
+          "4": {
+            "_description": "Zapewniamy, że Twoja strona będzie doskonale wyświetlać się na wszystkich urządzeniach."
+          },
+          "5": {
+            "_description": "Oferujemy ciągłe wsparcie i aktualizacje po uruchomieniu strony, zapewniając jej sprawne działanie."
+          }
+        }
+    },
+    "takingLook": {
+        "subTitle1": "Twoje zadowolenie to nasz priorytet",
+        "_subDescription1": "Dążymy do osiągnięcia najwyższych standardów w każdym projekcie, gwarantując pełne zadowolenie naszych klientów w Wojkowicach.",
+        "subTitle2": "Zapewniamy wsparcie na każdym etapie",
+        "_subDescription2": "Pozostajemy do dyspozycji nawet po zakończeniu projektu, oferując pomoc i doradztwo."
+    },
+    "gallery": {
+        "_title": "Strony Internetowe Wojkowice - nasza pasja, Twoje zadowolenie"
+    },
+    "pageCosts": {
+        "_title": "Strony Internetowe Wojkowice - przegląd kosztów utrzymania strony",
+        "_description": "Koszty utrzymania strony internetowej są różne, ale są niezbędne do jej sprawnego działania i bezpieczeństwa.",
+        "cards": {
+          "1": {
+            "title": "Koszty niezbędne",
+            "subTitle1": "Hosting",
+            "_subDescription1": "Hosting to niezbędny element każdej strony internetowej, gwarantujący jej dostępność w sieci. Koszty mogą się różnić w zależności od potrzeb.",
+            "subTitle2": "Domena",
+            "_subDescription2": "Twoja unikalna nazwa w internecie. Cena domeny zależy od jej typu oraz dostawcy usług."
+          },
+          "2": {
+            "title": "Koszty dodatkowe",
+            "subTitle1": "Opieka nad stroną",
+            "_subDescription1": "Zawiera regularne aktualizacje, monitorowanie bezpieczeństwa i tworzenie kopii zapasowych, co jest kluczowe dla optymalnego funkcjonowania strony.",
+            "subTitle2": "Wprowadzanie zmian",
+            "_subDescription2": "Dostosowanie treści i funkcjonalności strony do bieżących potrzeb, co może obejmować zarówno drobne modyfikacje, jak i większe aktualizacje."
+          }
+        },
+        "_summary": "Podsumowując, utrzymanie strony internetowej w Wojkowicach wiąże się z kosztami zarówno podstawowymi, jak hosting i domena, jak i dodatkowymi, związanymi z opieką i ewentualnymi zmianami."
+    },
+    "informations": {
+      "_title": "Jakie informacje warto umieścić na firmowej stronie w Wojkowicach?",
+      "_description": "Twoja firmowa strona internetowa powinna zawierać kluczowe informacje, które pomogą klientom zrozumieć Twoją ofertę i działalność.",
+      "items": {
+        "1": {
+          "_subTitle": "Strona Główna:",
+          "_subDescription1": "Prezentacja głównych atutów Twojej firmy, przyciągająca uwagę od pierwszego spojrzenia.",
+          "_subDescription2": "Design, który wyróżnia się i zaprasza do dalszego odkrywania Twojej oferty."
+        },
+        "2": {
+          "_subTitle": "O Nas:",
+          "_subDescription1": "Informacje o historii i wartościach firmy, budujące zaufanie i relacje z klientami.",
+          "_subDescription2": "Przedstawienie zespołu i ich doświadczenia, pokazujące profesjonalizm Twojej firmy."
+        },
+        "3": {
+          "_subTitle": "Usługi/Produkty:",
+          "_subDescription1": "Szczegółowe opisy usług lub produktów, podkreślające ich zalety i korzyści dla klientów.",
+          "_subDescription2": "Przykłady skutecznych realizacji, zachęcające do skorzystania z Twoich usług lub produktów."
+        },
+        "4": {
+          "_subTitle": "Kontakt:",
+          "_subDescription1": "Kompletne dane kontaktowe, umożliwiające łatwy i szybki kontakt z Twoją firmą.",
+          "_subDescription2": "Formularz kontaktowy, ułatwiający nawiązywanie bezpośredniej komunikacji."
+        },
+        "5": {
+          "_subTitle": "Referencje/Opinie:",
+          "_subDescription1": "Recenzje od zadowolonych klientów, świadczące o wysokiej jakości Twoich usług."
+        },
+        "6": {
+          "_subTitle": "Blog/Artykuły:",
+          "_subDescription1": "Sekcja z wartościowymi treściami branżowymi, przyciągająca ruch na stronę i budująca Twoją pozycję eksperta."
+        },
+        "7": {
+          "_subTitle": "FAQ (Najczęstsze Pytania):",
+          "_subDescription1": "Sekcja z odpowiedziami na najczęściej zadawane pytania, pomagająca rozwiać wątpliwości i ułatwić decyzje klientów."
+        },
+        "8": {
+          "_subTitle": "Galeria/Zdjęcia:",
+          "_subDescription1": "Zdjęcia prezentujące Twoją działalność, zespół i realizacje projektów, wzmacniające pozytywny wizerunek firmy."
+        },
+        "9": {
+          "_subTitle": "Linki do Mediów Społecznościowych:",
+          "_subDescription1": "Linki do profili Twojej firmy na platformach społecznościowych, ułatwiające śledzenie Twojej aktywności."
+        }
+      }
+    },
+    "characters": {
+      "_title": "Cechy dobrej strony www - strony internetowe Wojkowice",
+      "_description": "Efektywna strona internetowa w Wojkowicach powinna charakteryzować się cechami, które zwiększają doświadczenia użytkowników i skuteczność komunikacji z klientami.",
+      "items": {
+        "1": {
+          "_subTitle": "Przekonujące treści",
+          "_subDescription": "Treści, które skutecznie przedstawiają wartość Twojej oferty i motywują do interakcji."
+        },
+        "2": {
+          "_subTitle": "Responsywność",
+          "_subDescription": "Strona dostosowana do wyświetlania na różnorodnych urządzeniach, zapewniająca komfort użytkowania."
+        },
+        "3": {
+          "_subTitle": "Intuicyjna Nawigacja",
+          "_subDescription": "Prosta nawigacja, umożliwiająca łatwe dotarcie do pożądanych informacji i usług."
+        },
+        "4": {
+          "_subTitle": "Estetyczny Design",
+          "_subDescription": "Atrakcyjny wizualnie projekt strony, odzwierciedlający tożsamość Twojej marki."
+        },
+        "5": {
+          "_subTitle": "Szybkość Ładowania",
+          "_subDescription": "Zoptymalizowana strona pod kątem szybkiego ładowania, minimalizująca czas oczekiwania użytkowników."
+        },
+        "6": {
+          "_subTitle": "Bezpieczeństwo",
+          "_subDescription": "Zastosowanie najnowszych zabezpieczeń, w tym certyfikatu SSL, do ochrony danych użytkowników."
+        },
+        "7": {
+          "_subTitle": "Clear Call-to-Action (CTA)",
+          "_subDescription": "Wyraźne przyciski i linki do działania, motywujące użytkowników do podjęcia konkretnych akcji."
+        },
+        "8": {
+          "_subTitle": "Spójność Treści",
+          "_subDescription": "Jednolite i spójne treści na stronie, wzmacniające przekaz marki."
+        },
+        "9": {
+          "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
+          "_subDescription": "Optymalizacja strony pod kątem SEO, aby poprawić jej widoczność w wynikach wyszukiwania."
+        },
+        "10": {
+          "_subTitle": "Formularze Kontaktowe",
+          "_subDescription": "Formularze kontaktowe, umożliwiające łatwy i szybki kontakt z użytkownikami."
+        },
+        "11": {
+          "_subTitle": "Analiza Danych",
+          "_subDescription": "Wykorzystanie narzędzi analitycznych do śledzenia ruchu na stronie i lepszego zrozumienia zachowań użytkowników."
+        },
+        "12": {
+          "_subTitle": "Aktualne Informacje",
+          "_subDescription": "Regularne aktualizacje treści, utrzymujące stronę na bieżąco i wiarygodną dla odwiedzających."
+        },
+        "13": {
+          "_subTitle": "Zgodność Z Standardami",
+          "_subDescription": "Zapewnienie zgodności strony z aktualnymi standardami internetowymi."
+        },
+        "14": {
+          "_subTitle": "Działające Linki",
+          "_subDescription": "Sprawdzenie, czy wszystkie linki na stronie są aktywne i prowadzą do odpowiednich miejsc."
+        },
+        "15": {
+          "_subTitle": "Forma i Funkcja",
+          "_subDescription": "Połączenie atrakcyjnego designu z praktyczną funkcjonalnością, tworząc stronę zarówno piękną, jak i użyteczną."
+        },
+        "16": {
+          "_subTitle": "Dobrze Zorganizowana Struktura",
+          "_subDescription": "Jasna struktura strony, z łatwym dostępem do wszystkich sekcji i podstron."
+        },
+        "17": {
+          "_subTitle": "Zgodność Z Prawem",
+          "_subDescription": "Dostosowanie strony do obowiązujących przepisów prawa, w tym do polityki prywatności i praw autorskich."
+        }
+      }
+    },
+    "intuition": {
+        "_title": "Strony Internetowe Wojkowice - Dlaczego intuicyjność jest kluczowa?",
+        "_description": "Intuicyjność strony internetowej ma kluczowe znaczenie dla pozytywnych doświadczeń użytkowników. Prosta nawigacja po stronie pozwala użytkownikom łatwo znaleźć potrzebne informacje, zwiększając satysfakcję i skuteczność interakcji. Intuicyjna strona zachęca do dłuższego przeglądania, co przekłada się na większe zaangażowanie i potencjalnie lepsze wyniki konwersji. Ponadto, strona przyjazna dla użytkownika buduje pozytywny wizerunek marki, demonstrując profesjonalizm i troskę o potrzeby klientów."
+    }
+}

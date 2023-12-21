@@ -1,0 +1,237 @@
+{
+    "hero": {
+      "title": "Strony Internetowe Imielin",
+      "_description": "Strony Internetowe Imielin tworzone, aby umocnić Twoją obecność w sieci i skutecznie promować Twoje usługi. Profesjonalnie przedstaw swoją działalność online i przyciągnij nowych klientów! 💻"
+    },
+    "whyUs": {
+      "title": "Strony Internetowe Imielin - dlaczego warto mieć stronę www?",
+      "_description": "Dla firm i przedsiębiorców w Imielinie, własna strona internetowa jest fundamentalna dla osiągnięcia sukcesu. W świecie, gdzie internet stanowi kluczowy element codzienności, strona www oferuje liczne korzyści.",
+      "tiles": {
+        "1": {
+          "title": "Konkurencyjność na rynku:",
+          "_description": "Obecność strony internetowej to dzisiaj norma w wielu sektorach. Nieposiadanie strony może negatywnie wpływać na odbiór Twojej firmy przez klientów, którzy coraz częściej poszukują online informacji o produktach i usługach."
+        },
+        "2": {
+          "title": "Dostępność 24/7:",
+          "_description": "Strona internetowa gwarantuje ciągłą dostępność Twojej oferty, co jest kluczowe w dzisiejszym szybkim tempie życia. Umożliwia to klientom z Imielina zapoznanie się z Twoją firmą w dowolnym momencie."
+        },
+        "3": {
+          "title": "Budowanie marki w Imielinie:",
+          "_description": "Twoja strona internetowa to więcej niż wizytówka – to narzędzie budowania i promowania Twojej marki. Poprzez dobrze zaprojektowaną stronę, możesz efektywnie wyróżnić się na rynku."
+        },
+        "4": {
+          "title": "Komunikacja z klientami:",
+          "_description": "Strona internetowa pozwala na łatwe utrzymanie kontaktu z klientami, informując ich o aktualnościach, promocjach oraz zmianach w ofercie."
+        },
+        "5": {
+          "title": "Rozwój sprzedaży online:",
+          "_description": "Strona internetowa to niezbędne narzędzie dla rozwoju e-commerce, pozwalające na dotarcie do szerszego grona klientów preferujących zakupy online."
+        },
+        "6": {
+          "title": "Globalna obecność:",
+          "_description": "Dzięki stronie internetowej Twoja firma może dotrzeć do szerszej grupy klientów, nawet poza lokalny rynek Imielina."
+        }
+      },
+      "_summary": "Posiadanie strony internetowej w Imielinie to kluczowy element strategii biznesowej, wpływający na zasięg, widoczność i efektywność firmy."
+    },
+    "dontWorry": {
+      "_title": "Nie martw się o nic, zadbamy o wszystko od A do Ż - Strony Internetowe Imielin",
+      "_description": "👨‍💻🔊 Jako przedsiębiorca w Imielinie, nie musisz być specjalistą w tworzeniu stron. Zrelaksuj się i przekaż nam swoje wymagania, a my zajmiemy się resztą.",
+      "steps": {
+        "1": {
+            "_description": "🤝 Wspólnie opracujemy koncepcję i design Twojej strony, aby pasowała do Twoich celów biznesowych."
+        },
+        "2": {
+          "_description": "📝 Zajmiemy się tworzeniem treści, które zwiększą atrakcyjność Twoich usług lub produktów."
+        },
+        "3": {
+          "_description": "✅ Zaprojektujemy Twoją stronę tak, aby idealnie odzwierciedlała osobowość i wartości Twojej marki."
+        }
+      }
+    },
+    "chooseUs": {
+      "_title": "Mały krok dla nas, wielki skok dla Twojej firmy w Imielinie",
+      "_description1": "🤔 Czy wiesz, że profesjonalnie zaprojektowana strona internetowa może znacznie wpłynąć na postrzeganie Twojej firmy? Przejrzysta i łatwo dostępna witryna to coś, co klienci doceniają.",
+      "_description2": "🚀 'Wyróżnij się albo zgiń!' Porywająca strona przyciąga uwagę i zostaje zapamiętana przez tych, którzy przeglądają wiele witryn, co zwiększa szansę na ponowne odwiedziny.",
+      "_description3": "👌💻 Sprawna i funkcjonalna strona w połączeniu z pozytywnymi opiniami buduje solidną reputację Twojej firmy w Imielinie.",
+      "_description4": "✨📄 Starannie opracowane treści przekonają więcej potencjalnych klientów do skorzystania z Twoich usług lub produktów."
+    },
+    "priceBegin": {
+      "title": "Za 0 zł przygotujemy projekt Twojej strony, realizacja odpłatna tylko, gdy spełni Twoje wymagania - Strony Internetowe Imielin"
+    },
+    "whatGot": {
+      "cards": {
+        "1": {
+          "_description": "Oferujemy kompleksowe doradztwo i wsparcie w projektowaniu Twojej strony internetowej."
+        },
+        "2": {
+          "_description": "Twoja strona będzie estetycznie przyciągać uwagę klientów, zachęcając do poznania oferty."
+        },
+        "3": {
+          "_description": "Możemy zająć się tworzeniem angażujących treści, aby zainteresować Twoich klientów."
+        },
+        "4": {
+          "_description": "Zapewniamy, że Twoja strona będzie idealnie prezentować się na różnych urządzeniach, od komputerów po smartfony. 🖥️📱"
+        },
+        "5": {
+          "_description": "Oferujemy stałe wsparcie techniczne i merytoryczne po zakończeniu projektu."
+        }
+      }
+    },
+    "takingLook": {
+      "subTitle1": "Twoje zadowolenie jest naszym priorytetem",
+      "_subDescription1": "Dążymy do osiągnięcia najwyższych standardów w każdym projekcie, aby nasi klienci w Imielinie byli w pełni zadowoleni z efektów naszej pracy.",
+      "subTitle2": "Wsparcie na każdym etapie",
+      "_subDescription2": "Nawet po zakończeniu projektu pozostajemy do Twojej dyspozycji, oferując pomoc i doradztwo."
+    },
+    "gallery": {
+      "_title": "Strony Internetowe Imielin - nasza pasja, Twoja satysfakcja"
+    },
+    "pageCosts": {
+      "_title": "Strony Internetowe Imielin - przegląd kosztów utrzymania strony",
+      "_description": "Utrzymanie strony internetowej wiąże się z różnymi kosztami, które są niezbędne do jej sprawnego funkcjonowania i bezpieczeństwa.",
+      "cards": {
+        "1": {
+          "title": "Koszty niezbędne",
+          "subTitle1": "Hosting",
+          "_subDescription1": "Hosting to kluczowy element, który zapewnia, że Twoja strona jest dostępna online. Koszty hosting mogą się różnić w zależności od wymaganej pojemności i funkcjonalności.",
+          "subTitle2": "Domena",
+          "_subDescription2": "Domena to Twój unikalny adres internetowy. Cena zależy od wybranej nazwy i rozszerzenia, a także od dostawcy usług."
+        },
+        "2": {
+          "title": "Koszty dodatkowe",
+          "subTitle1": "Opieka nad stroną",
+          "_subDescription1": "Obejmuje regularne aktualizacje, monitorowanie bezpieczeństwa i tworzenie kopii zapasowych, co jest istotne dla zachowania sprawności i bezpieczeństwa strony.",
+          "subTitle2": "Wprowadzanie zmian",
+          "_subDescription2": "Dostosowanie treści i funkcji strony do bieżących potrzeb, co może obejmować zarówno drobne zmiany, jak i większe aktualizacje."
+        }
+      },
+      "_summary": "Podsumowując, utrzymanie strony internetowej w Imielinie wiąże się z kosztami podstawowymi, takimi jak hosting i domena, oraz dodatkowymi, związanymi z bieżącą opieką i aktualizacjami."
+    },
+    "informations": {
+      "_title": "Jakie informacje warto umieścić na firmowej stronie w Imielinie?",
+      "_description": "Twoja firmowa strona internetowa powinna zawierać szereg kluczowych informacji, które pomogą klientom lepiej zrozumieć Twoją ofertę i działalność.",
+      "items": {
+        "1": {
+          "_subTitle": "Strona Główna:",
+          "_subDescription1": "Prezentacja głównych zalet i unikalności Twojej firmy, aby przyciągnąć uwagę odwiedzających od pierwszego wejrzenia.",
+          "_subDescription2": "Atrakcyjny design i jasny przekaz, który zachęca do dalszego poznawania Twojej oferty."
+        },
+        "2": {
+          "_subTitle": "O Nas:",
+          "_subDescription1": "Informacje o historii firmy, misji i wartościach, które pozwolą budować zaufanie i więź z klientami.",
+          "_subDescription2": "Przedstawienie zespołu, ich doświadczenia i kompetencji, co może wzmocnić postrzeganie profesjonalizmu firmy."
+        },
+        "3": {
+          "_subTitle": "Usługi/Produkty:",
+          "_subDescription1": "Szczegółowe opisy oferowanych usług lub produktów, ich cech i korzyści dla klientów.",
+          "_subDescription2": "Prezentacja przypadków, w których Twoje usługi lub produkty były skuteczne, co może zachęcić do ich wypróbowania."
+        },
+        "4": {
+          "_subTitle": "Kontakt:",
+          "_subDescription1": "Podstawowe dane kontaktowe, takie jak adres, telefon, e-mail, umożliwiające szybki kontakt z Twoją firmą.",
+          "_subDescription2": "Formularz kontaktowy, który ułatwia zainteresowanym osobom bezpośrednie nawiązanie kontaktu."
+        },
+        "5": {
+          "_subTitle": "Referencje/Opinie:",
+          "_subDescription1": "Recenzje od zadowolonych klientów i przykłady udanych realizacji.",
+          "_subDescription2": "Opinie, które mogą być dowodem na skuteczność i wysoką jakość Twoich usług."
+        },
+        "6": {
+          "_subTitle": "Blog/Artykuły:",
+          "_subDescription1": "Regularne publikowanie wartościowych treści związanych z branżą, które mogą przyciągać ruch na stronę i budować Twoją pozycję eksperta.",
+          "_subDescription2": "Sekcja z artykułami i aktualnościami dotyczącymi Twojej firmy."
+        },
+        "7": {
+          "_subTitle": "FAQ (Najczęstsze Pytania):",
+          "_subDescription1": "Sekcja zawierająca odpowiedzi na najczęściej zadawane pytania, pomagająca wyjaśnić wątpliwości klientów."
+        },
+        "8": {
+          "_subTitle": "Galeria/Zdjęcia:",
+          "_subDescription1": "Zdjęcia przedstawiające zespół, biuro, realizowane projekty itp., które pokazują firmę od środka."
+        },
+        "9": {
+          "_subTitle": "Linki do Mediów Społecznościowych:",
+          "_subDescription1": "Linki do profilów Twojej firmy na różnych platformach społecznościowych, ułatwiające nawiązanie kontaktu."
+        }
+      }
+    },
+    "characters": {
+      "_title": "Cechy dobrej strony www - strony internetowe Imielin",
+      "_description": "Dobra strona internetowa powinna wykazywać się szeregiem cech, które zapewnią użytkownikom pozytywne doświadczenia i efektywność komunikacji. Oto niektóre z nich:",
+      "items": {
+        "1": {
+          "_subTitle": "Przekonujące treści",
+          "_subDescription": "Treści, które skutecznie zachęcają potencjalnych klientów do skorzystania z Twoich usług lub produktów."
+        },
+        "2": {
+          "_subTitle": "Responsywność",
+          "_subDescription": "Strona dostosowana do różnych urządzeń, zapewniająca czytelność i funkcjonalność na komputerach, tabletach i smartfonach."
+        },
+        "3": {
+          "_subTitle": "Intuicyjna Nawigacja",
+          "_subDescription": "Nawigacja prosta w zrozumieniu, umożliwiająca szybkie dotarcie do poszukiwanych informacji."
+        },
+        "4": {
+          "_subTitle": "Estetyczny Design",
+          "_subDescription": "Atrakcyjny wizualnie projekt strony, odpowiadający identyfikacji wizualnej marki."
+        },
+        "5": {
+          "_subTitle": "Szybkość Ładowania",
+          "_subDescription": "Zoptymalizowana pod kątem szybkiego ładowania, co minimalizuje czas oczekiwania użytkowników."
+        },
+        "6": {
+          "_subTitle": "Bezpieczeństwo",
+          "_subDescription": "Zabezpieczenia, takie jak certyfikat SSL, chroniące dane użytkowników."
+        },
+        "7": {
+          "_subTitle": "Clear Call-to-Action (CTA)",
+          "_subDescription": "Jasne i motywujące do działania przyciski i linki, kierujące użytkowników do określonych działań."
+        },
+        "8": {
+          "_subTitle": "Spójność Treści",
+          "_subDescription": "Jednolite i spójne treści na stronie, ułatwiające zrozumienie przekazu."
+        },
+        "9": {
+          "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
+          "_subDescription": "Optymalizacja pod kątem wyszukiwarek internetowych, aby poprawić widoczność strony w wynikach wyszukiwania."
+        },
+        "10": {
+          "_subTitle": "Formularze Kontaktowe",
+          "_subDescription": "Formularze umożliwiające łatwą interakcję i kontakt z użytkownikami."
+        },
+        "11": {
+          "_subTitle": "Analiza Danych",
+          "_subDescription": "Narzędzia analityczne, takie jak Google Analytics, do monitorowania ruchu na stronie i analizy zachowań użytkowników."
+        },
+        "12": {
+          "_subTitle": "Aktualne Informacje",
+          "_subDescription": "Regularne aktualizacje treści i informacji na stronie, aby zapewnić jej aktualność i relevancję."
+        },
+        "13": {
+          "_subTitle": "Zgodność Z Standardami",
+          "_subDescription": "Dostosowanie do aktualnych standardów internetowych i przeglądarek, co zapewnia poprawne wyświetlanie strony."
+        },
+        "14": {
+          "_subTitle": "Działające Linki",
+          "_subDescription": "Upewnienie się, że wszystkie linki na stronie są aktywne i prowadzą do właściwych miejsc."
+        },
+        "15": {
+          "_subTitle": "Forma i Funkcja",
+          "_subDescription": "Połączenie atrakcyjnego designu z praktyczną funkcjonalnością, tworząc stronę zarówno piękną, jak i użyteczną."
+        },
+        "16": {
+          "_subTitle": "Dobrze Zorganizowana Struktura",
+          "_subDescription": "Przejrzysta struktura strony, z łatwym dostępem do wszystkich sekcji i podstron."
+        },
+        "17": {
+          "_subTitle": "Zgodność Z Prawem",
+          "_subDescription": "Dostosowanie strony do obowiązujących przepisów prawa, w tym do polityki prywatności i warunków korzystania."
+        }
+      }
+    },
+    "intuition": {
+      "_title": "Strony Internetowe Imielin - dlaczego ważna jest intuicyjność strony?",
+      "_description": "Intuicyjność strony internetowej ma kluczowe znaczenie dla pozytywnych doświadczeń użytkowników. Prosta nawigacja po stronie pozwala użytkownikom łatwo znaleźć potrzebne informacje, zwiększając satysfakcję i skuteczność interakcji. Intuicyjna strona zachęca do dłuższego przeglądania, co przekłada się na większe zaangażowanie i potencjalnie lepsze wyniki konwersji. Ponadto, strona przyjazna dla użytkownika buduje pozytywny wizerunek marki, demonstrując profesjonalizm i troskę o potrzeby klientów w Imielinie."
+    }
+}

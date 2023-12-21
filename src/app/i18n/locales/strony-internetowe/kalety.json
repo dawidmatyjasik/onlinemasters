@@ -1,0 +1,236 @@
+{
+    "hero": {
+      "title": "Strony Internetowe Kalety",
+      "_description": "Strony Internetowe Kalety opracowane, aby umocnić Twoją pozycję online i skutecznie promować Twoje usługi. Prezentuj swoją działalność w sieci profesjonalnie, przyciągając nowych klientów! 💻"
+    },
+    "whyUs": {
+      "title": "Strony Internetowe Kalety - dlaczego warto mieć własną stronę www?",
+      "_description": "W erze cyfrowej, posiadanie własnej strony internetowej w Kaletach jest kluczowe dla każdego przedsiębiorstwa. Jest to narzędzie, które nie tylko rozszerza zasięg Twojej działalności, ale również otwiera nowe możliwości na lokalnym rynku.",
+      "tiles": {
+        "1": {
+          "title": "Konkurencyjność na rynku:",
+          "_description": "W dzisiejszym świecie, posiadanie strony www jest fundamentalnym elementem, który umożliwia wyprzedzenie konkurencji. To przewaga, która pomaga zdobywać klientów poszukujących produktów i usług w internecie."
+        },
+        "2": {
+          "title": "Dostępność 24/7:",
+          "_description": "Twoja strona internetowa jest dostępna non-stop, co ma kluczowe znaczenie w dzisiejszych czasach. Daje to klientom z Kalet i okolic stały dostęp do Twojej oferty."
+        },
+        "3": {
+          "title": "Budowanie marki w Kaletach:",
+          "_description": "Strona internetowa to nie tylko wizytówka – to środek do budowania i promowania Twojej marki. Wykorzystując właściwą strategię i design, możesz skutecznie się wyróżnić."
+        },
+        "4": {
+          "title": "Komunikacja z klientami:",
+          "_description": "Strona www umożliwia ciągły kontakt z klientami, umożliwiając informowanie ich o aktualnościach, promocjach i zmianach."
+        },
+        "5": {
+          "title": "Rozwój sprzedaży online:",
+          "_description": "W obecnych czasach e-commerce szybko się rozwija, stąd posiadanie strony internetowej jest niezbędne do efektywnej sprzedaży online i osiągania szerszej grupy klientów."
+        },
+        "6": {
+          "title": "Globalny zasięg:",
+          "_description": "Internetowa strona Twojej firmy pozwala na dotarcie do klientów globalnie, znacznie rozszerzając Twój zasięg poza lokalny rynek."
+        }
+      },
+      "_summary": "Podsumowując, strona internetowa to kluczowy składnik strategii marketingowej, istotny dla wzrostu i rozwoju biznesu."
+    },
+    "dontWorry": {
+      "_title": "Podejmiemy się wszystkiego - Strony Internetowe Kalety",
+      "_description": "Jako przedsiębiorca w Kaletach, możesz skoncentrować się na swojej działalności, powierzając nam zadanie stworzenia profesjonalnej strony internetowej spełniającej Twoje oczekiwania.",
+      "steps": {
+        "1": {
+          "_description": "Wspólnie zaplanujemy koncepcję i wygląd strony, aby pasowała do charakteru Twojej firmy."
+        },
+        "2": {
+            "_description": "Przygotujemy treści, które przyciągną uwagę i pomogą w zwiększeniu sprzedaży Twoich usług czy produktów."
+          },
+          "3": {
+            "_description": "Zrealizujemy stronę, która idealnie odzwierciedla charakter Twojej marki i przyciąga klientów."
+          }
+        }
+      },
+      "chooseUs": {
+        "_title": "Zdecyduj się na nas, by wyróżnić swoją firmę w Kaletach",
+        "_description1": "Z odpowiednio zaprojektowaną stroną internetową Twoja firma może znacznie poprawić swoją widoczność i renomę. Dostęp do informacji o Twojej działalności to atut, który z pewnością zostanie doceniony przez klientów.",
+        "_description2": "Nie pozostań niezauważony online! Przyciągająca i pamiętna strona internetowa to klucz do zwiększenia ruchu i potencjalnych klientów.",
+        "_description3": "Solidna i łatwa w obsłudze strona internetowa to podstawa budowania zaufania i reputacji Twojej firmy w Kaletach.",
+        "_description4": "Profesjonalnie przygotowane treści i design nie tylko zwracają uwagę, ale również przekształcają zainteresowanie w konkretne działania klientów."
+      },
+      "priceBegin": {
+        "title": "Projekt Twojej strony za 0 zł, realizacja odpłatna tylko gdy spełni Twoje oczekiwania - Strony Internetowe Kalety"
+      },
+      "whatGot": {
+        "cards": {
+          "1": {
+            "_description": "Zajmiemy się wszystkim od początku - nie musisz mieć gotowego projektu, pomożemy Ci wybrać optymalne rozwiązania."
+          },
+          "2": {
+            "_description": "Zapewniamy, że Twoja strona będzie estetyczna i atrakcyjna, zachęcając odwiedzających do dalszego poznawania Twojej oferty."
+          },
+          "3": {
+            "_description": "Tworzymy angażujące treści, które zainteresują Twoich potencjalnych klientów i zachęcą ich do podjęcia działania."
+          },
+          "4": {
+            "_description": "Twoja strona będzie doskonale wyświetlać się na różnorodnych urządzeniach, co jest niezbędne w dzisiejszym mobilnym świecie. 🖥️📱"
+          },
+          "5": {
+            "_description": "Oferujemy ciągłe wsparcie, nawet po zakończeniu projektu zapewniamy pomoc techniczną i merytoryczną, aby Twoja strona zawsze była aktualna i sprawnie funkcjonowała."
+          }
+        }
+      },
+      "takingLook": {
+        "subTitle1": "Najważniejsze jest Twoje zadowolenie",
+        "_subDescription1": "Naszym celem jest osiągnięcie najwyższych standardów jakości, dlatego nie przekazujemy projektów, które nie spełniają naszych kryteriów.",
+        "subTitle2": "Zapewniamy wsparcie na każdym kroku",
+        "_subDescription2": "Jesteśmy gotowi na wszelkie niezbędne modyfikacje Twojej strony internetowej, nawet po jej zakończeniu."
+      },
+      "gallery": {
+        "_title": "Strony Internetowe Kalety - nasza praca, Twoja satysfakcja"
+      },
+      "pageCosts": {
+        "_title": "Strony Internetowe Kalety - koszty utrzymania strony",
+        "_description": "Utrzymanie strony internetowej w Kaletach wiąże się z różnymi kosztami, które są konieczne do jej prawidłowego funkcjonowania i zapewnienia bezpieczeństwa.",
+        "cards": {
+          "1": {
+            "title": "Koszty podstawowe",
+            "subTitle1": "Hosting",
+            "_subDescription1": "Hosting to fundamentalny aspekt każdej strony internetowej, odpowiadający za jej widoczność online. Koszty zależą od wymagań i wielkości strony.",
+            "subTitle2": "Domena",
+            "_subDescription2": "Domena to Twój unikalny adres w sieci. Jej cena zależy od wybranej nazwy i popularności, a także od dostawcy usługi."
+          },
+          "2": {
+            "title": "Koszty dodatkowe",
+            "subTitle1": "Opieka nad stroną",
+            "_subDescription1": "Obejmuje bieżące aktualizacje, monitorowanie bezpieczeństwa i tworzenie kopii zapasowych, co jest kluczowe dla zachowania funkcjonalności i bezpieczeństwa strony.",
+            "subTitle2": "Wprowadzanie zmian",
+            "_subDescription2": "Zmiany na stronie, zarówno samodzielne, jak i te realizowane przez nasz zespół, mogą być częścią dodatkowych usług."
+          }
+        },
+        "_summary": "Podsumowując, utrzymanie strony internetowej w Kaletach wiąże się z kosztami zarówno podstawowymi, jak i dodatkowymi, które są kluczowe dla jej sprawnego działania."
+      },
+      "informations": {
+        "_title": "Jakie informacje są istotne na firmowej stronie w Kaletach?",
+        "_description": "Strona internetowa Twojej firmy w Kaletach powinna zawierać istotne informacje, które pomogą klientom zrozumieć Twoją ofertę i sposób działania.",
+        "items": {
+          "1": {
+            "_subTitle": "Strona Główna:",
+            "_subDescription1": "Prezentuj najważniejsze aspekty Twojej działalności, przyciągając uwagę od pierwszego spojrzenia.",
+            "_subDescription2": "Twój design strony głównej powinien być atrakcyjny i odzwierciedlać charakter marki."
+          },
+          "2": {
+            "_subTitle": "O Nas:",
+            "_subDescription1": "Opowiedz historię swojej firmy, jej wartości i misję, co pozwoli zbudować zaufanie i relacje z klientami.",
+            "_subDescription2": "Przedstaw swój zespół i ich doświadczenie, podkreślając profesjonalizm Twojej działalności."
+          },
+          "3": {
+            "_subTitle": "Usługi/Produkty:",
+            "_subDescription1": "Szczegółowe opisy oferowanych usług lub produktów, ukazujące ich cechy i korzyści dla klientów.",
+            "_subDescription2": "Dostarcz wystarczająco dużo informacji, aby przekonać klientów do wyboru Twojej oferty."
+          },
+          "4": {
+            "_subTitle": "Kontakt:",
+            "_subDescription1": "Podaj wszystkie ważne dane kontaktowe, takie jak adres, numer telefonu, e-mail, umożliwiając klientom łatwy kontakt z Twoją firmą.",
+            "_subDescription2": "Dołącz formularz kontaktowy, który ułatwi klientom szybką komunikację."
+          },
+          "5": {
+            "_subTitle": "Referencje/Opinie:",
+            "_subDescription1": "Dodaj opinie i referencje od zadowolonych klientów, co podniesie wiarygodność Twojej firmy."
+          },
+          "6": {
+            "_subTitle": "Blog/Artykuły:",
+            "_subDescription1": "Regularnie publikuj wartościowe treści branżowe, aby przyciągnąć uwagę i zbudować Twoją pozycję eksperta wśród klientów z Kalet.",
+            "_subDescription2": "Dziel się aktualnościami i ekspercką wiedzą, co może przyciągnąć więcej odwiedzających i zwiększyć ich zaangażowanie."
+          },
+          "7": {
+            "_subTitle": "FAQ (Najczęstsze Pytania):",
+            "_subDescription1": "Udzielaj odpowiedzi na najczęściej zadawane pytania, co pomoże rozwiać wątpliwości i ułatwić klientom podejmowanie decyzji."
+          },
+          "8": {
+            "_subTitle": "Galeria/Zdjęcia:",
+            "_subDescription1": "Zamieszczaj zdjęcia przedstawiające Twoją działalność, zespół i realizacje projektów, co zwiększy zaufanie do Twojej firmy."
+          },
+          "9": {
+            "_subTitle": "Linki do Mediów Społecznościowych:",
+            "_subDescription1": "Załącz linki do profili Twojej firmy na mediach społecznościowych, ułatwiając klientom śledzenie Twojej działalności online."
+          }
+        }
+      },
+      "characters": {
+        "_title": "Cechy dobrej strony www - strony internetowe Kalety",
+        "_description": "Efektywna strona internetowa w Kaletach powinna wykazywać się cechami, które zapewnią użytkownikom pozytywne doświadczenia i efektywną komunikację z klientami.",
+        "items": {
+          "1": {
+            "_subTitle": "Przekonujące treści",
+            "_subDescription": "Treści, które efektywnie przedstawiają wartość Twoich usług lub produktów i motywują do interakcji."
+          },
+          "2": {
+            "_subTitle": "Responsywność",
+            "_subDescription": "Strona dostosowana do wszystkich urządzeń, gwarantująca wygodne korzystanie na komputerach i urządzeniach mobilnych."
+          },
+          "3": {
+            "_subTitle": "Intuicyjna Nawigacja",
+            "_subDescription": "Prosta nawigacja po stronie, umożliwiająca szybkie znalezienie potrzebnych informacji i usług."
+          },
+          "4": {
+            "_subTitle": "Estetyczny Design",
+            "_subDescription": "Atrakcyjny wizualnie projekt strony, który odzwierciedla charakter Twojej marki."
+          },
+          "5": {
+            "_subTitle": "Szybkość Ładowania",
+            "_subDescription": "Optymalizacja strony pod kątem szybkiego ładowania, minimalizująca czas oczekiwania użytkowników."
+          },
+          "6": {
+            "_subTitle": "Bezpieczeństwo",
+            "_subDescription": "Zastosowanie odpowiednich zabezpieczeń, w tym certyfikatu SSL, chroniących dane użytkowników i zapewniających bezpieczne przeglądanie."
+          },
+          "7": {
+            "_subTitle": "Clear Call-to-Action (CTA)",
+            "_subDescription": "Wyraźne i skuteczne przyciski oraz linki zachęcające do działania, jak np. kontakt, zakup, czy zapisanie się do newslettera."
+          },
+          "8": {
+            "_subTitle": "Spójność Treści",
+            "_subDescription": "Jednolite i konsystentne treści na całej stronie, które wzmacniają przekaz Twojej marki."
+          },
+          "9": {
+            "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
+            "_subDescription": "Optymalizacja strony dla wyszukiwarek, aby poprawić jej widoczność w wynikach wyszukiwania, co przyciąga więcej potencjalnych klientów."
+          },
+          "10": {
+            "_subTitle": "Formularze Kontaktowe",
+            "_subDescription": "Dostępne i łatwe w użyciu formularze kontaktowe, które ułatwiają szybką i prostą komunikację z klientami."
+          },
+          "11": {
+            "_subTitle": "Analiza Danych",
+            "_subDescription": "Zastosowanie narzędzi analitycznych, takich jak Google Analytics, do monitorowania ruchu na stronie i zrozumienia zachowań użytkowników, co pozwala na lepszą optymalizację."
+          },
+          "12": {
+            "_subTitle": "Aktualne Informacje",
+            "_subDescription": "Regularne aktualizowanie treści na stronie, aby zapewnić jej aktualność i wiarygodność."
+          },
+          "13": {
+            "_subTitle": "Zgodność Z Standardami",
+            "_subDescription": "Dopasowanie strony do aktualnych standardów internetowych, zapewniające jej prawidłowe funkcjonowanie na różnych przeglądarkach i urządzeniach."
+          },
+          "14": {
+            "_subTitle": "Działające Linki",
+            "_subDescription": "Upewnienie się, że wszystkie linki na stronie są aktywne i prowadzą do odpowiednich miejsc, co zapobiega problemom nawigacyjnym."
+          },
+          "15": {
+            "_subTitle": "Forma i Funkcja",
+            "_subDescription": "Połączenie estetycznego wyglądu strony z jej funkcjonalnością, tworząc stronę zarówno piękną, jak i użyteczną."
+          },
+          "16": {
+            "_subTitle": "Dobrze Zorganizowana Struktura",
+            "_subDescription": "Przejrzysta struktura strony, z łatwo dostępnymi sekcjami i podstronami, ułatwiająca użytkownikom nawigację."
+          },
+          "17": {
+            "_subTitle": "Zgodność Z Prawem",
+            "_subDescription": "Zapewnienie, że strona jest zgodna z obowiązującymi przepisami prawnymi, w tym z RODO, polityką prywatności i prawami autorskimi."
+          }
+        }
+      },
+      "intuition": {
+        "_title": "Strony Internetowe Kalety - Dlaczego intuicyjność jest kluczowa?",
+        "_description": "Intuicyjność strony internetowej jest niezwykle ważna, szczególnie w kontekście ułatwienia użytkownikom z Kalet dostępu do potrzebnych informacji. Łatwa w nawigacji strona zwiększa szanse na dłuższe zatrzymanie użytkownika na stronie i skłania do częstszego odwiedzania."
+      }
+}
