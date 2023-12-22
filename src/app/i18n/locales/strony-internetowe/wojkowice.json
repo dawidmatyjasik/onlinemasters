@@ -134,11 +134,13 @@
         },
         "5": {
           "_subTitle": "Referencje/Opinie:",
-          "_subDescription1": "Recenzje od zadowolonych klientów, świadczące o wysokiej jakości Twoich usług."
+          "_subDescription1": "Recenzje od zadowolonych klientów, świadczące o wysokiej jakości Twoich usług.",
+          "_subDescription2": "Realne przypadki sukcesów klientów."
         },
         "6": {
           "_subTitle": "Blog/Artykuły:",
-          "_subDescription1": "Sekcja z wartościowymi treściami branżowymi, przyciągająca ruch na stronę i budująca Twoją pozycję eksperta."
+          "_subDescription1": "Sekcja z wartościowymi treściami branżowymi, przyciągająca ruch na stronę i budująca Twoją pozycję eksperta.",
+          "_subDescription2": "Firmowe aktualności"
         },
         "7": {
           "_subTitle": "FAQ (Najczęstsze Pytania):",
