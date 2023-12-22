@@ -24,6 +24,10 @@ const initI18next = async () => {
       fallbackLng: 'pl',
       defaultNS: city,
       ns: city,
+      saveMissing: true,
+      missingKeyHandler: (lng, ns, key, fallbackValue) => {
+        console.log(lng, ns, key, fallbackValue);
+      },
     });
   return i18nInstance;
 };

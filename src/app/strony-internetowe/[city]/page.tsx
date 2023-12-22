@@ -17,12 +17,6 @@ export async function generateMetadata({ params }: { params: { city: string } })
   return {
     title: `Strony Internetowe ${capitalizeFirstLetter(city)} | Online Masters`,
     description: `Strony Internetowe ${city} - Profesjonalnie zaprezentuj swoją firmę w internecie i przyciągnij nowych klientów! Zamów darmowy projekt>`,
-    alternates: {
-      canonical: `https://oferty.onlinemasters.pl/strony-internetowe/${city}`,
-      languages: {
-        pl: `https://oferty.onlinemasters.pl/strony-internetowe/${city}`,
-      },
-    },
     referrer: 'origin-when-cross-origin',
     publisher: 'Online Masters',
     creator: 'Online Masters',
