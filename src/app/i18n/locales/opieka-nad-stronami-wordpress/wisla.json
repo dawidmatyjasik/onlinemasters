@@ -1,0 +1,159 @@
+{
+  "hero": {
+    "title": "Opieka nad Stronami WordPress Wisła",
+    "_description": "Opieka nad stronami WordPress Wisła, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+  },
+  "dontWorry": {
+    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
+    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "steps": {
+      "1": {
+        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+      },
+      "2": {
+        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+      },
+      "3": {
+        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+      }
+    }
+  },
+  "chooseUs": {
+    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
+    "_description1": "🔒 Opieka nad stronami WordPress Wisła gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
+    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
+    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
+    "_description4": "✅ Opieka nad stronami WordPress Wisła sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+  },
+  "priceBegin": {
+    "title": "Opieka nad stronami wordpress Wisła od 47 zł/miesiąc"
+  },
+  "whatGot": {
+    "cards": {
+      "1": {
+        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+      },
+      "2": {
+        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+      },
+      "3": {
+        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+      },
+      "4": {
+        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+      },
+      "5": {
+        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+      }
+    }
+  },
+  "takingLook": {
+    "subTitle1": "Zależy nam na Twoim zadowoleniu",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "subTitle2": "Zapewniamy wsparcie",
+    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+  },
+  "gallery": {
+    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Wiśle!"
+  },
+  "characters": {
+    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
+    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "items": {
+      "1": {
+        "_subTitle": "Mniejsze bezpieczeństwo",
+        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Wiśle polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+      },
+      "2": {
+        "_subTitle": "Konflikty wtyczek",
+        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+      },
+      "3": {
+        "_subTitle": "Słabsza wydajność",
+        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+      },
+      "4": {
+        "_subTitle": "Ataki",
+        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+      },
+      "5": {
+        "_subTitle": "Złośliwe Oprogramowanie",
+        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+      },
+      "6": {
+        "_subTitle": "Negatywne oświadczenie Użytkownika",
+        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+      },
+      "7": {
+        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
+        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+      },
+      "8": {
+        "_subTitle": "Brak możliwości przywrócenia strony",
+        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+      },
+      "9": {
+        "_subTitle": "Błędy Skryptów",
+        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+      },
+      "10": {
+        "_subTitle": "Słabsze SEO",
+        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+      },
+      "11": {
+        "_subTitle": "Błędy 404",
+        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+      },
+      "12": {
+        "_subTitle": "Brak Reakcji na Problemy",
+        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Opieka nad stronami WordPress Wisła - dlaczego warto dbać o aktualizacje strony?",
+    "_description": "Nieaktualizowany WordPress może być problemem dla Twojego biznesu z kilku kluczowych powodów:",
+    "tiles": {
+      "1": {
+        "title": "Zabezpieczenia",
+        "_description": "Aktualizacje WordPressa często zawierają poprawki bezpieczeństwa, które neutralizują potencjalne luki, przez które hakerzy mogliby uzyskać nieautoryzowany dostęp do Twojej witryny. Nieaktualizowany system pozostawia Twoją stronę podatną na ataki i potencjalne utraty danych."
+      },
+      "2": {
+        "title": "Kompatybilność",
+        "_description": "W miarę jak WordPress aktualizuje się, również motywy i wtyczki wymagają dostosowań, aby pozostać kompatybilnymi. Korzystanie z nieaktualizowanych wersji motywów i wtyczek może prowadzić do konfliktów i błędów, co wpływa negatywnie na działanie strony."
+      },
+      "3": {
+        "title": "Wydajność",
+        "_description": "Aktualizacje często zawierają optymalizacje, które poprawiają wydajność systemu. Ignorowanie tych aktualizacji może skutkować spowolnieniem strony, co negatywnie wpływa na doświadczenie użytkowników i pozycje w wynikach wyszukiwania."
+      },
+      "4": {
+        "title": "Nowe funkcje",
+        "_description": "Nowe wersje WordPressa często wprowadzają nowe funkcje i ulepszenia, które mogą poprawić funkcjonalność Twojej witryny. Pozostawanie przy nieaktualizowanej wersji oznacza utratę dostępu do nowych możliwości."
+      },
+      "5": {
+        "title": "Zgodność ze standardami",
+        "_description": "W miarę jak standardy internetowe ewoluują, tak samo muszą dostosowywać się strony internetowe. Nieaktualizowany WordPress może przestać spełniać aktualne wymagania, co wpływa na zgodność z najnowszymi standardami branżowymi."
+      },
+      "6": {
+        "title": "Rozwiązywanie błędów",
+        "_description": "Aktualizacje nie tylko dodają nowe funkcje, ale także naprawiają błędy z poprzednich wersji. Nieaktualizowany system może być podatny na znane błędy, które mogą prowadzić do awarii lub problemów z działaniem strony."
+      }
+    },
+    "_summary": "W dzisiejszym dynamicznym środowisku online, regularna aktualizacja systemu i jego komponentów to kluczowy element utrzymania witryny w dobrej kondycji i zabezpieczenia przed różnymi zagrożeniami. Podsumowując, opieka nad stronami WordPress, ma za zadanie zapewnić, że wersja Twojej strony jest zawsze aktualna. "
+  },
+  "backups": {
+    "_title": "Opieka nad stronami internetowymi Wisła - dlaczego warto wykonywać kopie zapasowe?",
+    "_description1": "Regularne wykonywanie kopii zapasowych strony WordPress jest niezwykle istotne z kilku powodów. Po pierwsze, stanowią one kluczowy element w ramach kompleksowej opieki nad stronami WordPress. Te zaplanowane i systematyczne kopie stanowią fundamentalną część strategii zabezpieczeń. Dzięki nim, w razie awarii, ataku hakerskiego, błędu człowieka lub innych nieprzewidzianych zdarzeń, opieka nad stronami WordPress staje się bardziej kompleksowa. Kopie zapasowe umożliwiają szybkie przywrócenie witryny do poprzedniego stanu, minimalizując straty czasowe i informacyjne.",
+    "_description2": "Dodatkowo, w przypadku wprowadzania istotnych zmian na stronie, takich jak aktualizacje WordPressa, wtyczek czy motywów, wykonanie kopii zapasowej przed dokonaniem tych zmian może stanowić swoistą “sieć bezpieczeństwa” w ramach szeroko pojętej opieki nad stroną WordPress. Jeśli coś pójdzie nie tak podczas aktualizacji, można wrócić do działającej wersji strony.",
+    "_description3": "Kopie zapasowe są również kluczowym aspektem opieki nad stroną WordPress dla zapewnienia ciągłości działania biznesu online. W przypadku witryn e-commerce czy firmowych blogów, utrata danych może prowadzić do poważnych konsekwencji finansowych i utraty zaufania klientów. Wykonywanie regularnych kopii zapasowych stanowi zabezpieczenie przed tego rodzaju ryzykiem i jest integralną częścią opieki nad stroną.",
+    "_description4": "W skrócie, kopie zapasowe są swoistym “ubezpieczeniem” dla witryny WordPress, wpisując się w kontekst szerokiej opieki nad stroną WordPress. Zapewniają one spokój umysłu właścicieli strony, umożliwiając im skuteczną reakcję na sytuacje awaryjne i potwierdzając kompleksowość podejścia do opieki nad stronami WordPress."
+  },
+  "speed": {
+    "_title": "Opieka nad stroną WordPress Wisła - dlaczego warto dbać o prędkość strony?",
+    "_description1": "Optymalizacja prędkości ładowania strony na WordPress odgrywa kluczową rolę w zapewnieniu skutecznej opieki nad stroną WordPress. Szybka strona nie tylko poprawia doświadczenie użytkownika, lecz także wpływa na kluczowe wskaźniki sukcesu online. Dbałość o prędkość ładowania staje się integralnym aspektem strategii opieki nad stronami WordPress, ukierunkowanej na utrzymanie witryny w optymalnej kondycji.",
+    "_description2": "W kontekście SEO, szybkie strony otrzymują preferencyjne traktowanie od wyszukiwarek, co czyni optymalizację prędkości ładowania kluczowym zadaniem w ramach opieki nad stronami WordPress. Warto zrozumieć, że efektywna opieka nad stroną nie ogranicza się jedynie do aspektów bezpieczeństwa, ale obejmuje także optymalizację dla lepszych wyników w wyszukiwarkach.",
+    "_description3": "Opieka nad prędkością ładowania staje się szczególnie istotna w kontekście doświadczenia użytkownika, wpływając na retencję odwiedzających oraz ich skłonność do interakcji z treścią strony. Dłużej ładowające się strony mogą prowadzić do utraty zainteresowania użytkowników, co wpływa negatywnie na cele biznesowe witryny.",
+    "_description4": "Kluczowym celem opieki nad stronami WordPress jest nie tylko utrzymanie funkcjonalności, ale także optymalizacja pod kątem skuteczności biznesowej. Strona o szybkiej prędkości ładowania ma większe szanse na przekształcenie odwiedzających w klientów, co stanowi integralny element strategii opieki nad stroną WordPress.",
+    "_summary": "Podsumowując, optymalizacja prędkości ładowania to nie tylko kwestia komfortu użytkownika, lecz kluczowy element strategii opieki nad stroną WordPress. Dbałość o szybkość ładowania wpisuje się w kompleksowy charakter opieki nad stronami WordPress, skupiającej się na zrównoważonym rozwoju, bezpieczeństwie i efektywności biznesowej witryny online."
+  }
+}

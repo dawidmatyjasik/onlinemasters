@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { OpiekaNadStronamiWordpress } from 'components/organisms/opieka-nad-stronami-wordpress/OpiekaNadStronamiWordpress';
-import { getCityData, useRedirect } from 'utils/getCityData';
+import { getCityData } from 'utils/getCityData';
 
 import type { Metadata } from 'next';
 
@@ -23,7 +23,6 @@ export async function generateMetadata({ params }: { params: { city: string } })
   };
 }
 
-export default async function Page({ params }: { params: { city: string } }) {
-  await useRedirect('opieka-nad-stronami-wordpress', params.city);
+export default async function Page() {
   return <OpiekaNadStronamiWordpress />;
 }
