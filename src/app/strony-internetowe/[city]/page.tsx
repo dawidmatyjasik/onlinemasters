@@ -17,6 +17,7 @@ export async function generateMetadata({ params }: { params: { city: string } })
   return {
     title: `Strony Internetowe ${capitalizeFirstLetter(city)} | Online Masters`,
     description: `Strony Internetowe ${city} - Profesjonalnie zaprezentuj swoją firmę w internecie i przyciągnij nowych klientów! Zamów darmowy projekt>`,
+    icons: '/images/favicon.png',
     referrer: 'origin-when-cross-origin',
     publisher: 'Online Masters',
     creator: 'Online Masters',

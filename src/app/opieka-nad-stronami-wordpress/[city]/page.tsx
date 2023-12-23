@@ -17,6 +17,7 @@ export async function generateMetadata({ params }: { params: { city: string } })
   return {
     title: `Opieka nad Stronami Wordpress ${capitalizeFirstLetter(city)} | Online Masters`,
     description: `Opieka nad stronami WordPress ${city}. Nie martw o to czy Twoja strona jest bezpieczna i zawsze widoczna. Sprawdź teraz naszą ofertę >`,
+    icons: '/images/favicon.png',
     referrer: 'origin-when-cross-origin',
     publisher: 'Online Masters',
     creator: 'Online Masters',
