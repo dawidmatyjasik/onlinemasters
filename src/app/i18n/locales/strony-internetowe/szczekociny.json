@@ -1,0 +1,236 @@
+{
+    "hero": {
+      "title": "Strony Internetowe Szczekociny",
+      "_description": "Strony Internetowe Szczekociny zaprojektowane, aby wzmocnić Twój wizerunek w sieci i skutecznie promować Twoje usługi. Prezentuj swoją działalność online profesjonalnie i zdobywaj nowych klientów w Szczekocinach! 💻"
+    },
+    "whyUs": {
+      "title": "Strony Internetowe Szczekociny - dlaczego warto mieć stronę www?",
+      "_description": "Dla firm i przedsiębiorców w Szczekocinach, posiadanie własnej strony www jest niezbędne do odniesienia sukcesu. W świecie, gdzie internet dominuje, strona internetowa oferuje istotne korzyści.",
+      "tiles": {
+        "1": {
+          "title": "Konkurencyjność na rynku:",
+          "_description": "W obecnych czasach, każda firma powinna posiadać stronę internetową, aby być konkurencyjną. Jest to standard, który zwiększa widoczność firmy online."
+        },
+        "2": {
+          "title": "Dostępność 24/7:",
+          "_description": "Strona www zapewnia stałą dostępność Twojej oferty, co jest kluczowe. Pozwala to klientom z Szczekocin na zapoznanie się z Twoją firmą o każdej porze."
+        },
+        "3": {
+          "title": "Budowanie marki w Szczekocinach:",
+          "_description": "Strona internetowa to narzędzie do budowania i promowania marki, pozwalające na wyróżnienie się wśród konkurencji i budowanie silnej obecności online."
+        },
+        "4": {
+          "title": "Komunikacja z klientami:",
+          "_description": "Strona umożliwia łatwe utrzymanie kontaktu z klientami, umieszczanie informacji o nowościach i promocjach dostosowanych do mieszkańców Szczekocin."
+        },
+        "5": {
+          "title": "Rozwój sprzedaży online:",
+          "_description": "Strona internetowa umożliwia wejście w świat e-commerce, rozszerzając rynek i docierając do klientów preferujących zakupy online."
+        },
+        "6": {
+          "title": "Globalna obecność:",
+          "_description": "Dzięki stronie internetowej Twoja działalność w Szczekocinach może dotrzeć do szerszego grona klientów, zarówno lokalnych, jak i globalnych."
+        }
+      },
+      "_summary": "W dobie cyfrowej, strona internetowa stanowi kluczowy element w strategii biznesowej, wpływając na zasięg i skuteczność firmy."
+    },
+    "dontWorry": {
+      "_title": "Zadbamy o wszystko - Strony Internetowe Szczekociny",
+      "_description": "Jako przedsiębiorca w Szczekocinach nie musisz być specjalistą w tworzeniu stron. Zgłoś nam swoje potrzeby, a my zajmiemy się resztą, kreując stronę idealnie odpowiadającą Twoim celom biznesowym.",
+      "steps": {
+        "1": {
+          "_description": "Razem zaplanujemy strukturę i wygląd Twojej strony, aby najlepiej służyła Twojemu biznesowi."
+        },
+        "2": {
+          "_description": "Opracujemy treści, które skutecznie promują Twoje usługi lub produkty."
+        },
+        "3": {
+          "_description": "Zaprojektujemy Twoją stronę, aby była wierna wizerunkowi i wartościom Twojej marki."
+        }
+      }
+    },
+    "chooseUs": {
+      "_title": "Wybierz nasze usługi, by Twoja firma w Szczekocinach się wyróżniała",
+      "_description1": "Profesjonalnie zaprojektowana strona www może pozytywnie wpłynąć na odbiór Twojej firmy. Przejrzysta i dostępna witryna to komfort dla klientów.",
+      "_description2": "Nie pozwól, aby Twoja firma pozostała niezauważona online! Atrakcyjna strona zwiększa szanse, że klienci wrócą, by dokonać zakupu.",
+      "_description3": "Efektywnie działająca strona internetowa w połączeniu z pozytywnymi opiniami buduje zaufanie i solidną reputację Twojej firmy w Szczekocinach.",
+      "_description4": "Dobrze opracowane treści przyciągną więcej potencjalnych klientów i skłonią ich do skorzystania z Twojej oferty."
+    },
+    "priceBegin": {
+      "title": "Za 0 zł zaprojektujemy wizualny projekt Twojej strony, realizacja będzie odpłatna tylko, jeśli spełni Twoje oczekiwania - Strony Internetowe Szczekociny"
+    },
+    "whatGot": {
+      "cards": {
+        "1": {
+          "_description": "Oferujemy doradztwo i najlepsze rozwiązania dopasowane do potrzeb Twojej firmy w Szczekocinach."
+        },
+        "2": {
+          "_description": "Zapewniamy, że Twoja strona będzie atrakcyjna i przyjazna dla użytkowników, zachęcając ich do interakcji."
+        },
+        "3": {
+          "_description": "Możemy stworzyć angażujące treści, które przyciągną uwagę i przekonają klientów do wybrania Twojej oferty."
+        },
+        "4": {
+          "_description": "Twoja strona będzie optymalnie wyświetlać się na różnorodnych urządzeniach, od komputerów po smartfony."
+        },
+        "5": {
+          "_description": "Oferujemy ciągłe wsparcie techniczne i merytoryczne po zakończeniu projektu, aby Twoja strona zawsze była aktualna i sprawna."
+        }
+      }
+    },
+    "takingLook": {
+      "subTitle1": "Naszym celem jest Twoje zadowolenie",
+      "_subDescription1": "Dążymy do osiągnięcia najwyższych standardów, dlatego każdy projekt musi spełniać nasze rygorystyczne kryteria jakości.",
+      "subTitle2": "Zapewniamy wsparcie na każdym etapie",
+      "_subDescription2": "Pozostajemy do Twojej dyspozycji, gotowi do wprowadzenia zmian i ulepszeń, nawet po uruchomieniu strony."
+    },
+    "gallery": {
+      "_title": "Strony Internetowe Szczekociny - Nasze realizacje mówią same za siebie"
+    },
+    "pageCosts": {
+      "_title": "Strony Internetowe Szczekociny - przegląd kosztów utrzymania strony",
+      "_description": "Utrzymanie strony internetowej w Szczekocinach wiąże się z różnymi kosztami, od podstawowych, jak hosting i domena, po dodatkowe, związane z opieką i aktualizacjami.",
+      "cards": {
+        "1": {
+          "title": "Koszty niezbędne",
+          "subTitle1": "Hosting",
+          "_subDescription1": "Hosting to miejsce, gdzie Twoja strona jest przechowywana i dostępna online. Koszty mogą się różnić w zależności od Twoich potrzeb.",
+          "subTitle2": "Domena",
+          "_subDescription2": "Twój adres w internecie. Ceny domen różnią się w zależności od wybranego typu i popularności."
+        },
+        "2": {
+          "title": "Koszty dodatkowe",
+          "subTitle1": "Opieka nad stroną",
+          "_subDescription1": "Obejmuje regularne aktualizacje i monitorowanie bezpieczeństwa, co jest kluczowe dla niezawodności strony.",
+          "subTitle2": "Wprowadzanie zmian",
+          "_subDescription2": "Możliwość wprowadzania zmian i dostosowań w zależności od potrzeb Twojej firmy w Szczekocinach, co może być częścią dodatkowego pakietu opieki."
+        }
+      },
+      "_summary": "Podsumowując, utrzymanie strony internetowej w Szczekocinach wiąże się z kosztami zarówno niezbędnymi, jak hosting i domena, jak i dodatkowymi, związanymi z opieką i ewentualnymi zmianami."
+    },
+    "informations": {
+      "_title": "Jakie informacje warto umieścić na firmowej stronie w Szczekocinach?",
+      "_description": "Firmowa strona internetowa powinna zawierać kluczowe informacje, które przyciągną uwagę potencjalnych klientów i dostarczą im niezbędnych danych o Twojej firmie w Szczekocinach.",
+      "items": {
+        "1": {
+          "_subTitle": "Strona Główna:",
+          "_subDescription1": "Przedstawienie Twojej działalności w atrakcyjny sposób.",
+          "_subDescription2": "Design, który przyciąga uwagę i zachęca do dalszego eksplorowania oferty."
+        },
+        "2": {
+          "_subTitle": "O Nas:",
+          "_subDescription1": "Informacje o historii firmy, zespole i wartościach.",
+          "_subDescription2": "Misja i wizja przedsiębiorstwa."
+        },
+        "3": {
+          "_subTitle": "Usługi/Produkty:",
+          "_subDescription1": "Szczegółowe informacje o oferowanych usługach lub produktach.",
+          "_subDescription2": "Korzyści i zalety, które oferujesz swoim klientom."
+        },
+        "4": {
+          "_subTitle": "Kontakt:",
+          "_subDescription1": "Dane kontaktowe, takie jak adres, numer telefonu, e-mail.",
+          "_subDescription2": "Formularz kontaktowy dla łatwej komunikacji."
+        },
+        "5": {
+          "_subTitle": "Referencje/Opinie:",
+          "_subDescription1": "Opinie zadowolonych klientów i przykłady sukcesów."
+        },
+        "6": {
+          "_subTitle": "Blog/Artykuły:",
+          "_subDescription1": "Sekcja z artykułami branżowymi i aktualnościami.",
+          "_subDescription2": "Informacje i nowości dotyczące Twojej firmy."
+        },
+        "7": {
+          "_subTitle": "FAQ (Najczęstsze Pytania):",
+          "_subDescription1": "Odpowiedzi na często zadawane pytania."
+        },
+        "8": {
+          "_subTitle": "Galeria/Zdjęcia:",
+          "_subDescription1": "Zdjęcia zespołu, biura, realizacji projektów, itp."
+        },
+        "9": {
+          "_subTitle": "Linki do Mediów Społecznościowych:",
+          "_subDescription1": "Ikony i linki do profilów firmy na platformach społecznościowych."
+        }
+      }
+    },
+    "characters": {
+      "_title": "Cechy dobrej strony www - strony internetowe Szczekociny",
+      "_description": "Dobra strona internetowa powinna posiadać szereg cech, które przyczynią się do pozytywnego doświadczenia użytkownika, efektywności działania i skuteczności w komunikacji.",
+      "items": {
+        "1": {
+          "_subTitle": "Przekonujące treści",
+          "_subDescription": "Treści, które skutecznie przekonują potencjalnych klientów do skorzystania z oferty Twojej firmy."
+        },
+        "2": {
+          "_subTitle": "Responsywność",
+          "_subDescription": "Strona dostosowana do różnych urządzeń, aby była funkcjonalna zarówno na komputerach, jak i urządzeniach mobilnych."
+        },
+        "3": {
+          "_subTitle": "Intuicyjna Nawigacja",
+          "_subDescription": "Łatwa nawigacja, umożliwiająca szybkie odnalezienie informacji."
+        },
+        "4": {
+          "_subTitle": "Estetyczny Design",
+          "_subDescription": "Atrakcyjny projekt graficzny, zgodny z identyfikacją wizualną Twojej marki."
+        },
+        "5": {
+          "_subTitle": "Szybkość Ładowania",
+          "_subDescription": "Optymalizacja strony pod kątem szybkiego ładowania."
+        },
+        "6": {
+          "_subTitle": "Bezpieczeństwo",
+          "_subDescription": "Zabezpieczenia, takie jak certyfikat SSL, chroniące dane użytkowników."
+        },
+        "7": {
+          "_subTitle": "Clear Call-to-Action (CTA)",
+          "_subDescription": "Wyraźne i zachęcające do działania przyciski i linki."
+        },
+        "8": {
+          "_subTitle": "Spójność Treści",
+          "_subDescription": "Konsekwencja i spójność treści na stronie."
+        },
+        "9": {
+          "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
+          "_subDescription": "Optymalizacja treści i struktury strony dla lepszej widoczności w wyszukiwarkach."
+        },
+        "10": {
+          "_subTitle": "Formularze Kontaktowe",
+          "_subDescription": "Formularze dla łatwej interakcji z użytkownikami."
+        },
+        "11": {
+          "_subTitle": "Analiza Danych",
+          "_subDescription": "Narzędzia do śledzenia ruchu i analizy zachowań użytkowników."
+        },
+        "12": {
+          "_subTitle": "Aktualne Informacje",
+          "_subDescription": "Regularnie aktualizowane treści i informacje na stronie."
+        },
+        "13": {
+          "_subTitle": "Zgodność Z Standardami",
+          "_subDescription": "Zgodność z aktualnymi standardami internetowymi i przeglądarkami."
+        },
+        "14": {
+          "_subTitle": "Działające Linki",
+          "_subDescription": "Aktywne i prawidłowo kierujące linki na stronie."
+        },
+        "15": {
+          "_subTitle": "Forma i Funkcja",
+          "_subDescription": "Połączenie estetyki z użytecznością strony."
+        },
+        "16": {
+          "_subTitle": "Dobrze Zorganizowana Struktura",
+          "_subDescription": "Jasna struktura strony, z łatwo dostępnymi sekcjami i podstronami."
+        },
+        "17": {
+          "_subTitle": "Zgodność Z Prawem",
+          "_subDescription": "Zgodność z obowiązującymi przepisami prawnymi, w tym polityką prywatności i warunkami korzystania."
+        }
+      }
+    },
+    "intuition": {
+      "_title": "Strony Internetowe Szczekociny - dlaczego ważne jest, aby strona była intuicyjna?",
+      "_description": "Intuicyjność strony internetowej jest kluczowa dla zapewnienia pozytywnego doświadczenia użytkownika. Łatwość nawigacji i dostępu do informacji sprawia, że użytkownicy chętniej korzystają z witryny i powracają do niej."
+    }
+}
