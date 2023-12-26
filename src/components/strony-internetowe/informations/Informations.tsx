@@ -68,7 +68,7 @@ export const Informations = async () => {
         </Text>
         <Divider />
         <Text type="heading">{t('_description')}</Text>
-        <div className="grid grid-cols-3 grid-rows-3 gap-8">
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-2  lg:grid-cols-3">
           {INFORMATIONS_STRUCTURE.map(({ subTitle, description1, description2 }) => (
             <InformationsCard
               key={subTitle}

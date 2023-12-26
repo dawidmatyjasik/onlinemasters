@@ -24,7 +24,7 @@ const COSTS_STRUCTURE = [
 const CostCards = async () => {
   const { t } = await useTranslation('pageCosts.cards');
   return (
-    <div className="flex gap-10 py-6">
+    <div className="flex flex-col gap-10 py-6 lg:flex-row">
       {COSTS_STRUCTURE.map(({ title, features }) => (
         <Card key={title} className="flex flex-1 flex-col gap-6">
           <Text type="heading" as="h3">

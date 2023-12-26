@@ -7,13 +7,13 @@ import { Button } from 'components/ui/button';
 
 export const FreeStaff = () => (
   <div
-    className="flex h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat"
+    className="hidden min-h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat lg:flex"
     style={{
       backgroundPosition: 'top center',
       backgroundImage: `url(/strony-internetowe/free-staff/darmowe-rzeczy.webp)`,
     }}>
     <div
-      className="flex h-full w-full  items-center justify-center"
+      className="flex h-full min-h-[500px] w-full  items-center justify-center"
       style={{
         backgroundColor: 'rgba(2, 24, 82, 0.7)',
       }}>
@@ -30,7 +30,7 @@ export const FreeStaff = () => (
             współpracy po zapoznaniu się z naszą jakością i podejściem do działania.
           </Text>
           <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
-            <Button size="lg" variant="secondary" className="mx-auto w-[400px]">
+            <Button size="lg" variant="secondary" className="mx-auto ">
               Zamawiam bezpłatny projekt
             </Button>
           </Link>
