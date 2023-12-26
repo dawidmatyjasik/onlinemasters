@@ -12,26 +12,28 @@ export const PriceBegin = async () => {
   const { t } = await useTranslation('priceBegin');
   return (
     <div
-      className="flex h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat"
+      className="flex min-h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat "
       style={{
         backgroundPosition: 'top center',
         backgroundImage: `url(/images/website/website_background_blue_colors_l.webp)`,
       }}>
       <div
-        className="flex h-full w-full  items-center justify-center"
+        className="flex h-full min-h-[500px] w-full items-center justify-center"
         style={{
           backgroundColor: 'rgba(2, 24, 82, 0.7)',
         }}>
         <Container>
-          <div className="flex flex-col gap-6">
+          <div className="flex flex-col gap-6 ">
             <Text color="white" className="text-center uppercase">
               Rewolucja
             </Text>
-            <Text className="text-center" color="white" as="h2">
+            <Text className="text-center text-[20px] md:text-[32px] 2xl:text-[40px]" color="white" as="h2">
               {t('title')}
             </Text>
-            <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
-              <Button size="lg" variant="secondary" className="mx-auto w-[400px]" iconStart={<ChevronRight />}>
+            <Link
+              href="https://onlinemasters.pl/bezplatny-projekt-strony"
+              className="mx-auto w-fit [text-wrap:balance]">
+              <Button size="lg" variant="secondary" className="mx-auto" iconStart={<ChevronRight />}>
                 Zamawiam bezpłatny projekt
               </Button>
             </Link>

@@ -15,7 +15,7 @@ export const GetProject = () => (
       <Text as="h2">Zamów bezpłatny projekt</Text>
       <Text>
         lub zadzwoń:{' '}
-        <Link className="font-bold" href="tel:575990730">
+        <Link className="text-center font-bold" href="tel:575990730">
           575 990 730
         </Link>
       </Text>
