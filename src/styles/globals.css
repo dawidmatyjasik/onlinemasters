@@ -103,10 +103,16 @@ body {
 
   h1 {
     @apply text-h1;
+    @media (max-width: 768px) {
+      font-size: 40px;
+    }
   }
 
   h2 {
     @apply text-h2;
+    @media (max-width: 768px) {
+      font-size: 32px;
+    }
   }
 
   h3 {
