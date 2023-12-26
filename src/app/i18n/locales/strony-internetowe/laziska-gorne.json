@@ -134,7 +134,8 @@
         },
         "5": {
           "_subTitle": "Referencje/Opinie:",
-          "_subDescription1": "Opinie i referencje od zadowolonych klientów, które mogą być dowodem na skuteczność i wysoką jakość Twoich usług."
+          "_subDescription1": "Opinie i referencje od zadowolonych klientów, które mogą być dowodem na skuteczność i wysoką jakość Twoich usług.",
+          "_subDescription2": "Realne przypadki sukcesu."
         },
         "6": {
           "_subTitle": "Blog/Artykuły:",
@@ -180,7 +181,8 @@
         },
         "6": {
           "_subTitle": "Bezpieczeństwo",
-          "_subDescription": "Zabezpieczenia, takie jak certyfikat SSL, chroniące dane użytkowników i zapewniające bezpieczne przeglądanie."
+          "_subDescription": "Zabezpieczenia, takie jak certyfikat SSL, chroniące dane użytkowników i zapewniające bezpieczne przeglądanie.",
+          "_subDescription2": "Aktualności związane z biznesem"
         },
         "7": {
           "_subTitle": "Clear Call-to-Action (CTA)",

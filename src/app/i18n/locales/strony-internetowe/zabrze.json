@@ -76,6 +76,7 @@
         "5": {
           "_description": "Po zakończeniu projektu cały czas jesteśmy do dyspozycji. Zapewniamy ciągłe wsparcie techniczne i merytoryczne"
         }
+      }
     },
     "takingLook": {
       "subTitle1": "Zależy nam na Twoim zadowoleniu",
@@ -133,7 +134,8 @@
         },
         "5": {
           "_subTitle": "Referencje/Opinie:",
-          "_subDescription1": "Opinie zadowolonych klientów i przykłady sukcesów."
+          "_subDescription1": "Opinie zadowolonych klientów i przykłady sukcesów.",
+          "_subDescription2": "Realne przypadki sukcesów klientów."
         },
         "6": {
           "_subTitle": "Blog/Artykuły:",
@@ -233,4 +235,3 @@
         "_description": "Intuicyjność strony internetowej odgrywa kluczową rolę w zapewnieniu pozytywnego doświadczenia użytkownika. Łatwość nawigacji stanowi fundament, umożliwiając użytkownikom z Zabrza sprawnie poruszanie się po stronie bez zbędnych trudności. Poprawia to ogólne zadowolenie z korzystania z witryny i skraca czas potrzebny do osiągnięcia celów. Użytkownicy są mniej narażeni na popełnianie błędów, co wpływa na efektywność interakcji. Strony internetowe Zabrze o intuicyjnej strukturze zachęcają do aktywnego uczestnictwa, zwiększając zaangażowanie użytkowników."
       }
     }
-}

@@ -130,11 +130,13 @@
         },
         "5": {
           "_subTitle": "Referencje/Opinie:",
-          "_subDescription1": "Opinie zadowolonych klientów i przykłady udanych realizacji, które zwiększają wiarygodność Twojej firmy."
+          "_subDescription1": "Opinie zadowolonych klientów i przykłady udanych realizacji, które zwiększają wiarygodność Twojej firmy.",
+          "_subDescription2": "Realne przypadki sukcesu."
         },
         "6": {
           "_subTitle": "Blog/Artykuły:",
-          "_subDescription1": "Sekcja bloga z artykułami branżowymi i aktualnościami, która przyciąga ruch i buduje Twoją pozycję eksperta."
+          "_subDescription1": "Sekcja bloga z artykułami branżowymi i aktualnościami, która przyciąga ruch i buduje Twoją pozycję eksperta.",
+          "_subDescription2": "Firmowe aktualności."
         },
         "7": {
           "_subTitle": "FAQ (Najczęstsze Pytania):",

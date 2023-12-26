@@ -134,11 +134,13 @@
       },
       "5": {
         "_subTitle": "Referencje/Opinie:",
-        "_subDescription1": "Recenzje od zadowolonych klientów i przykłady udanych realizacji."
+        "_subDescription1": "Recenzje od zadowolonych klientów i przykłady udanych realizacji.",
+        "_subDescription2": "Realne przypadki sukcesu."
       },
       "6": {
         "_subTitle": "Blog/Artykuły:",
-        "_subDescription1": "Sekcja z artykułami branżowymi i aktualnościami dotyczącymi Twojej firmy."
+        "_subDescription1": "Sekcja z artykułami branżowymi i aktualnościami dotyczącymi Twojej firmy.",
+        "_subDescription2": "Aktualności związane z Twoim biznesem"
       },
       "7": {
         "_subTitle": "FAQ (Najczęstsze Pytania):",

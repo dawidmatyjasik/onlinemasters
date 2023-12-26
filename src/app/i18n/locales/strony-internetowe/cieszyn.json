@@ -134,11 +134,13 @@
         },
         "5": {
           "_subTitle": "Referencje/Opinie:",
-          "_subDescription1": "Opinie i referencje od zadowolonych klientów, które mogą być dowodem na skuteczność i wysoką jakość Twoich usług."
+          "_subDescription1": "Opinie i referencje od zadowolonych klientów, które mogą być dowodem na skuteczność i wysoką jakość Twoich usług.",
+          "_subDescription2": "Realne przypadki sukcesu."
         },
         "6": {
           "_subTitle": "Blog/Artykuły:",
-          "_subDescription1": "Regularne publikowanie wartościowych treści związanych z branżą, które mogą przyciągać ruch na stronę i budować Twoją pozycję eksperta."
+          "_subDescription1": "Regularne publikowanie wartościowych treści związanych z branżą, które mogą przyciągać ruch na stronę i budować Twoją pozycję eksperta.",
+          "_subDescription2": "Firmowe aktualności"
         },
         "7": {
           "_subTitle": "FAQ (Najczęstsze Pytania):",
