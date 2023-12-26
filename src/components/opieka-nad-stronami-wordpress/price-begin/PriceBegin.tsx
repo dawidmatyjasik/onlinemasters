@@ -11,13 +11,13 @@ export const PriceBegin = async () => {
   const { t } = await useTranslation('priceBegin');
   return (
     <div
-      className="flex h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat"
+      className="flex min-h-[500px] w-full items-center justify-center bg-cover bg-fixed bg-no-repeat "
       style={{
         backgroundPosition: 'top center',
         backgroundImage: `url(/images/website/website_background_blue_colors_l.webp)`,
       }}>
       <div
-        className="flex h-full w-full  items-center justify-center"
+        className="flex h-full min-h-[500px] w-full items-center justify-center"
         style={{
           backgroundColor: 'rgba(2, 24, 82, 0.7)',
         }}>
@@ -27,7 +27,7 @@ export const PriceBegin = async () => {
               {t('title')}
             </Text>
             <a href="#cennik" className="mx-auto w-fit">
-              <Button size="lg" variant="secondary" className="mx-auto w-[400px]" iconStart={<ChevronRight />}>
+              <Button size="lg" variant="secondary" className="mx-auto" iconStart={<ChevronRight />}>
                 Zobacz cennik
               </Button>
             </a>
