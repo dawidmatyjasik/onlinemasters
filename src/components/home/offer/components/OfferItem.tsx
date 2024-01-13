@@ -20,8 +20,8 @@ export interface OfferItemProps {
 }
 
 const OfferItem = ({ src, alt, title, description1, description2, link, index }: OfferItemProps) => (
-  <section className={cn('flex items-center justify-start gap-20', index % 2 && 'flex-row-reverse')}>
-    <Image src={src} alt={alt} width={425} height={640} className="flex-1 rounded-2xl lg:block" />
+  <section className={cn('flex flex-col items-center justify-start gap-20', index % 2 && 'flex-row-reverse')}>
+    <Image src={src} alt={alt} width={425} height={640} className="hidden flex-1 rounded-2xl lg:block" />
     <article className="flex flex-col gap-6">
       <Text as="h2">{title}</Text>
       <Divider />

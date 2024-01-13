@@ -3,7 +3,7 @@ import React from 'react';
 import Image from 'next/image';
 
 export const MainImages = async () => (
-  <div className=" flex w-full flex-col lg:w-4/12 lg:pr-16 ">
+  <div className="flex w-full flex-col lg:w-4/12 lg:pr-16 ">
     <div className="relative left-0 top-0">
       <Image
         src="/opieka/hero/hero-1.webp"
