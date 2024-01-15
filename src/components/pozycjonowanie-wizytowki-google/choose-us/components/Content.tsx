@@ -20,9 +20,9 @@ export const Content = async () => {
           #OnlineMasters
         </Link>
         <Link
-          href="https://onlinemasters.pl/strony-internetowe"
+          href="https://onlinemasters.pl/opieka-nad-stronami-wordpress"
           className="flex h-[48px] w-fit items-center font-semibold">
-          #StronyInternetowe
+          #OpiekaNadStronąWordpress
         </Link>
         <Link href="https://onlinemasters.pl/oferta" className="flex h-[48px] w-fit items-center font-semibold">
           #WyróżnijSwojąFirmę

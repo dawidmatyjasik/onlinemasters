@@ -43,8 +43,8 @@ export default async function Page() {
     <>
       <Hero />
       <DontWorry />
-      <WhyUs />
       <ChooseUs />
+      <WhyUs />
       <PriceBegin />
       <WhatGot />
       <TakingLook />

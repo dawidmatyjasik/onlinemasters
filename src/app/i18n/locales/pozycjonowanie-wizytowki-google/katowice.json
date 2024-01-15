@@ -18,6 +18,13 @@
       }
     }
   },
+  "chooseUs": {
+    "_title": "Mały krok dla nas, wielki skok dla Twojej firmy",
+    "_description1": "🤔 Kiedy Twoja wizytówka znajduje się na pierwszym miejscu w wynikach map Google, jest znacznie bardziej widoczna dla użytkowników, co może przyczynić się do zwiększenia ruchu na Twojej stronie internetowej lub do odwiedzin w sklepie.",
+    "_description2": "👌💻 Kiedy Twój biznes pojawia się wysoko na liście firm, klienci często postrzegają go jako bardziej godny zaufania.",
+    "_description3": "🚀 Klienci często pozostawiają opinie i oceny na mapach Google. Jeśli Twoja firma ma dobre recenzje, może to zachęcić potencjalnych klientów do wyboru Twoich usług lub produktów.",
+    "_description4": "✨ Jeśli Twoja firma działa lokalnie, wypozycjonowanie wizytówki Google Katowice, na pierwsze miejsce pomoże przyciągnąć klientów z okolicznych dzielnic."
+  },
   "whyUs": {
     "title": "Strony Internetowe Katowice - dlaczego warto posiadać stronę www?",
     "_description": "Posiadanie własnej strony internetowej jest obecnie kluczowym elementem sukcesu dla wielu firm, przedsiębiorców oraz osób prywatnych w regionie Katowic. W dzisiejszym dynamicznym środowisku biznesowym i społecznym, internet stał się nieodłączną częścią naszego życia, a posiadanie strony internetowej przekłada się na szereg korzyści. Oto kilka powodów, dla których warto inwestować w własną stronę internetową w kontekście regionu Katowic:",
@@ -48,13 +55,6 @@
       }
     },
     "_summary": "Podsumowując, posiadanie strony internetowej to nie tylko element obecnego trendu, ale również strategiczna decyzja, która może przyczynić się do sukcesu firmy na lokalnym rynku Katowic. W erze cyfrowej, gdzie internet odgrywa kluczową rolę we wszystkich dziedzinach życia, strona internetowa staje się nieodzownym narzędziem biznesowym, wpływającym na zasięg, widoczność i efektywność przedsiębiorstwa, zwłaszcza w kontekście danego regionu czy miasta."
-  },
-  "chooseUs": {
-    "_title": "Mały krok dla nas, wielki skok dla Twojej firmy",
-    "_description1": "🤔 Czy wiesz, że dzięki stronie internetowej możesz poprawić opinie o Twojej firmie? Dobrze zaprojektowana witryna daje klientom łatwy dostęp do informacji o działalności i wygodną możliwość kontaktu. Ludzie to doceniają!",
-    "_description2": "🚀 “Wyróżnij się albo zgiń!” Ciekawa, estetyczna strona przyciągnie uwagę osoby, która w poszukiwaniu najlepszej oferty obejrzy 10 witryn… zapamięta Twoją… i wróci na nią, aby dokonać zakupu lub zarezerwować usługę.",
-    "_description3": "👌💻 Prawidłowo działająca strona wspólnie z pozytywnymi opiniami, będzie budować niezachwianą wiarygodność Twojej firmy. ",
-    "_description4": "✨📄 …a świetne treści zadbają o to, aby jak największa ilość potencjalnych klientów, zamieniła się w płacących klientów."
   },
   "priceBegin": {
     "title": "Za 0 zł przygotujemy wizualny projekt strony głównej i tylko jeśli Ci się spodoba, wykonamy całą stronę odpłatnie"
