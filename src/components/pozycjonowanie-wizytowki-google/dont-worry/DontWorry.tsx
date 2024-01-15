@@ -10,24 +10,24 @@ import { Text } from 'components/atoms/text/Text';
 const STEP_STRUCTURE = [
   {
     id: 1,
-    title: 'Stworzymy koncepcję strony',
+    title: 'Zoptymalizujemy Twoją wizytówkę Google',
     description: '1._description',
     img: '/svg/website-theme-svgrepo-com.svg',
-    alt: 'Strony internetowe - krok 1',
+    alt: 'Pozycjonowanie wizytówki google - krok 1',
   },
   {
     id: 2,
-    title: 'Przygotujemy treści sprzedażowe',
+    title: 'Zadbamy o systematyczne publikacje',
     description: '2._description',
     img: '/svg/website-seo-promotion-svgrepo-com.svg',
-    alt: 'Strony internetowe - krok 2',
+    alt: 'Pozycjonowanie wizytówki google - krok 2',
   },
   {
     id: 3,
-    title: 'Wykonamy indywidualny projekt',
+    title: 'Zwiększymy widoczność Twojej firmy w Google',
     description: '3._description',
     img: '/svg/website-seo-marketing-hitting-the-bullseye-svgrepo-com.svg',
-    alt: 'Strony internetowe - krok 3',
+    alt: 'Pozycjonowanie wizytówki google - krok 3',
   },
 ];
 
