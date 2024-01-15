@@ -21,9 +21,9 @@ export const TakingLookContent = async () => {
       <Step img="/svg/support-svgrepo-com.svg" hideArrow hideStep className="h-24 w-24" alt="Wsparcie Katowice" />
       <Text as="h3">{t('takingLook.subTitle2')}</Text>
       <Text>{t('takingLook._subDescription2')}</Text>
-      <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="w-fit">
+      <Link href="https://onlinemasters.pl/bezplatna-obsluga-gmf" className="w-fit">
         <Button size="md" variant="primary" iconStart={<ChevronRight />}>
-          Zamawiam projekt za 0 zł
+          Zamawiam bezpłatną obsługę
         </Button>
       </Link>
     </article>

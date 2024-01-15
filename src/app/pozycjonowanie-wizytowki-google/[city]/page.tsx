@@ -46,8 +46,8 @@ export default async function Page() {
       <ChooseUs />
       <PriceBegin />
       <WhatGot />
-      <WhyUs />
       <TakingLook />
+      <WhyUs />
       <Gallery />
       <PriceList />
       <GetProject />
