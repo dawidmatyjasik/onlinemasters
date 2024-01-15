@@ -3,7 +3,7 @@ import path from 'path';
 
 import { permanentRedirect } from 'next/navigation';
 
-type Service = 'strony-internetowe' | 'opieka-nad-stronami-wordpress';
+type Service = 'strony-internetowe' | 'opieka-nad-stronami-wordpress' | 'pozycjonowanie-wizytowki-google';
 
 export const getCityData = (service: Service) => {
   const dataDir = path.join(process.cwd(), `src/app/i18n/locales/${service}`);
