@@ -30,11 +30,9 @@ export const PriceBegin = async () => {
             <Text className="text-center text-[20px] md:text-[32px] 2xl:text-[40px]" color="white" as="h2">
               {t('title')}
             </Text>
-            <Link
-              href="https://onlinemasters.pl/bezplatny-projekt-strony"
-              className="mx-auto w-fit [text-wrap:balance]">
+            <Link href="https://onlinemasters.pl/bezplatna-obsluga-gmf" className="mx-auto w-fit [text-wrap:balance]">
               <Button size="lg" variant="secondary" className="mx-auto" iconStart={<ChevronRight />}>
-                Zamawiam bezpłatny projekt
+                Zamawiam bezpłatny obsługę
               </Button>
             </Link>
           </div>

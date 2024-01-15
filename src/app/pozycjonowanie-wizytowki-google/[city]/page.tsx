@@ -44,8 +44,8 @@ export default async function Page() {
       <Hero />
       <DontWorry />
       <ChooseUs />
-      <WhyUs />
       <PriceBegin />
+      <WhyUs />
       <WhatGot />
       <TakingLook />
       <Gallery />
