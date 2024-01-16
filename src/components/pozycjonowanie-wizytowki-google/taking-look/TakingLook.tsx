@@ -19,10 +19,12 @@ export const TakingLook = () => (
           className="rounded-3xl "
         />
         <div className="flex flex-wrap gap-1.5">
-          <Link href="https://onlinemasters.pl" className="flex h-[48px] w-fit items-center font-semibold">
+          <Link href="https://onlinemasters.pl" className="flex h-[48px] w-fit items-center font-semibold md:h-auto">
             #OnlineMasters
           </Link>
-          <Link href="https://onlinemasters.pl/oferta" className="flex h-[48px] w-fit items-center font-semibold">
+          <Link
+            href="https://onlinemasters.pl/oferta"
+            className="flex h-[48px] w-fit items-center font-semibold md:h-auto">
             #NajlepszeRozwiązaniaOnline
           </Link>
         </div>

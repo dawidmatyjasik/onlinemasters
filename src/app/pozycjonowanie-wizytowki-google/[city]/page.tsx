@@ -14,6 +14,7 @@ import { PriceBegin } from 'components/pozycjonowanie-wizytowki-google/price-beg
 import { PriceList } from 'components/pozycjonowanie-wizytowki-google/price-list/PriceList';
 import { TakingLook } from 'components/pozycjonowanie-wizytowki-google/taking-look/TakingLook';
 import { WhatGot } from 'components/pozycjonowanie-wizytowki-google/what-got/WhatGot';
+import { WhatWeLike } from 'components/pozycjonowanie-wizytowki-google/what-we-like/WhatWeLike';
 import { WhyUs } from 'components/pozycjonowanie-wizytowki-google/why-us/WhyUs';
 import { getCityData } from 'utils/getCityData';
 
@@ -47,6 +48,7 @@ export default async function Page() {
       <PriceBegin />
       <WhatGot />
       <TakingLook />
+      <WhatWeLike />
       <WhyUs />
       <Gallery />
       <PriceList />
