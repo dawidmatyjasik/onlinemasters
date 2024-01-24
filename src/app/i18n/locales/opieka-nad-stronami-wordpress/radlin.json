@@ -1,115 +1,115 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Radlin",
-    "_description": "Opieka nad stronami WordPress Radlin, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
-  },
-  "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
-    "steps": {
-      "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
-      },
-      "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
-      },
-      "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+    "_description": "Opieka nad stronami WordPress Radlin to pewność, że Twoja strona internetowa jest zawsze bezpieczna i aktualna. Oferujemy pełne wsparcie techniczne, abyś mógł bez zmartwień skupić się na swoim biznesie. 💻"
+    },
+    "dontWorry": {
+      "_title": "Zapewniamy, że Twoja strona w Radlinie będzie zawsze działać bez zarzutu",
+      "_description": "👨‍💻🔊 W Radlinie dbamy o to, by Twoja strona internetowa zawsze była niezawodna i efektywna, wspierając Twój biznes.",
+      "steps": {
+        "1": {
+          "_description": "✅ Nieustannie monitorujemy i szybko eliminujemy wszelkie błędy, aby Twoja witryna była zawsze w pełni sprawna."
+        },
+        "2": {
+          "_description": "📝 Stosujemy zaawansowane systemy ochrony, chroniąc Twoją stronę przed zagrożeniami cyfrowymi."
+        },
+        "3": {
+          "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Radlinie, zapewniając jej najnowsze technologie i funkcje."
+        }
       }
-    }
-  },
-  "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Radlin gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Radlin sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
-  },
-  "priceBegin": {
-    "title": "Opieka nad stronami wordpress Radlin od 47 zł/miesiąc"
-  },
-  "whatGot": {
-    "cards": {
-      "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
-      },
-      "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
-      },
-      "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
-      },
-      "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
-      },
-      "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+    },
+    "chooseUs": {
+      "_title": "Zrelaksuj się w kwestii swojej strony, a skoncentruj na rozwoju firmy",
+      "_description1": "🔒 W Radlinie nasza opieka nad stronami WordPress obejmuje stałe monitorowanie i ochronę przed wszelkimi zagrożeniami, co chroni przed potencjalnymi stratami danych i awariami.",
+      "_description2": "🌐 Zapewniamy niezawodną dostępność Twojej strony internetowej, co korzystnie wpływa na doświadczenia użytkowników i buduje ich zaufanie do Twojej marki.",
+      "_description3": "⏰ Oddając nam opiekę nad Twoją witryną, możesz skupić się na rozwijaniu innych aspektów swojego biznesu, mając pewność, że techniczna strona jest w dobrych rękach.",
+      "_description4": "✅ Nasza usługa opieki nad stronami WordPress w Radlinie zapewnia Ci spokój ducha, wiedząc, że Twoja strona jest zawsze w pełni funkcjonalna i wolna od nieoczekiwanych problemów."
+    },
+    "priceBegin": {
+      "title": "Opieka nad stronami wordpress Radlin od 47 zł/miesiąc"
+    },
+    "whatGot": {
+      "cards": {
+        "1": {
+          "_description": "Zobowiązujemy się do regularnych aktualizacji Twojej strony, by oprogramowanie było zawsze najnowsze."
+        },
+        "2": {
+          "_description": "Nasza ochrona Twojej witryny przed zagrożeniami internetowymi, w tym hakerskimi, jest priorytetem."
+        },
+        "3": {
+          "_description": "W ramach abonamentu zapewniamy możliwość drobnych modyfikacji na Twojej stronie."
+        },
+        "4": {
+          "_description": "Dbamy o szybką reakcję strony, co jest kluczowe dla zadowolenia Twoich klientów 🖥️📱"
+        },
+        "5": {
+          "_description": "Wykonujemy regularne kopie zapasowe, co jest istotne dla bezpieczeństwa i ciągłości działania Twojej strony."
+        }
       }
-    }
-  },
-  "takingLook": {
-    "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
-    "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
-  },
-  "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Radlinie!"
-  },
-  "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
-    "items": {
-      "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Radlinie polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
-      },
-      "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
-      },
-      "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
-      },
-      "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
-      },
-      "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
-      },
-      "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
-      },
-      "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
-      },
-      "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
-      },
-      "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
-      },
-      "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
-      },
-      "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
-      },
-      "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+    },
+    "takingLook": {
+      "subTitle1": "Zależy nam na Twoim zadowoleniu",
+      "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii na Google z oceną 5.0, co jest naszym celem.",
+      "subTitle2": "Zapewniamy wsparcie",
+      "_subDescription2": "😉 Jesteśmy zawsze dostępni, by odpowiedzieć na Twoje pytania dotyczące strony."
+    },
+    "gallery": {
+      "_title": "W Radlinie tworzymy strony internetowe z pasją i profesjonalnym podejściem!"
+    },
+    "characters": {
+      "_title": "Ryzyka zaniedbania odpowiedniej opieki nad stronami www w Radlinie",
+      "_description": "Strona internetowa bez adekwatnej opieki w Radlinie może napotkać wiele problemów wpływających zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto przykłady potencjalnych zagrożeń:",
+      "items": {
+        "1": {
+          "_subTitle": "Obniżenie poziomu bezpieczeństwa",
+          "_subDescription": "Nieaktualizowane wersje WordPressa, wtyczek i szablonów mogą stwarzać lukę w zabezpieczeniach, zwiększając ryzyko ataków na stronę. Skuteczna opieka nad stronami w Radlinie gwarantuje ich solidne zabezpieczenie."
+        },
+        "2": {
+          "_subTitle": "Zagrożenia związane z wtyczkami",
+          "_subDescription": "Używanie przestarzałych wtyczek może prowadzić do konfliktów i błędów na stronie."
+        },
+        "3": {
+          "_subTitle": "Zmniejszona wydajność",
+          "_subDescription": "Nieodpowiednio dobrane wtyczki mogą negatywnie wpływać na prędkość ładowania strony."
+        },
+        "4": {
+          "_subTitle": "Ryzyko ataków",
+          "_subDescription": "Niedostateczne monitorowanie i skanowanie strony pod kątem zagrożeń mogą prowadzić do problemów z bezpieczeństwem. Troska o stronę WordPress w Radlinie minimalizuje ryzyko takich incydentów."
+        },
+        "5": {
+          "_subTitle": "Podatność na złośliwe oprogramowanie",
+          "_subDescription": "Strony internetowe, które nie otrzymują odpowiedniej ochrony, mogą być łatwiej zainfekowane przez malware."
+        },
+        "6": {
+          "_subTitle": "Negatywne wrażenia użytkowników",
+          "_subDescription": "Słaba wydajność strony może prowadzić do niezadowolenia użytkowników i spadku liczby odwiedzin."
+        },
+        "7": {
+          "_subTitle": "Zwiększone ryzyko awarii",
+          "_subDescription": "Brak regularnych kopii zapasowych zwiększa ryzyko utraty danych w przypadku awarii serwera, ataku lub błędu człowieka."
+        },
+        "8": {
+          "_subTitle": "Problemy z przywróceniem strony",
+          "_subDescription": "W sytuacji wystąpienia problemów, odzyskanie funkcjonalności strony może być trudne lub niemożliwe."
+        },
+        "9": {
+          "_subTitle": "Błędy programistyczne",
+          "_subDescription": "Błędy w kodzie mogą zakłócać prawidłowe działanie strony."
+        },
+        "10": {
+          "_subTitle": "Utrata pozycji SEO",
+          "_subDescription": "Strony nieprzystosowane do urządzeń mobilnych lub wolno ładujące się mogą obniżać swoje pozycje w wynikach wyszukiwania Google."
+        },
+        "11": {
+          "_subTitle": "Problemy z błędami 404",
+          "_subDescription": "Niewłaściwe zarządzanie błędami może skutkować pojawianiem się błędów 404, co negatywnie wpływa na indeksowanie strony przez wyszukiwarki."
+        },
+        "12": {
+          "_subTitle": "Zwłoka w reagowaniu na problemy techniczne",
+          "_subDescription": "Brak szybkiej odpowiedzi na kwestie techniczne może prowadzić do przedłużających się przerw w dostępie do strony. Profesjonalna opieka nad stronami w Radlinie gwarantuje szybką reakcję w przypadku problemów."
+        }
       }
-    }
-  },
+    },
   "whyUs": {
     "title": "Opieka nad stronami WordPress Radlin - dlaczego warto dbać o aktualizacje strony?",
     "_description": "Nieaktualizowany WordPress może być problemem dla Twojego biznesu z kilku kluczowych powodów:",

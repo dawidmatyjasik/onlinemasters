@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Tychy",
-    "_description": "Opieka nad stronami WordPress Tychy, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Tychy to gwarancja, że Twoja strona internetowa będzie zawsze aktualna i bezpieczna. Oferujemy pełną opiekę techniczną, abyś mógł bez obaw rozwijać swój biznes. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Tychach będzie zawsze działać sprawnie i efektywnie",
+    "_description": "👨‍💻🔊 W Tychach zapewniamy, że Twoja strona internetowa będzie niezawodnym i skutecznym narzędziem w Twojej działalności.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko radzimy sobie z każdym wyzwaniem technicznym, aby Twoja witryna była zawsze dostępna i funkcjonalna."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy zaawansowane systemy ochrony, aby Twoja strona była bezpieczna przed zagrożeniami cyfrowymi."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Tychach, utrzymując ją na bieżąco z najnowszymi trendami i technologiami."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Tychy gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Tychy sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Deleguj opiekę nad Twoją stroną naszemu zespołowi, a Ty skup się na swoich celach biznesowych",
+    "_description1": "🔒 Nasza opieka nad stronami WordPress w Tychach obejmuje nieustanne monitorowanie i zabezpieczanie witryny, co pomaga w uniknięciu strat danych i uszkodzeń.",
+    "_description2": "🌐 Oferujemy nieprzerwaną dostępność Twojej strony internetowej, co podnosi poziom satysfakcji użytkowników i ich przywiązanie do Twojej firmy.",
+    "_description3": "⏰ Powierzając nam odpowiedzialność za Twoją stronę, zyskujesz możliwość skoncentrowania się na rozwoju swojego przedsiębiorstwa, mając pewność, że techniczne aspekty są odpowiednio zarządzane.",
+    "_description4": "✅ Nasze usługi opieki nad stronami WordPress w Tychach zapewniają, że Twoja witryna jest zawsze w optymalnym stanie, wolna od niespodziewanych zakłóceń."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Tychy od 47 zł/miesiąc"
@@ -31,30 +31,30 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Nasza usługa obejmuje regularne aktualizacje Twojej strony, aby oprogramowanie było zawsze aktualne."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zapewniamy kompleksową ochronę Twojej witryny przed zagrożeniami cyfrowymi, w tym hakerami."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Oferujemy możliwość dokonywania drobnych zmian na Twojej stronie w ramach abonamentu."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas zapewnienie, że Twoja strona ładuje się szybko, co jest ważne dla komfortu użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne kopie zapasowe są częścią naszej opieki, zapewniając bezpieczeństwo i ciągłość Twojej strony internetowej."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym zadaniem jest osiągnięcie 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jesteśmy zawsze gotowi, aby odpowiedzieć na Twoje pytania dotyczące strony."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Tychach!"
+    "_title": "W Tychach tworzymy strony internetowe z pasją i profesjonalnym podejściem!"
   },
   "characters": {
     "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",

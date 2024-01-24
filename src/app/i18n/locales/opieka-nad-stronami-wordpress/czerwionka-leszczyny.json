@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Czerwionka-Leszczyny",
-    "_description": "Opieka nad stronami WordPress Czerwionka-Leszczyny, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Czerwionka-Leszczyny to pewność, że Twoja strona zawsze będzie działała bez zarzutu. Zrelaksuj się i zapomnij o problemach z aktualizacjami czy bezpieczeństwem. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Czerwionce-Leszczynach zawsze będzie działać bez zakłóceń",
+    "_description": "👨‍💻🔊 Dbamy o to, aby Twoja strona internetowa w Czerwionce-Leszczynach była zawsze sprawna i efektywna.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko reagujemy na wszelkie błędy, utrzymując Twoją stronę w doskonałym stanie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Oferujemy najnowsze rozwiązania zabezpieczające, chroniąc Twoją witrynę przed zagrożeniami online."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Zapewniamy, że Twoja strona w Czerwionce-Leszczynach jest zawsze aktualna dzięki stałym aktualizacjom."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Naszym obowiązkiem jest dbanie o aktualne wersje oprogramowania na Twojej stronie."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Kładziemy silny nacisk na ochronę Twojej witryny przed nieautoryzowanymi atakami hakerskimi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Oferujemy opcję dokonywania mniejszych zmian na stronie w ramach miesięcznego planu."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Zapewniamy, że Twoja strona ładuje się szybko, co jest niezbędne dla doświadczenia użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Stworzenie kopii zapasowych strony jest częścią naszej regularnej rutyny, zapewniając ciągłość i bezpieczeństwo."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Staramy się osiągnąć 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Gdy potrzebujesz pomocy dotyczącej Twojej strony, jesteśmy zawsze do Twojej dyspozycji!"
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Czerwionce-Leszczyny!"
+    "_title": "Pasja i doświadczenie to nasze klucze do sukcesu w Czerwionka-Leszczyny!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Ryzyka związane z zaniedbaniem opieki nad stroną internetową",
+    "_description": "Strony www bez regularnego utrzymania mogą cierpieć na wiele problemów, które negatywnie wpływają na ich funkcjonowanie i bezpieczeństwo. Oto kilka przykładów:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Czerwionce-Leszczyny polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Kwestie zabezpieczeń",
+        "_subDescription": "Nieaktualne wersje WordPressa i jego komponentów mogą być źródłem luk w zabezpieczeniach. W Czerwionce-Leszczynach nasza opieka nad stronami koncentruje się na zapobieganiu takim zagrożeniom."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Awaryjność wtyczek",
+        "_subDescription": "Stare wtyczki często nie są zgodne z nowszymi wersjami WordPressa, co może prowadzić do problemów technicznych na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Zmniejszona wydajność strony",
+        "_subDescription": "Zaniedbane wtyczki i skrypty mogą powodować wolniejsze ładowanie strony, co wpływa na jej ogólną wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Podwyższone ryzyko ataków internetowych",
+        "_subDescription": "Brak regularnych kontroli bezpieczeństwa sprawia, że strona jest bardziej narażona na ataki hakerskie i inne zagrożenia cyfrowe."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Podatność na malware",
+        "_subDescription": "Strony z niewystarczającymi środkami bezpieczeństwa mogą łatwo stać się celem ataków malware."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywna opinia użytkowników",
+        "_subDescription": "Słaba wydajność i błędy mogą zniechęcać użytkowników, obniżając ich zaufanie do strony."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko utraty istotnych danych",
+        "_subDescription": "Nieprzeprowadzanie regularnych kopii zapasowych może skutkować trwałą utratą ważnych danych."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w odtworzeniu strony",
+        "_subDescription": "W przypadku awarii, brak aktualnych kopii zapasowych może utrudnić przywrócenie strony."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy kodu strony",
+        "_subDescription": "Nieprawidłowe kodowanie może powodować różne problemy techniczne na stronie."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Obniżenie pozycji SEO",
+        "_subDescription": "Strony nieaktualizowane SEO mogą tracić swoje miejsce w wynikach wyszukiwania."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Częste błędy 404",
+        "_subDescription": "Nieodpowiednie zarządzanie treścią strony może prowadzić do częstego występowania błędów 404."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienia w rozwiązaniu problemów technicznych",
+        "_subDescription": "Brak szybkiego reagowania na awarie techniczne może skutkować długotrwałymi przerwami w dostępności strony."
       }
     }
   },

@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Imielin",
-    "_description": "Opieka nad stronami WordPress Imielin, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Imielin zapewni ciągłą efektywność i bezpieczeństwo Twojej witryny. Zrelaksuj się, wiedząc, że aktualizacje i wyświetlanie są zawsze na czas i bezbłędne. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Imielinie będzie zawsze działać bez zarzutu",
+    "_description": "👨‍💻🔊 W Imielinie zapewniamy, że Twoja strona internetowa będzie kluczowym narzędziem w Twoim biznesie, zawsze działającym sprawnie.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Zapewniamy szybką interwencję w przypadku jakichkolwiek błędów, aby Twoja witryna działała płynnie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Nasze zaawansowane rozwiązania zabezpieczające chronią Twoją stronę przed wszelkimi zagrożeniami online."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Imielinie, dbając o jej aktualność i bezpieczeństwo."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Zapewniamy stałe aktualizacje Twojej strony, by oprogramowanie było zawsze na najwyższym poziomie."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Nasze działania są skupione na zabezpieczaniu Twojej strony przed cyberzagrożeniami, w tym atakami hakerskimi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach abonamentu możemy dokonywać drobnych poprawek na Twojej stronie, dostosowując ją do potrzeb."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Dbamy o szybkie ładowanie strony, co jest kluczowe dla zapewnienia komfortu Twoim klientom 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Realizujemy regularne kopie zapasowe, aby w razie awarii szybko przywrócić działanie strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jeśli masz jakiekolwiek pytania dotyczące Twojej strony, jesteśmy zawsze gotowi pomóc."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Imielinie!"
+    "_title": "Tworzymy strony z pasją i fachową wiedzą w Imielin!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Problemy związane z brakiem regularnej opieki nad stroną www",
+    "_description": "Strony internetowe, które nie są systematycznie aktualizowane i pielęgnowane, mogą doświadczać wielu problemów wpływających na ich wydajność i bezpieczeństwo. Oto niektóre z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Imielinie polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Kwestie związane z bezpieczeństwem",
+        "_subDescription": "Zaniedbanie aktualizacji WordPressa i wtyczek stwarza ryzyko bezpieczeństwa. W Imielinie nasza opieka nad stronami skupia się na zapobieganiu takim ryzykom."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Konflikty między wtyczkami",
+        "_subDescription": "Używanie przestarzałych wtyczek może skutkować technicznymi problemami na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Spowolnienie działania strony",
+        "_subDescription": "Nieaktualne wtyczki i skrypty mogą negatywnie wpływać na prędkość ładowania strony, zmniejszając jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Zwiększone zagrożenie cyberatakami",
+        "_subDescription": "Brak bieżącej ochrony przed zagrożeniami cyfrowymi zwiększa ryzyko ataków na stronę."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Występowanie malware",
+        "_subDescription": "Strony bez solidnych zabezpieczeń są bardziej narażone na złośliwe oprogramowanie i inne cyberzagrożenia."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Niezadowolenie użytkowników",
+        "_subDescription": "Problemy z działaniem strony mogą odstraszać użytkowników, wpływając negatywnie na ich doświadczenia."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Niebezpieczeństwo utraty danych",
+        "_subDescription": "Brak regularnych kopii zapasowych zwiększa ryzyko trwałej utraty istotnych informacji."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności z odzyskaniem strony",
+        "_subDescription": "W razie awarii, brak odpowiednich kopii zapasowych może utrudnić przywrócenie strony do pierwotnego stanu."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Problemy z kodowaniem",
+        "_subDescription": "Błędy w kodzie mogą prowadzić do różnych problemów technicznych na stronie."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Utrata pozycji SEO",
+        "_subDescription": "Strony nieaktualizowane pod kątem SEO mogą spadać w wynikach wyszukiwania w internecie."
       },
       "11": {
         "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subDescription": "Niewłaściwe zarządzanie treścią na stronie może prowadzić do częstych błędów 404, co negatywnie wpływa na SEO."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Zwłoka w naprawie awarii",
+        "_subDescription": "Brak natychmiastowej reakcji na problemy techniczne może skutkować długotrwałymi przestojami w dostępie do strony."
       }
     }
   },

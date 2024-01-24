@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Pilica",
-    "_description": "Opieka nad stronami WordPress Pilica, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Dzięki opiece nad stronami WordPress Pilica, Twoja strona internetowa będzie działać płynnie i bez zakłóceń. My dbamy o aktualizacje i bezpieczeństwo, Ty cieszysz się spokojem. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Pilicy będzie zawsze działać sprawnie i efektywnie",
+    "_description": "👨‍💻🔊 W Pilicy zobowiązujemy się do utrzymania Twojej strony internetowej na najwyższym poziomie funkcjonalności.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko radzimy sobie z każdym wyzwaniem technicznym, zapewniając płynne działanie Twojej witryny."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Wdrażamy zaawansowane technologie ochrony, aby chronić Twoją stronę przed zagrożeniami cyfrowymi."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją stronę w Pilicy, utrzymując ją na bieżąco z najnowszymi trendami i technologiami."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Nasze regularne aktualizacje oprogramowania zapewniają, że Twoja strona jest zawsze na najnowszym poziomie technologicznym."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zapewniamy ochronę Twojej witryny przed atakami hakerskimi i innymi zagrożeniami cyfrowymi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Oferujemy wprowadzanie małych zmian na stronie w ramach wybranego planu abonamentowego."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Dbamy o szybkość ładowania strony, co jest kluczowe dla komfortu Twoich klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne kopie zapasowe są istotnym elementem naszej opieki, gwarantującym bezpieczeństwo Twojej strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Celujemy w zdobycie 100 pozytywnych opinii na Google z oceną 5.0, co jest naszym priorytetem.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Zawsze jesteśmy dostępni, by odpowiedzieć na Twoje pytania dotyczące strony."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Pilicy!"
+    "_title": "W Pilicy nasze tworzenie stron to połączenie pasji z profesjonalnym podejściem!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Jakie zagrożenia niesie ze sobą brak profesjonalnej opieki nad stroną www",
+    "_description": "Strona internetowa bez odpowiedniego nadzoru może napotykać liczne problemy wpływające na jej działanie i bezpieczeństwo. Oto niektóre z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Pilicy polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zmniejszone bezpieczeństwo",
+        "_subDescription": "Przestarzałe wersje WordPressa, wtyczek i motywów mogą być źródłem luk w zabezpieczeniach, zwiększając ryzyko ataków. Dzięki profesjonalnej opiece nad stronami w Pilicy minimalizujemy te zagrożenia, zapewniając maksymalne zabezpieczenie."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Problem z wtyczkami",
+        "_subDescription": "Stosowanie starych lub niezgodnych wtyczek może prowadzić do konfliktów i błędów na Twojej stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Gorsza wydajność",
+        "_subDescription": "Nadmiar lub źle dobrane wtyczki mogą negatywnie wpływać na czas ładowania Twojej strony."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Ryzyko ataków",
+        "_subDescription": "Nieprzeprowadzanie regularnych kontroli i monitorowania pod kątem ataków może zwiększyć ryzyko złamania bezpieczeństwa Twojej witryny. Odpowiednia opieka nad WordPressem w Pilicy pomaga minimalizować to ryzyko."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Zagrożenie złośliwym oprogramowaniem",
+        "_subDescription": "Strony www bez adekwatnej ochrony są bardziej narażone na infekcje złośliwym oprogramowaniem."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywna opinia użytkowników",
+        "_subDescription": "Niedostateczna wydajność może skutkować negatywnym odbiorem przez użytkowników, co z kolei może doprowadzić do ich utraty."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Podwyższone ryzyko awarii",
+        "_subDescription": "Brak systematycznych kopii zapasowych zwiększa ryzyko utraty danych w razie awarii serwera, ataku lub błędu człowieka."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności z przywróceniem strony",
+        "_subDescription": "W przypadku wystąpienia problemów, przywrócenie strony do stanu pierwotnego może okazać się skomplikowane lub niemożliwe."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy w skryptach",
+        "_subDescription": "Błędy programistyczne mogą zakłócać prawidłowe funkcjonowanie Twojej strony internetowej."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Słabe pozycjonowanie SEO",
+        "_subDescription": "Strony nieprzystosowane do urządzeń mobilnych i wolno ładujące się mogą tracić pozycje w wyszukiwarkach, takich jak Google."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Problem z błędami 404",
+        "_subDescription": "Niewłaściwe zarządzanie błędami może prowadzić do problemów z błędami 404, co negatywnie wpływa na indeksowanie Twojej strony w wyszukiwarkach."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźniona reakcja na problemy",
+        "_subDescription": "Brak szybkiej odpowiedzi na problemy techniczne może powodować długie przerwy w dostępności strony. Odpowiednia opieka nad stronami zapewnia natychmiastową interwencję specjalisty w przypadku wystąpienia problemów."
       }
     }
   },

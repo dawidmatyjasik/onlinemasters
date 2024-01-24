@@ -1,112 +1,112 @@
 {
   "hero": {
-    "title": "Opieka nad Stronami WordPress Katowice",
-    "_description": "Opieka nad stronami WordPress Katowice, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "title": "Opieka nad Stronami WordPress Skoczów",
+    "_description": "Opieka nad stronami WordPress Skoczów to gwarancja, że Twoja witryna będzie zawsze funkcjonować bez problemów. Oferujemy pełne wsparcie techniczne, zapewniając spokój umysłu. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Skoczowie będzie zawsze działać sprawnie",
+    "_description": "👨‍💻🔊 W Skoczowie zobowiązujemy się do utrzymania Twojej strony internetowej na najwyższym poziomie funkcjonalnym.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko rozwiązujemy wszelkie błędy techniczne, aby Twoja witryna była zawsze dostępna i efektywna."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy zaawansowane rozwiązania ochrony, aby Twoja strona była bezpieczna przed cyberzagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Skoczowie, dbając o jej najnowsze funkcjonalności i zabezpieczenia."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Katowice gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Katowice sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Powierz nam swoją stronę, a Ty skoncentruj się na swojej działalności",
+    "_description1": "🔒 W Skoczowie nasze usługi opieki nad stronami WordPress obejmują nieustanne monitorowanie i ochronę, co minimalizuje ryzyko utraty danych i awarii witryny.",
+    "_description2": "🌐 Gwarantujemy nieprzerwaną dostępność Twojej strony, co sprzyja dobremu doświadczeniu użytkowników i budowaniu ich lojalności.",
+    "_description3": "⏰ Przekazując nam odpowiedzialność za Twoją stronę, możesz skupić się na rozwijaniu swojego przedsiębiorstwa, mając pewność, że strona jest w najlepszych rękach.",
+    "_description4": "✅ Nasza opieka nad stronami WordPress w Skoczowie zapewnia, że Twoja witryna funkcjonuje bezproblemowo i bez nieprzewidzianych przestojów."
   },
   "priceBegin": {
-    "title": "Opieka nad stronami wordpress Katowice od 47 zł/miesiąc"
+    "title": "Opieka nad stronami wordpress Skoczów od 47 zł/miesiąc"
   },
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Zapewniamy, że Twoja strona jest zawsze aktualizowana zgodnie z najnowszymi standardami oprogramowania."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Nasza opieka nad stroną obejmuje zaawansowane zabezpieczenia przed hakerami i cyberzagrożeniami."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach Twojego planu subskrypcyjnego oferujemy możliwość dokonania mniejszych zmian na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas zapewnienie, że Twoja strona ładuje się szybko, co poprawia doświadczenie użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne kopie zapasowe są integralną częścią naszej usługi, gwarantując bezpieczeństwo Twojej strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym zadaniem jest zdobycie 100 pozytywnych recenzji na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie potrzeby wsparcia dotyczącego Twojej strony, jesteśmy zawsze do Twojej dyspozycji."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Skoczowie!"
+    "_title": "W Skoczowie tworzenie stron to nasza pasja i profesjonalizm!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Potencjalne zagrożenia dla strony www bez właściwej opieki w Skoczowie",
+    "_description": "Strona internetowa bez odpowiedniego nadzoru może napotkać różnorodne problemy wpływające na jej funkcjonowanie i bezpieczeństwo. Oto kilka przykładów:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Skoczowie polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zmniejszone bezpieczeństwo",
+        "_subDescription": "Niezaktualizowane elementy WordPress mogą stworzyć luki w zabezpieczeniach, zwiększając ryzyko ataków."
       },
       "2": {
         "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subDescription": "Stare lub niekompatybilne wtyczki mogą spowodować problemy techniczne."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Obniżona wydajność",
+        "_subDescription": "Nadmiarowe wtyczki mogą negatywnie wpływać na czas ładowania strony."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Ryzyko ataków",
+        "_subDescription": "Brak monitorowania strony pod kątem zagrożeń zwiększa ryzyko włamań."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Złośliwe oprogramowanie",
+        "_subDescription": "Słabo zabezpieczone strony są bardziej narażone na zainfekowanie malware."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywny wpływ na użytkowników",
+        "_subDescription": "Słaba wydajność strony może zniechęcić odwiedzających."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko utraty danych",
+        "_subDescription": "Niedostateczne tworzenie kopii zapasowych zwiększa ryzyko utraty danych."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w przywróceniu strony",
+        "_subDescription": "Problemy techniczne mogą utrudnić przywrócenie strony do poprzedniego stanu."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy skryptów",
+        "_subDescription": "Błędy programistyczne mogą zakłócać działanie strony."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Słabsze pozycje w SEO",
+        "_subDescription": "Strony nieresponsywne i wolne są gorzej oceniane przez wyszukiwarki."
       },
       "11": {
         "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subDescription": "Niewłaściwe zarządzanie błędami może prowadzić do problemów z indeksacją."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźniona reakcja na problemy",
+        "_subDescription": "Wolna odpowiedź na problemy techniczne może wydłużać przerwy w dostępie do strony."
       }
     }
   },

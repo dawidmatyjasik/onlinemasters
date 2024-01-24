@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Ustroń",
-    "_description": "Opieka nad stronami WordPress Ustroń, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Zapewnij swojej stronie najlepszą opiekę z WordPress Ustroń. Oferujemy kompleksowe wsparcie techniczne, dbając o aktualizacje i bezpieczeństwo Twojej witryny. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Ustroniu będzie zawsze działać bez zarzutu",
+    "_description": "👨‍💻🔊 Zapewniamy, że Twoja strona internetowa w Ustroniu będzie kluczowym narzędziem w Twoim biznesie, zawsze gotowa do działania.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Efektywnie radzimy sobie z wszelkimi wyzwaniami technicznymi, aby Twoja witryna była zawsze sprawna."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy zaawansowane rozwiązania ochrony, aby chronić Twoją stronę przed zagrożeniami cyfrowymi."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę, utrzymując ją na najnowszym stanie technologicznym."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Ustroń gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Ustroń sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Pozwól nam zatroszczyć się o Twoją stronę, a Ty skoncentruj się na rozwijaniu swojej firmy",
+    "_description1": "🔒 W Ustroniu nasza opieka nad stronami WordPress to gwarancja ciągłego monitorowania i ochrony przed zagrożeniami, co zabezpiecza przed stratami danych i awariami.",
+    "_description2": "🌐 Zapewniamy, że Twoja strona będzie stale dostępna dla użytkowników, co wpływa pozytywnie na ich doświadczenie i pomaga w budowaniu lojalności.",
+    "_description3": "⏰ Oddając nam opiekę nad Twoją stroną, możesz skupić się na innych kluczowych elementach swojej działalności, mając pewność, że wszystko jest pod kontrolą.",
+    "_description4": "✅ Dzięki naszej opiece nad stronami WordPress w Ustroniu masz pewność, że Twoja witryna działa bez zarzutu, bez nieprzewidzianych problemów."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Ustroń od 47 zł/miesiąc"
@@ -31,30 +31,30 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Stale dbamy o aktualizację oprogramowania Twojej strony, zapewniając jej nowoczesność."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zabezpieczamy Twoją witrynę przed cyberzagrożeniami, w tym atakami hakerskimi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach abonamentu oferujemy opcję wprowadzania drobnych zmian na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas zapewnienie szybkiego ładowania się strony, co poprawia doświadczenie użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne tworzenie kopii zapasowych to standard w naszej usłudze, co gwarantuje bezpieczeństwo Twojej strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest zdobycie 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie jakichkolwiek wątpliwości dotyczących Twojej strony, jesteśmy zawsze gotowi pomóc."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Ustroniu!"
+    "_title": "W Ustroniu nasze tworzenie stron to połączenie pasji z wiedzą fachową!"
   },
   "characters": {
     "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",

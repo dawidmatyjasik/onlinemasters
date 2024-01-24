@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Bielsko-Biała",
-    "_description": "Opieka nad stronami WordPress Bielsko-Biała, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Bielsko-Biała gwarantuje, że Twoja strona internetowa będzie działać perfekcyjnie. Zapewnij sobie spokojny sen, nie martwiąc się o aktualizacje, błędy wyświetlania czy bezpieczeństwo witryny! 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Sprawimy, że działanie Twojej strony w Bielsko-Białej nigdy nie przyprawi Cię o ból głowy",
+    "_description": "👨‍💻🔊 W Bielsko-Białej rozumiemy, jak ważna jest strona internetowa dla wizerunku marki i komunikacji z klientami. Zadbamy o to, aby Twoja witryna zawsze działała nienagannie.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Regularnie usuwamy błędy w działaniu i wyświetlaniu strony, aby zapewnić jej płynne funkcjonowanie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Zainstalujemy i skonfigurujemy zaawansowany system ochrony przed hakerami, dbając o bezpieczeństwo Twojej strony."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę, aby zawsze była na bieżąco z najnowszym oprogramowaniem."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Regularnie przeprowadzamy aktualizacje Twojej strony, by oprogramowanie było zawsze na bieżąco."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Priorytetem jest dla nas bezpieczeństwo Twojej witryny, zabezpieczając ją przed potencjalnymi atakami hakerskimi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Zależnie od wybranego pakietu, oferujemy możliwość wprowadzania drobnych zmian na stronie w ramach abonamentu."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Optymalizujemy Twoją stronę, aby ładowała się szybko, zapewniając klientom płynną nawigację 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne tworzenie kopii zapasowych jest częścią naszej opieki, co pozwala na szybką reakcję w razie poważnych problemów."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest osiągnięcie 100 pozytywnych opinii na Google z oceną 5.0! Zawsze staramy się nie zawieść.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jeśli potrzebujesz porady dotyczącej Twojej strony, zawsze jesteśmy do Twojej dyspozycji!"
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Bielsko-Białej!"
+    "_title": "Pasja i profesjonalizm to nasze znaki rozpoznawcze w Bielsko-Białej!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Potencjalne problemy związane z niedostateczną opieką nad stroną internetową",
+    "_description": "Niezarządzane strony internetowe mogą napotykać szereg problemów, które oddziałują na ich wydajność i bezpieczeństwo. Przedstawiamy kilka z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Bielsko-Białej polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zagrożenie bezpieczeństwa",
+        "_subDescription": "przestarzałe wersje WordPressa oraz dodatków mogą otworzyć furtkę dla ataków, zwiększając ryzyko naruszeń bezpieczeństwa. W Bielsko-Białej nasz serwis opieki nad stronami zapewnia kompleksowe zabezpieczenia."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Problem z wtyczkami",
+        "_subDescription": "nieaktualne wtyczki mogą powodować konflikty w działaniu strony, prowadząc do błędów i nieprawidłowości."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Spadek wydajności",
+        "_subDescription": "niewłaściwie zarządzane wtyczki mogą negatywnie wpływać na prędkość ładowania strony, obniżając jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Ryzyko ataków",
+        "_subDescription": "brak stałego monitoringu pod kątem zagrożeń cyfrowych może zwiększyć ryzyko ataków na stronę. Regularne kontrole bezpieczeństwa są kluczowe."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Złośliwe oprogramowanie",
+        "_subDescription": "strony bez odpowiednich środków bezpieczeństwa mogą być łatwym celem dla złośliwego oprogramowania, co stwarza poważne zagrożenie."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywne doświadczenia użytkowników",
+        "_subDescription": "niska wydajność i częste błędy mogą odstraszać odwiedzających, negatywnie wpływając na reputację strony."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko awarii",
+        "_subDescription": "brak regularnego tworzenia kopii zapasowych może prowadzić do trwałej utraty danych w przypadku awarii."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności z przywróceniem strony",
+        "_subDescription": "w razie awarii brak kopii zapasowej może utrudnić lub uniemożliwić przywrócenie strony do stanu przed awarią."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy skryptów",
+        "_subDescription": "problemy w kodzie mogą zakłócać prawidłowe funkcjonowanie strony, powodując błędy i usterki."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Problemy z SEO",
+        "_subDescription": "strony nieprzystosowane do wymagań SEO mogą tracić pozycje w wynikach wyszukiwania, co negatywnie wpływa na widoczność."
       },
       "11": {
         "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subDescription": "nieefektywne zarządzanie błędami może prowadzić do problemów z błędami 404, co negatywnie wpływa na odbiór strony przez użytkowników i wyszukiwarki."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Brak szybkiej reakcji",
+        "_subDescription": "opóźnienia w reagowaniu na problemy techniczne mogą powodować długotrwałe niedostępności strony, co jest szkodliwe dla jej funkcjonowania."
       }
     }
   },

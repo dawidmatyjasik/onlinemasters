@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Ruda Śląska",
-    "_description": "Opieka nad stronami WordPress Ruda Śląska, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Ruda Śląska zapewnia, że Twoja strona internetowa będzie działać płynnie i bez zakłóceń. Nie martw się o aktualizacje i bezpieczeństwo - my zajmiemy się wszystkim. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Gwarantujemy, że Twoja strona w Rudzie Śląskiej będzie zawsze funkcjonować bez zarzutu",
+    "_description": "👨‍💻🔊 W Rudzie Śląskiej skupiamy się na zapewnieniu, że Twoja strona internetowa jest niezawodnym narzędziem dla Twojej działalności.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Skutecznie radzimy sobie z wszelkimi wyzwaniami technicznymi, aby Twoja witryna była zawsze dostępna i sprawna."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy najnowsze rozwiązania ochrony, aby chronić Twoją stronę przed zagrożeniami cyfrowymi."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją stronę w Rudzie Śląskiej, utrzymując ją na najnowszym poziomie technicznym."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Ruda Śląska gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Ruda Śląska sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Pozwól nam zadbać o Twoją stronę, a Ty skup się na swoich przedsiębiorczych celach",
+    "_description1": "🔒 W Ruda Śląska nasza opieka nad stronami WordPress obejmuje nieustanne monitorowanie i zabezpieczanie Twojej witryny, co pomaga w eliminacji ryzyka utraty danych i potencjalnych awarii.",
+    "_description2": "🌐 Nasze usługi gwarantują stałą dostępność Twojej strony internetowej, co ma pozytywny wpływ na doświadczenia użytkowników i pomaga w budowaniu ich lojalności.",
+    "_description3": "⏰ Przekazując nam opiekę nad Twoją stroną, masz możliwość skoncentrowania się na innych ważnych obszarach swojej działalności, wiedząc, że wszystkie sprawy techniczne są odpowiednio zarządzane.",
+    "_description4": "✅ Dzięki naszej kompleksowej opiece nad stronami WordPress w Ruda Śląska możesz być pewien, że Twoja witryna jest zawsze sprawna i wolna od niespodziewanych problemów."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Ruda Śląska od 47 zł/miesiąc"
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Regularnie aktualizujemy Twoją stronę, utrzymując oprogramowanie w najnowszej wersji."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Skupiamy się na zabezpieczeniu Twojej witryny przed zagrożeniami z sieci, w tym hakerskimi atakami."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach Twojego planu abonamentowego, umożliwiamy dokonywanie drobnych zmian na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Naszym priorytetem jest szybkie ładowanie się strony, co jest kluczowe dla zadowolenia Twoich klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Wykonujemy regularne kopie zapasowe, co stanowi zabezpieczenie dla Twojej witryny internetowej."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest osiągnięcie 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jesteśmy zawsze dostępni, aby udzielić wsparcia w sprawie Twojej strony internetowej."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Rudzie Śląskiej!"
+    "_title": "W Rudzie Śląskiej nasza praca nad stronami to połączenie pasji z ekspertyzą!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Potencjalne zagrożenia dla stron internetowych bez właściwej opieki w Rudzie Śląskiej",
+    "_description": "Brak profesjonalnej opieki nad stronami internetowymi w Rudzie Śląskiej może prowadzić do różnych problemów, wpływających na ich działanie i bezpieczeństwo. Oto kilka przykładów:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Rudzie Śląskiej polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Niewystarczające zabezpieczenia",
+        "_subDescription": "Przestarzałe wersje WordPressa oraz wtyczek i szablonów mogą otworzyć furtkę dla ataków, co stawia witrynę w niebezpieczeństwie. Specjalistyczna opieka nad stronami w Rudzie Śląskiej koncentruje się na ich skutecznym zabezpieczeniu."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Ryzyko konfliktów wtyczek",
+        "_subDescription": "Stosowanie nieaktualnych wtyczek może skutkować konfliktami i awariami na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Zaniżona wydajność",
+        "_subDescription": "Niewłaściwie dobrane wtyczki mogą negatywnie wpływać na prędkość ładowania strony."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Niebezpieczeństwo ataków",
+        "_subDescription": "Brak systematycznych przeglądów bezpieczeństwa może zwiększać ryzyko kompromitacji bezpieczeństwa strony. Opieka nad stronami WordPress w Rudzie Śląskiej zmniejsza to zagrożenie."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Podatność na malware",
+        "_subDescription": "Witryny bez odpowiedniej ochrony są bardziej narażone na infekcje przez złośliwe oprogramowanie."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Ujemne doświadczenia użytkowników",
+        "_subDescription": "Niezadowalająca wydajność witryny może zniechęcać użytkowników i zmniejszać ruch na stronie."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Podwyższone ryzyko awarii",
+        "_subDescription": "Brak regularnych kopii zapasowych zwiększa ryzyko utraty danych w przypadku awarii serwera lub cyberataku."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w przywracaniu funkcjonalności",
+        "_subDescription": "W sytuacji awaryjnej przywrócenie strony do poprzedniego stanu może być utrudnione lub niemożliwe."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy w kodzie",
+        "_subDescription": "Błędy programistyczne mogą zakłócać działanie i funkcje strony."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Spadek pozycji w SEO",
+        "_subDescription": "Strony nieprzystosowane do mobilnych urządzeń lub z wolnym ładowaniem mogą tracić pozycje w wyszukiwaniu Google."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Problem z błędami 404",
+        "_subDescription": "Niewłaściwe zarządzanie błędami może prowadzić do występowania błędów 404, wpływając negatywnie na indeksowanie strony przez wyszukiwarki."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienia w rozwiązywaniu problemów",
+        "_subDescription": "Brak szybkiej reakcji na kwestie techniczne może skutkować długotrwałymi przerwami w dostępności strony. Szybka opieka nad stronami w Rudzie Śląskiej umożliwia natychmiastowe działanie."
       }
     }
   },

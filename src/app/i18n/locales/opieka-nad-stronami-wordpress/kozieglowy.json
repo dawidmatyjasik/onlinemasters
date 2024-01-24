@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Koziegłowy",
-    "_description": "Opieka nad stronami WordPress Koziegłowy, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Zapewniamy opiekę nad stronami WordPress Koziegłowy, dbając o to, aby Twoja strona była zawsze aktualna i bezpieczna. Spokój umysłu gwarantowany! 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Koziegłowach będzie zawsze działać sprawnie",
+    "_description": "👨‍💻🔊 W Koziegłowach skupiamy się na utrzymaniu Twojej strony internetowej w doskonałym stanie technicznym.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Nasz zespół szybko radzi sobie z wszelkimi błędami, aby Twoja witryna działała płynnie i efektywnie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Zapewniamy skuteczną ochronę przed zagrożeniami cyfrowymi, aby zabezpieczyć Twoją stronę w Koziegłowach."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Stale aktualizujemy Twoją witrynę, utrzymując ją na najnowszym poziomie technologicznym."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Dbamy o to, by Twoja strona była zawsze aktualna, wykonując regularne aktualizacje oprogramowania."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zapewniamy silne zabezpieczenia strony przed zagrożeniami z internetu, w tym przed atakami hakerów."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach Twojego abonamentu jesteśmy gotowi wprowadzić drobne zmiany na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas szybkość ładowania się strony, co przekłada się na lepszą obsługę klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularnie tworzymy kopie zapasowe, co jest kluczowe dla ochrony Twojej strony internetowej."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest zgromadzenie 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jesteśmy zawsze dostępni, by udzielić Ci pomocy dotyczącej Twojej strony."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Koziegłowych!"
+    "_title": "Tworzymy strony z pasją i profesjonalizmem w Koziegłowy!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Potencjalne problemy związane z brakiem opieki nad stroną www",
+    "_description": "Strony internetowe, które nie są regularnie aktualizowane i pielęgnowane, mogą napotkać wiele problemów wpływających na ich działanie i bezpieczeństwo. Oto niektóre z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Koziegłowych polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zagrożenia związane z bezpieczeństwem",
+        "_subDescription": "Zaniedbanie aktualizacji WordPressa i wtyczek może prowadzić do luk w bezpieczeństwie. W Koziegłowach nasza opieka nad stronami internetowymi koncentruje się na ich zabezpieczeniu."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Niekompatybilność wtyczek",
+        "_subDescription": "Stosowanie przestarzałych wtyczek może prowadzić do błędów i problemów z działaniem strony."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Zmniejszona prędkość ładowania",
+        "_subDescription": "Nieaktualne wtyczki i skrypty mogą wpływać na szybkość ładowania strony, wpływając na jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Wysokie ryzyko ataków cybernetycznych",
+        "_subDescription": "Brak stałych aktualizacji zabezpieczeń sprawia, że strona jest bardziej podatna na ataki hakerskie."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Podatność na złośliwe oprogramowanie",
+        "_subDescription": "Strony bez odpowiednich zabezpieczeń są bardziej narażone na ataki malware."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywne doświadczenia użytkowników",
+        "_subDescription": "Problemy z wydajnością strony mogą odstraszać użytkowników, wpływając na ich ogólne wrażenia."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko utraty cennych informacji",
+        "_subDescription": "Brak regularnie tworzonych kopii zapasowych zwiększa ryzyko trwałej utraty danych."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Wywania z przywracaniem strony",
+        "_subDescription": "Brak aktualnych kopii zapasowych może utrudnić odtworzenie strony po awarii."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Problemy z kodem strony",
+        "_subDescription": "Błędy w kodowaniu mogą prowadzić do różnorakich problemów technicznych na stronie."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Utrata pozycji SEO",
+        "_subDescription": "Strony nieaktualizowane SEO mogą spadać w wynikach wyszukiwania."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Występowanie błędów 404",
+        "_subDescription": "Nieprawidłowe zarządzanie treścią strony może skutkować częstym występowaniem błędów 404."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienia w naprawie awarii",
+        "_subDescription": "Brak szybkiego reagowania na problemy techniczne może skutkować długotrwałymi przerwami w dostępności strony."
       }
     }
   },

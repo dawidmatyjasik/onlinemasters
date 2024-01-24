@@ -1,112 +1,112 @@
 {
   "hero": {
-    "title": "Opieka nad Stronami WordPress Jastrzębie Zdrój",
-    "_description": "Opieka nad stronami WordPress Jastrzębie Zdrój, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "title": "Opieka nad Stronami WordPress Jastrzębie-Zdrój",
+    "_description": "Opieka nad stronami WordPress Jastrzębie-Zdrój to pewność, że Twoja strona internetowa zawsze będzie działała efektywnie. Bez zmartwień o aktualizacje czy bezpieczeństwo - my zajmujemy się wszystkim.💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Zapewniamy, że Twoja strona w Jastrzębiu-Zdroju będzie zawsze sprawna",
+    "_description": "👨‍💻🔊 W Jastrzębiu-Zdroju skupiamy się na zapewnieniu, że Twoja strona internetowa jest niezawodnym narzędziem dla Twojej firmy.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko rozwiązujemy wszelkie problemy techniczne, aby Twoja strona zawsze działała efektywnie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
-      },
-      "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
-      }
-    }
+        "_description": "📝 Oferujemy najwyższej klasy zabezpieczenia, chroniąc Twoją witrynę przed atakami hakerskimi i innymi zagrożeniami."
+  },
+  "3": {
+  "_description": "🤝 Stale aktualizujemy Twoją witrynę w Jastrzębiu-Zdroju, utrzymując ją na najnowszym stanie technologicznym."
+  }
+  }
   },
   "chooseUs": {
     "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Jastrzębie Zdrój gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
+    "_description1": "🔒 Opieka nad stronami WordPress Jastrzębie-Zdrój gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
     "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
     "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Jastrzębie Zdrój sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_description4": "✅ Opieka nad stronami WordPress Jastrzębie-Zdrój sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
   },
   "priceBegin": {
-    "title": "Opieka nad stronami wordpress Jastrzębie Zdrój od 47 zł/miesiąc"
+    "title": "Opieka nad stronami wordpress Jastrzębie-Zdrój od 47 zł/miesiąc"
   },
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Stale dbamy o to, by Twoja strona internetowa była aktualizowana, zachowując jej najnowsze standardy techniczne."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Skupiamy się na ochronie Twojej witryny przed atakami hakerskimi, zapewniając jej bezpieczeństwo."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Oferujemy możliwość dokonywania niewielkich zmian na stronie w ramach miesięcznego planu subskrypcyjnego."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Naszym celem jest zapewnienie, by Twoja strona ładowała się szybko, poprawiając wrażenia użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Wykonujemy systematyczne kopie zapasowe strony, co stanowi zabezpieczenie przed ewentualnymi awariami."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest zgromadzenie 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie potrzeby porady dotyczącej Twojej strony, jesteśmy zawsze do Twojej dyspozycji."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Jastrzębiach Zdrój!"
+    "_title": "Nasze doświadczenie i pasja w Jastrzębiu-Zdroju to klucz do sukcesu!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Wyzwania związane z brakiem regularnej opieki nad stronami www",
+    "_description": "Brak stałej opieki nad stroną internetową może skutkować różnorodnymi problemami, które wpływają na jej działanie i bezpieczeństwo. Oto niektóre z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Jastrzębiach Zdrój polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Problemy z bezpieczeństwem",
+        "_subDescription": "Zaniedbanie aktualizacji WordPressa i jego komponentów może stworzyć poważne luki bezpieczeństwa. W Jastrzębiu-Zdroju nasza opieka nad stronami skupia się na wyeliminowaniu tych ryzyk."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Niedziałające wtyczki",
+        "_subDescription": "Przestarzałe wtyczki mogą powodować konflikty i błędy na stronie, wpływając negatywnie na jej funkcjonowanie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Zmniejszona szybkość ładowania",
+        "_subDescription": "Nieaktualizowane wtyczki i skrypty mogą obniżać prędkość ładowania strony, pogarszając użytkowników doświadczenie."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Zwiększone ryzyko ataków",
+        "_subDescription": "Brak regularnych aktualizacji zabezpieczeń sprawia, że strona jest bardziej podatna na różnego rodzaju cyberataki."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Podatność na złośliwe oprogramowanie",
+        "_subDescription": "Strony bez odpowiednich środków ochrony są łatwym celem dla złośliwego oprogramowania."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Niewystarczające doświadczenie użytkowników",
+        "_subDescription": "Problemy techniczne mogą zniechęcać odwiedzających, negatywnie wpływając na ich wrażenia ze strony."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko utraty danych",
+        "_subDescription": "Brak regularnie wykonywanych kopii zapasowych może prowadzić do utraty ważnych informacji."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Komplikacje w przywracaniu strony",
+        "_subDescription": "W razie problemów, brak kopii zapasowej może znacznie utrudnić odtworzenie strony."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy w kodowaniu",
+        "_subDescription": "Niewłaściwy kod może powodować różnorakie techniczne problemy na stronie."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Spadek rankingu SEO",
+        "_subDescription": "Strony, które nie są regularnie aktualizowane pod kątem SEO, mogą tracić swoje miejsce w wyszukiwarkach internetowych."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Częste występowanie błędów 404",
+        "_subDescription": "Niewłaściwe zarządzanie stroną może prowadzić do częstego występowania błędów 404."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienia w rozwiązywaniu awarii",
+        "_subDescription": "Brak szybkiej odpowiedzi na problemy techniczne może prowadzić do długotrwałych przerw w dostępności strony."
       }
     }
   },
