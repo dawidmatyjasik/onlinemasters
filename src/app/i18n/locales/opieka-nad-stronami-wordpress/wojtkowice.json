@@ -1,112 +1,112 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Wojtkowice",
-    "_description": "Opieka nad stronami WordPress Wojtkowice, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Wojtkowice to klucz do bezproblemowego działania Twojej strony. Nasze wsparcie techniczne gwarantuje aktualność i bezpieczeństwo Twojej witryny. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Wojtkowicach będzie zawsze działać bez zarzutu",
+    "_description": "👨‍💻🔊 Zapewniamy, że Twoja strona internetowa w Wojtkowicach będzie niezawodnym narzędziem dla Twojego biznesu.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Nieustannie monitorujemy i szybko eliminujemy wszelkie błędy, aby Twoja witryna była zawsze sprawna."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy zaawansowane rozwiązania ochrony, aby chronić Twoją stronę przed wszelkimi zagrożeniami online."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Wojtkowicach, utrzymując ją na najnowszym poziomie technologicznym."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Wojtkowice gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Wojtkowice sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Deleguj odpowiedzialność za swoją stronę nam, a Ty skup się na swoim przedsiębiorstwie",
+    "_description1": "🔒 W Wojtkowicach nasza opieka nad stronami WordPress obejmuje stałe monitorowanie i zabezpieczanie przed zagrożeniami, co chroni przed utratą danych i awariami.",
+    "_description2": "🌐 Dzięki naszej profesjonalnej opiece Twoja witryna jest nieustannie dostępna dla odwiedzających, co podnosi ich doświadczenia i pomaga w budowaniu lojalności.",
+    "_description3": "⏰ Oddając nam opiekę nad Twoją stroną, zyskujesz więcej czasu na koncentrację na innych ważnych obszarach swojej działalności, mając pewność, że techniczne sprawy są odpowiednio zarządzane.",
+    "_description4": "✅ Nasza usługa opieki nad stronami WordPress w Wojtkowicach gwarantuje, że Twoja strona zawsze działa niezawodnie, bez niespodziewanych problemów."
   },
   "priceBegin": {
-    "title": "Opieka nad stronami wordpress Wojtkowice od 47 zł/miesiąc"
+    "title": "Opieka nad stronami wordpress Wojkowice od 47 zł/miesiąc"
   },
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Nasze usługi obejmują stałe aktualizacje oprogramowania Twojej strony, by była zawsze aktualna i nowoczesna."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zabezpieczamy Twoją witrynę przed zagrożeniami z sieci, w tym przed atakami hakerów."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Oferujemy opcję dokonywania drobnych zmian na stronie w ramach Twojego planu abonamentowego."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Dbamy o szybkie ładowanie strony, co jest ważne dla doświadczenia Twoich klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne tworzenie kopii zapasowych jest standardem w naszej opiece, zapewniającym bezpieczeństwo Twojej strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jesteśmy zawsze gotowi udzielić wsparcia w sprawach dotyczących Twojej strony."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Wojtkowicach!"
+    "_title": "W Wojkowicach tworzymy strony z pasją i wiedzą fachową!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Ryzyka zaniedbania odpowiedniej opieki nad stroną internetową",
+    "_description": "Niedostateczna opieka nad stroną internetową może prowadzić do różnych problemów wpływających na jej funkcjonalność i bezpieczeństwo. Oto niektóre z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Wojtkowicach polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zredukowane bezpieczeństwo",
+        "_subDescription": "Przestarzałe wersje WordPressa oraz nieaktualne wtyczki i motywy mogą powodować luki w zabezpieczeniach, zwiększając ryzyko ataków na stronę. Profesjonalna opieka nad stronami w Wojtkowicach skupia się na zapewnieniu maksymalnej ochrony przed takimi zagrożeniami."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Spory wynikające z wtyczek",
+        "_subDescription": "Korzystanie ze starych lub niekompatybilnych wtyczek może skutkować konfliktami, które powodują błędy na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Obniżona wydajność",
+        "_subDescription": "Nieoptymalne lub zbędne wtyczki mogą negatywnie wpływać na prędkość ładowania strony."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Zagrożenie atakami",
+        "_subDescription": "Brak systematycznego skanowania i monitorowania pod kątem potencjalnych ataków może zwiększać ryzyko naruszenia bezpieczeństwa strony. Opieka nad stronami WordPress w Wojtkowicach minimalizuje to ryzyko."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Ryzyko malware",
+        "_subDescription": "Niewystarczająco zabezpieczone strony są bardziej narażone na infekcje przez złośliwe oprogramowanie."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Ujemne doświadczenia użytkownika",
+        "_subDescription": "Niska wydajność strony może skutkować negatywnym doświadczeniem użytkowników i prowadzić do zmniejszenia liczby odwiedzin."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Podwyższone ryzyko awarii",
+        "_subDescription": "Nieprzeprowadzanie regularnych kopii zapasowych może doprowadzić do utraty danych w przypadku awarii serwera, ataku hakerskiego lub błędu ludzkiego."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności z przywróceniem strony",
+        "_subDescription": "Może być problematyczne przywrócenie strony do stanu pierwotnego w sytuacji wystąpienia problemów."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy skryptów",
+        "_subDescription": "Błędy programowania mogą zakłócać prawidłowe funkcjonowanie strony."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Pogorszenie SEO",
+        "_subDescription": "Strony nieprzystosowane do urządzeń mobilnych lub nieoptymalizowane mogą tracić pozycje w wyszukiwaniach Google."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Błędy typu 404",
+        "_subDescription": "Niezarządzanie błędami może skutkować problemami z błędami 404, co negatywnie wpływa na indeksowanie strony w wyszukiwarkach."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Zwłoka w reagowaniu na kłopoty techniczne",
+        "_subDescription": "Opóźnienia w odpowiedzi na problemy techniczne mogą powodować długie przerwy w dostępie do strony. Kompetentna opieka nad stronami gwarantuje szybką reakcję specjalisty na ewentualne problemy."
       }
     }
   },

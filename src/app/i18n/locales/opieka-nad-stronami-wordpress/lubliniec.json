@@ -1,20 +1,20 @@
 {
   "hero": {
-    "title": "Opieka nad Stronami WordPress Lubliniec",
-    "_description": "Opieka nad stronami WordPress Lubliniec, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+  "title": "Opieka nad Stronami WordPress Lubliniec",
+  "_description": "Opieka nad stronami WordPress Lubliniec zapewnia stałą wydajność i bezpieczeństwo Twojej strony internetowej. Spokojnie zarządzaj swoją działalnością, a my zajmiemy się resztą. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Lublińcu zawsze będzie działać bez zarzutu",
+    "_description": "👨‍💻🔊 W Lublińcu zapewniamy, że Twoja strona internetowa będzie kluczowym elementem Twojej działalności, zawsze funkcjonującym efektywnie.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko eliminujemy wszelkie problemy techniczne, aby Twoja witryna działała płynnie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy zaawansowane technologie ochrony, aby zabezpieczyć Twoją stronę przed zagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją stronę w Lublińcu, zapewniając, że jest zawsze na bieżąco z najnowszymi trendami."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Nasze działania obejmują regularne aktualizacje Twojej strony, utrzymując oprogramowanie na najwyższym poziomie."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zapewniamy skuteczną ochronę Twojej witryny przed atakami hakerów i innymi zagrożeniami internetowymi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach abonamentu oferujemy opcję wprowadzenia drobnych zmian na stronie, zwiększając jej efektywność."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Dbamy o szybką reakcję strony, co jest kluczowe dla komfortu Twoich użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne tworzenie kopii zapasowych strony to element naszej strategii, gwarantujący jej bezpieczeństwo."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii na Google z oceną 5.0, co jest naszym celem.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie jakichkolwiek pytań dotyczących Twojej strony internetowej, jesteśmy tutaj, by pomóc."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Lublincu!"
+    "_title": "Nasza praca w Lublińcu to połączenie pasji z profesjonalizmem w tworzeniu stron!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Typowe problemy wynikające z niedostatecznej opieki nad stronami internetowymi",
+    "_description": "Strony internetowe bez regularnej konserwacji i aktualizacji mogą doświadczać wielu problemów wpływających na ich działanie i zabezpieczenia. Oto przykładowe kwestie:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Lublincu polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Wyzwania związane z bezpieczeństwem",
+        "_subDescription": "Zaniedbanie aktualizacji WordPressa i wtyczek może prowadzić do poważnych luk w zabezpieczeniach. W Lublińcu nasza usługa opieki nad stronami internetowymi kładzie nacisk na zapewnienie bezpieczeństwa."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Niezgodność wtyczek",
+        "_subDescription": "Stosowanie nieaktualnych wtyczek może powodować techniczne błędy i zakłócenia na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Obniżenie szybkości strony",
+        "_subDescription": "Nieaktualne wtyczki i skrypty mogą spowalniać stronę, wpływając negatywnie na jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Zwiększone ryzyko cyberataków",
+        "_subDescription": "Brak regularnych aktualizacji zabezpieczeń sprawia, że strona staje się bardziej podatna na ataki hakerskie."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Ryzyko infekcji malware",
+        "_subDescription": "Strony bez odpowiednich środków ochrony są bardziej narażone na infekcje złośliwym oprogramowaniem."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywne wrażenia użytkowników",
+        "_subDescription": "Problemy z działaniem strony mogą zniechęcać odwiedzających i wpływać negatywnie na ich doświadczenia."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko utraty cennych danych",
+        "_subDescription": "Brak regularnych kopii zapasowych zwiększa ryzyko trwałej utraty ważnych informacji."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Komplikacje w przywracaniu strony",
+        "_subDescription": "W przypadku awarii, brak kopii zapasowej może znacznie utrudnić odtworzenie strony."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy programowania",
+        "_subDescription": "Nieprawidłowe kodowanie może skutkować różnymi problemami technicznymi na stronie."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Spadek pozycji SEO",
+        "_subDescription": "Strony nieaktualizowane pod kątem SEO mogą tracić swoją widoczność w wynikach wyszukiwania."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Częste błędy 404",
+        "_subDescription": "Niewłaściwe zarządzanie treścią może prowadzić do częstego występowania błędów 404."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienie w rozwiązywaniu awarii",
+        "_subDescription": "Brak szybkiej interwencji w przypadku problemów technicznych może prowadzić do długotrwałych niedostępności strony."
       }
     }
   },

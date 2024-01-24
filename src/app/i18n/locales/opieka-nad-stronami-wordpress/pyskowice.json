@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Pyskowice",
-    "_description": "Opieka nad stronami WordPress Pyskowice, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Pyskowice to gwarancja, że Twoja strona będzie zawsze sprawnie funkcjonować. Oferujemy kompleksowe wsparcie techniczne, abyś nie musiał martwić się o aktualizacje i bezpieczeństwo. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Gwarantujemy, że Twoja strona w Pyskowicach będzie zawsze działać idealnie",
+    "_description": "👨‍💻🔊 W Pyskowicach zobowiązujemy się do utrzymania Twojej strony internetowej na najwyższym poziomie funkcjonalnym i technicznym.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Natychmiastowo rozwiązujemy wszelkie problemy, aby zapewnić sprawne działanie Twojej witryny."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Wdrażamy zaawansowane systemy ochrony, aby Twoja strona była bezpieczna przed wszelkimi cyberzagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Pyskowicach, utrzymując ją zgodnie z najnowszymi standardami technologicznymi."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Pyskowice gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Pyskowice sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Pozwól nam zajmować się Twoją stroną, a Ty skup się na prowadzeniu firmy",
+    "_description1": "🔒 Nasze usługi opieki nad stronami WordPress w Pyskowicach zapewniają ciągłe monitorowanie i ochronę przed atakami, co chroni przed stratą danych i uszkodzeniem witryny.",
+    "_description2": "🌐 Zawodowa opieka nad Twoją stroną oznacza nieprzerwany dostęp dla odwiedzających, co pozytywnie wpływa na ich wrażenia i przyczynia się do zwiększenia lojalności klientów.",
+    "_description3": "⏰ Oddając w nasze ręce opiekę nad Twoją stroną, zyskujesz więcej czasu na skupienie się na innych aspektach swojego biznesu, wiedząc, że kwestie techniczne są pod kontrolą.",
+    "_description4": "✅ Dzięki naszej opiece nad stronami WordPress w Pyskowicach masz pewność, że Twoja witryna jest zawsze sprawna i wolna od nieoczekiwanych przeszkód."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Pyskowice od 47 zł/miesiąc"
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Naszym obowiązkiem jest regularne aktualizowanie Twojej strony, aby oprogramowanie było aktualne."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zabezpieczamy Twoją stronę przed zagrożeniami cyfrowymi, w tym atakami hakerskimi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Oferujemy wprowadzanie niewielkich zmian na stronie w ramach abonamentu."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas zapewnienie, że Twoja strona szybko się ładuje, co zwiększa satysfakcję użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Kopie zapasowe są standardem w naszej opiece, gwarantującym ciągłość działania Twojej strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest osiągnięcie 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jesteśmy zawsze dostępni, by udzielić Ci wsparcia w sprawie Twojej strony internetowej."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Pyskowicach!"
+    "_title": "W Pyskowicach tworzymy strony z pasją i profesjonalizmem!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Potencjalne ryzyka dla stron internetowych bez odpowiedniej opieki w Pyskowicach",
+    "_description": "Nieodpowiednio zarządzana strona internetowa w Pyskowicach może napotkać na wiele wyzwań, wpływających na jej działanie oraz bezpieczeństwo. Oto niektóre z tych zagrożeń:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Pyskowicach polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Obniżone bezpieczeństwo",
+        "_subDescription": "Przestarzałe wersje WordPressa, wtyczek i motywów mogą otwierać furtki dla zagrożeń, zwiększając ryzyko ataków na Twoją witrynę. Skuteczna opieka nad stronami w Pyskowicach zapewnia ich maksymalne zabezpieczenie przed takimi incydentami."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Problemy z wtyczkami",
+        "_subDescription": "Korzystanie z nieaktualizowanych lub niekompatybilnych wtyczek może prowadzić do konfliktów, negatywnie wpływając na funkcjonowanie strony."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Gorsza wydajność",
+        "_subDescription": "Zbyteczne lub źle skonfigurowane wtyczki mogą spowalniać ładowanie strony, obniżając jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Ryzyko ataków",
+        "_subDescription": "Nieprzeprowadzanie regularnych kontroli pod kątem bezpieczeństwa i ataków może zwiększyć ryzyko naruszenia bezpieczeństwa strony. Opieka nad stronami WordPress w Pyskowicach minimalizuje ryzyko ataków botów."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Malware",
+        "_subDescription": "Strony internetowe bez odpowiedniej ochrony są bardziej narażone na infekcje malware."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywna opinia użytkowników",
+        "_subDescription": "Nieoptymalna wydajność strony może prowadzić do frustracji użytkowników, co skutkuje utratą odwiedzin."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Podwyższone ryzyko awarii",
+        "_subDescription": "Brak regularnych kopii zapasowych zwiększa ryzyko utraty danych w przypadku awarii serwera, ataku hakerskiego lub błędu ludzkiego."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w przywracaniu strony",
+        "_subDescription": "Przy problemach technicznych, odzyskanie poprzedniego stanu strony może okazać się skomplikowane lub niemożliwe."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy skryptów",
+        "_subDescription": "Błędy w kodzie mogą zakłócać poprawne działanie strony."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Gorsze pozycje w SEO",
+        "_subDescription": "Strony nieprzystosowane do urządzeń mobilnych lub wolno ładowane mogą spadać w rankingach wyszukiwania Google."
       },
       "11": {
         "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subDescription": "Niezarządzane błędy mogą prowadzić do problemów związanych z błędami 404, negatywnie wpływając na indeksowanie przez wyszukiwarki."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźniona reakcja na problemy",
+        "_subDescription": "Brak szybkiej odpowiedzi na kwestie techniczne może skutkować długotrwałymi przerwami w dostępności strony. Profesjonalna opieka nad stronami w Pyskowicach zapewnia natychmiastowe działanie doświadczonych specjalistów w razie problemów."
       }
     }
   },

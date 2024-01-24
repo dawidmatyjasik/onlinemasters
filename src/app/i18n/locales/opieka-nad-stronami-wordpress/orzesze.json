@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Orzesze",
-    "_description": "Opieka nad stronami WordPress Orzesze, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Zaufaj opiece nad stronami WordPress Orzesze, aby Twoja strona była zawsze aktualna i bezpieczna. Zapewniamy spokój umysłu, zajmując się wszystkimi technicznymi aspektami. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Zapewniamy, że Twoja strona w Orzesze będzie zawsze działać bez zarzutu",
+    "_description": "👨‍💻🔊 W Orzesze dbamy o to, aby Twoja strona internetowa zawsze była w pełni funkcjonalna i bezpieczna.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Natychmiastowo radzimy sobie z każdym wyzwaniem technicznym, aby zapewnić sprawne działanie Twojej witryny."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Implementujemy najnowsze rozwiązania bezpieczeństwa, chroniąc Twoją stronę przed potencjalnymi zagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Orzesze, zapewniając dostęp do najnowszych funkcjonalności i technologii."
       }
     }
   },
@@ -31,85 +31,85 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Zapewniamy, że Twoja strona jest stale aktualizowana, utrzymując jej oprogramowanie na najwyższym poziomie."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Nasza opieka koncentruje się na ochronie Twojej strony przed zagrożeniami internetowymi, w tym atakami hakerów."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach Twojego abonamentu, jesteśmy gotowi do wprowadzania niewielkich zmian na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas zapewnienie szybkiego ładowania strony, co zwiększa zadowolenie Twoich klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Wykonujemy regularne kopie zapasowe strony, co jest kluczowe dla jej bezpieczeństwa i niezawodności."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Stawiamy sobie za cel zdobycie 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jeśli masz jakiekolwiek pytania dotyczące Twojej strony, jesteśmy tutaj, aby pomóc."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Orzeszu!"
+    "_title": "W Orzeszu tworzymy strony z pasją i profesjonalizmem!"
   },
-  "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
-    "items": {
-      "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Orzeszu polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
-      },
-      "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
-      },
-      "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
-      },
-      "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
-      },
-      "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
-      },
-      "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
-      },
-      "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
-      },
-      "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
-      },
-      "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
-      },
-      "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
-      },
-      "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
-      },
-      "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+    "characters": {
+      "_title": "Potencjalne ryzyka zaniedbania strony internetowej w Orzeszu",
+      "_description": "Niedostateczna opieka nad stroną internetową może prowadzić do wielu komplikacji wpływających na jej funkcjonowanie i bezpieczeństwo. Oto niektóre z nich:",
+      "items": {
+        "1": {
+          "_subTitle": "Obniżone bezpieczeństwo",
+          "_subDescription": "Nieaktualizowanie WordPressa, wtyczek i motywów może stworzyć luki w zabezpieczeniach, zwiększając ryzyko ataków. W Orzeszu nasza opieka nad stronami WordPress koncentruje się na zapewnieniu maksymalnej ochrony przed takimi zagrożeniami."
+        },
+        "2": {
+          "_subTitle": "Problemy z wtyczkami",
+          "_subDescription": "Używanie przestarzałych wtyczek lub takich, które nie są kompatybilne, może prowadzić do konfliktów i błędów na stronie."
+        },
+        "3": {
+          "_subTitle": "Zmniejszona wydajność",
+          "_subDescription": "Nadmiarowe lub nieoptymalne wtyczki mogą negatywnie wpływać na prędkość ładowania strony."
+        },
+        "4": {
+          "_subTitle": "Cyberataki",
+          "_subDescription": "Brak systematycznego monitorowania i skanowania pod kątem bezpieczeństwa może skutkować naruszeniem ochrony strony. W Orzeszu nasza opieka nad stronami WordPress minimalizuje ryzyko wynikające z cyberataków."
+        },
+        "5": {
+          "_subTitle": "Złośliwe oprogramowanie",
+          "_subDescription": "Strony słabo zabezpieczone są bardziej narażone na infekcje malware."
+        },
+        "6": {
+          "_subTitle": "Negatywny odbiór przez użytkowników",
+          "_subDescription": "Wolna wydajność strony może prowadzić do frustracji użytkowników i spadku liczby odwiedzin."
+        },
+        "7": {
+          "_subTitle": "Ryzyko awarii",
+          "_subDescription": "Niewykonanie regularnych kopii zapasowych może skutkować utratą danych w razie awarii serwera czy ataku."
+        },
+        "8": {
+          "_subTitle": "Trudności z przywróceniem strony",
+          "_subDescription": "Przy braku odpowiednich kopii zapasowych, odzyskanie strony po problemach technicznych może być bardzo trudne."
+        },
+        "9": {
+          "_subTitle": "Błędy skryptów",
+          "_subDescription": "Niepoprawny kod może zakłócać funkcjonowanie strony."
+        },
+        "10": {
+          "_subTitle": "Obniżenie pozycji SEO",
+          "_subDescription": "Strony nieresponsywne i nieprzystosowane do urządzeń mobilnych mogą spadać w rankingach wyszukiwarek."
+        },
+        "11": {
+          "_subTitle": "Błędy 404",
+          "_subDescription": "Niezarządzanie błędami może skutkować pojawianiem się błędów 404, negatywnie wpływając na indeksowanie w wyszukiwarkach."
+        },
+        "12": {
+          "_subTitle": "Opóźniona odpowiedź na problemy",
+          "_subDescription": "Brak szybkiej reakcji na kwestie techniczne może prowadzić do dłuższych przestojów strony. Opieka nad stronami w Orzeszu zapewnia szybką interwencję."
+        }
       }
-    }
-  },
+    },
   "whyUs": {
     "title": "Opieka nad stronami WordPress Orzesze - dlaczego warto dbać o aktualizacje strony?",
     "_description": "Nieaktualizowany WordPress może być problemem dla Twojego biznesu z kilku kluczowych powodów:",

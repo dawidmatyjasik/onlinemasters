@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Częstochowa",
-    "_description": "Opieka nad stronami WordPress Częstochowa, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Częstochowa to klucz do bezbłędnego działania Twojej strony. Miej pewność, że aktualizacje, wyświetlanie i bezpieczeństwo Twojej witryny są w dobrych rękach. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Zadbamy, aby Twoja strona w Częstochowie nigdy nie sprawiała problemów",
+    "_description": "👨‍💻🔊 W Częstochowie Twoja strona internetowa będzie kluczowym elementem Twojego sukcesu w biznesie.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Błyskawicznie rozwiążemy wszelkie problemy techniczne, aby Twoja strona zawsze działała płynnie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy najwyższej jakości systemy ochrony przed hakerami, zapewniając bezpieczeństwo Twojej witryny."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Dzięki naszym regularnym aktualizacjom, Twoja strona w Częstochowie będzie zawsze na czasie."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Regularnie aktualizujemy Twoją stronę, zapewniając, że oprogramowanie jest zawsze najnowsze."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Naszym priorytetem jest ochrona Twojej witryny przed zagrożeniami cyfrowymi, w tym atakami hakerskimi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach subskrypcji oferujemy możliwość wykonania drobnych zmian na Twojej stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Dbamy o szybkość ładowania strony, aby poprawić doświadczenie Twoich klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Zapewniamy regularne tworzenie kopii zapasowych, aby w każdej chwili móc przywrócić stronę w razie potrzeby."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym zadaniem jest osiągnięcie 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jesteśmy zawsze gotowi udzielić Ci potrzebnej porady dotyczącej strony!"
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Częstochowie!"
+    "_title": "W Częstochowie nasza praca to połączenie pasji z profesjonalizmem!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Potencjalne zagrożenia dla stron internetowych bez odpowiedniej opieki",
+    "_description": "Strony internetowe, które nie otrzymują regularnego utrzymania, mogą doświadczać różnych problemów wpływających na ich funkcjonalność i bezpieczeństwo. Oto kilka przykładowych problemów:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Częstochowie polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Problem z zabezpieczeniami",
+        "_subDescription": "Nieaktualizowanie kluczowych elementów, jak WordPress czy wtyczki, zwiększa ryzyko bezpieczeństwa. W Częstochowie nasze usługi opieki nad stronami eliminują te ryzyka."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Konflikty związane z wtyczkami",
+        "_subDescription": "Używanie starszych wtyczek może prowadzić do konfliktów i błędów technicznych na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Spadek szybkości ładowania",
+        "_subDescription": "Nieaktualne wtyczki i skrypty mogą obniżać prędkość ładowania strony, wpływając negatywnie na jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Zwiększone ryzyko ataków hakerskich",
+        "_subDescription": "Brak regularnego monitorowania zagrożeń może sprawić, że strona stanie się łatwym celem dla ataków."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Ryzyko infekcji złośliwym oprogramowaniem",
+        "_subDescription": "Strony bez właściwych zabezpieczeń są bardziej narażone na ataki malware."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Złe wrażenie u użytkowników",
+        "_subDescription": "Problemy z wydajnością i błędy na stronie mogą negatywnie wpływać na doświadczenia użytkowników."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko utraty cennych informacji",
+        "_subDescription": "Brak regularnych kopii zapasowych może prowadzić do nieodwracalnej utraty danych."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Komplikacje przy odtwarzaniu strony",
+        "_subDescription": "Brak aktualnych kopii zapasowych może znacznie utrudnić przywrócenie strony po awarii."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Problemy z kodem strony",
+        "_subDescription": "Niepoprawny kod może skutkować różnymi problemami technicznymi na stronie."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Negatywny wpływ na pozycjonowanie w wyszukiwarkach",
+        "_subDescription": "Strony niezaktualizowane pod kątem SEO mogą tracić swoje miejsce w wynikach wyszukiwania."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Częste błędy 404",
+        "_subDescription": "Niewłaściwe zarządzanie treścią może skutkować częstymi błędami 404, wpływając negatywnie na doświadczenia użytkowników i SEO."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienie w rozwiązywaniu awarii",
+        "_subDescription": "Brak szybkiej odpowiedzi na problemy techniczne może prowadzić do długotrwałych przerw w dostępności strony."
       }
     }
   },

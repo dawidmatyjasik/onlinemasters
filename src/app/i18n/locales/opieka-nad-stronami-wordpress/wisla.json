@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Wisła",
-    "_description": "Opieka nad stronami WordPress Wisła, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Wisła zapewnia, że Twoja witryna internetowa będzie zawsze działać płynnie i bez zakłóceń. Z naszym wsparciem technicznym, Twoja strona pozostanie aktualna i bezpieczna. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Wiśle będzie zawsze działać niezawodnie",
+    "_description": "👨‍💻🔊 Zapewniamy, że Twoja strona internetowa w Wiśle będzie niezawodnym narzędziem w Twojej działalności biznesowej, zawsze gotowa do użytku.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko eliminujemy wszelkie problemy techniczne, aby Twoja witryna działała bez zakłóceń."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy najnowsze rozwiązania ochrony, aby Twoja strona była bezpieczna przed cyberzagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Wiśle, zapewniając jej dostęp do najnowszych technologii i funkcji."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Wisła gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Wisła sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Powierz nam swoją stronę, a Ty skoncentruj się na rozwijaniu swojej firmy",
+    "_description1": "🔒 Nasza opieka nad stronami WordPress w Wiśle obejmuje wszechstronne monitorowanie i ochronę przed zagrożeniami, chroniąc przed potencjalnymi awariami i utratą danych.",
+    "_description2": "🌐 Dzięki naszej profesjonalnej opiece Twoja strona będzie nieustannie dostępna dla użytkowników, co pozytywnie wpływa na ich wrażenia i buduje lojalność wobec Twojej marki.",
+    "_description3": "⏰ Przekazując nam opiekę nad Twoją stroną, zyskujesz możliwość skupienia się na innych priorytetach swojego biznesu, mając pewność, że techniczne aspekty są dobrze zarządzane.",
+    "_description4": "✅ Dzięki naszym usługom opieki nad stronami WordPress w Wiśle masz pewność, że Twoja witryna działa sprawnie i jest wolna od nieoczekiwanych przeszkód."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Wisła od 47 zł/miesiąc"
@@ -31,30 +31,30 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Zapewniamy, że Twoja strona jest zawsze aktualna dzięki regularnym aktualizacjom oprogramowania."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Nasza opieka nad stroną koncentruje się na ochronie przed zagrożeniami internetowymi, w tym hakerami."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach abonamentu oferujemy możliwość dokonywania mniejszych zmian na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Dbamy o szybkie ładowanie Twojej strony, co jest ważne dla doświadczenia Twoich użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne tworzenie kopii zapasowych strony jest kluczowe dla jej bezpieczeństwa i niezawodności."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do osiągnięcia 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie jakichkolwiek pytań dotyczących Twojej strony internetowej, jesteśmy zawsze dostępni, by pomóc."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Wiśle!"
+    "_title": "W Wiśle nasze tworzenie stron to połączenie pasji z ekspertyzą!"
   },
   "characters": {
     "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",

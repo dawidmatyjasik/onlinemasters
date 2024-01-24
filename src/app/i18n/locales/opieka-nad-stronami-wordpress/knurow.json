@@ -1,22 +1,22 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Knurów",
-    "_description": "Opieka nad stronami WordPress Knurów, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Knurów to obietnica stałej efektywności i bezpieczeństwa Twojej strony. Odpocznij, pozostawiając wszystkie techniczne aspekty w naszych rękach. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Knurów zawsze będzie działać bezbłędnie",
+    "_description": "👨‍💻🔊 W Knurów dbamy o to, aby Twoja strona internetowa była niezawodnym i skutecznym narzędziem dla Twojego biznesu.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko reagujemy na wszelkie problemy, zapewniając niezakłócone działanie Twojej witryny."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy najnowsze rozwiązania w zakresie bezpieczeństwa cyfrowego, aby Twoja strona w Knurów była zawsze chroniona."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
-      }
-    }
+        "_description": "🤝 Regularne aktualizacje są u nas standardem, dzięki czemu Twoja witryna w Knurów zawsze korzysta z najnowszych funkcjonalności i zabezpieczeń."
+  }
+  }
   },
   "chooseUs": {
     "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Naszym obowiązkiem jest zapewnienie, że Twoja strona jest zawsze aktualna poprzez regularne aktualizacje oprogramowania."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Dbamy o ochronę Twojej witryny przed potencjalnymi zagrożeniami hakerskimi, zapewniając jej bezpieczeństwo."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach abonamentu, oferujemy możliwość dokonania drobnych zmian na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Zapewniamy, że Twoja strona ładuje się szybko, co jest kluczowe dla zadowolenia Twoich klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularnie tworzymy kopie zapasowe Twojej strony, aby zapewnić jej niezawodność w każdych warunkach."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym zadaniem jest osiągnięcie 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jesteśmy zawsze do Twojej dyspozycji, gdy potrzebujesz porady dotyczącej strony."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Knurowie!"
+    "_title": "Nasza praca w Knurów to połączenie pasji z fachową wiedzą!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Ryzyka wynikające z braku należytej opieki nad stronami internetowymi",
+    "_description": "Strony internetowe bez odpowiedniej opieki mogą napotykać na szereg problemów, które negatywnie wpływają na ich funkcjonalność i bezpieczeństwo. Oto kilka z tych problemów:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Knurowie polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Kwestie bezpieczeństwa",
+        "_subDescription": "Nieaktualizowanie WordPressa i jego dodatków może stworzyć ryzyko bezpieczeństwa. W Knurów nasze usługi opieki nad stronami internetowymi koncentrują się na zapewnieniu bezpiecznego środowiska."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Problemy z działaniem wtyczek",
+        "_subDescription": "Przestarzałe wtyczki mogą być źródłem błędów i niekompatybilności, wpływając negatywnie na działanie strony."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Obniżona wydajność strony",
+        "_subDescription": "Nieaktualne skrypty i wtyczki mogą spowalniać stronę, wpływając negatywnie na jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Ryzyko ataków online",
+        "_subDescription": "Brak ciągłych aktualizacji ochrony sprawia, że strona jest bardziej podatna na cyberataki."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Ryzyko infekcji malware",
+        "_subDescription": "Strony bez adekwatnych zabezpieczeń mogą łatwo stać się ofiarami złośliwego oprogramowania."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Niepożądane wrażenia użytkowników",
+        "_subDescription": "Problemy z funkcjonowaniem strony mogą zniechęcać odwiedzających, wpływając na ich doświadczenia."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Niebezpieczeństwo utraty istotnych danych",
+        "_subDescription": "Brak regularnych kopii zapasowych zwiększa ryzyko trwałej utraty ważnych informacji."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w odbudowie strony",
+        "_subDescription": "W przypadku awarii, brak kopii zapasowej może utrudnić przywrócenie strony do jej pierwotnego stanu."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy programowania",
+        "_subDescription": "Niewłaściwe kodowanie może prowadzić do rozmaitych problemów technicznych na stronie."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Spadek w rankingu SEO",
+        "_subDescription": "Strony, które nie są regularnie optymalizowane pod kątem SEO, mogą tracić swoją widoczność w wynikach wyszukiwania."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Problem z błędami 404",
+        "_subDescription": "Niewłaściwe zarządzanie treścią strony może prowadzić do częstego pojawiania się błędów 404."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Zwłoka w rozwiązywaniu awarii",
+        "_subDescription": "Brak szybkiej reakcji na problemy techniczne może skutkować długotrwałymi niedostępnościami strony."
       }
     }
   },

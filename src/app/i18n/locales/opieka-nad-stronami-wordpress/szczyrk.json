@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Szczyrk",
-    "_description": "Opieka nad stronami WordPress Szczyrk, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+  "_description": "Opieka nad stronami WordPress Szczyrk to obietnica bezproblemowego funkcjonowania Twojej witryny. Nasze wsparcie techniczne zapewnia, że wszystkie aktualizacje i kwestie bezpieczeństwa są pod kontrolą. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Szczyrku będzie zawsze działać sprawnie i efektywnie",
+    "_description": "👨‍💻🔊 W Szczyrku dbamy o to, by Twoja strona internetowa była nie tylko funkcjonalna, ale i bezpieczna oraz aktualna.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Natychmiastowo rozwiązujemy wszelkie problemy, aby Twoja witryna działała płynnie i efektywnie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy najnowocześniejsze technologie ochrony, aby chronić Twoją stronę przed wszelkimi cyberzagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Szczyrku, zapewniając dostęp do najnowszych funkcji i zabezpieczeń."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Szczyrk gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Szczyrk sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Przekazanie opieki nad Twoją stroną nam to krok ku skupieniu się na kluczowych aspektach Twojej firmy",
+    "_description1": "🔒 W Szczyrku nasza opieka nad stronami WordPress obejmuje intensywne monitorowanie i zabezpieczanie Twojej witryny przed zagrożeniami, co zapobiega utracie danych i chroni przed uszkodzeniami.",
+    "_description2": "🌐 Zobowiązujemy się do utrzymywania Twojej strony w stałej gotowości dla odwiedzających, co wzmacnia ich doświadczenie i lojalność wobec Twojej marki.",
+    "_description3": "⏰ Dzięki powierzeniu nam odpowiedzialności za Twoją stronę, możesz skoncentrować swoją energię na ważniejszych aspektach swojego biznesu, mając pewność, że strona jest w dobrych rękach.",
+    "_description4": "✅ Oferując opiekę nad stronami WordPress w Szczyrku, zapewniamy, że Twoja witryna jest zawsze sprawna, eliminując ryzyko nieprzewidzianych problemów."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Szczyrk od 47 zł/miesiąc"
@@ -31,30 +31,30 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Nasza usługa obejmuje regularne aktualizacje oprogramowania Twojej strony, utrzymując ją na najnowszym poziomie."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Skupiamy się na ochronie Twojej witryny przed zagrożeniami z internetu, w tym przed atakami hakerów."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Oferujemy opcję dokonywania mniejszych zmian na stronie w ramach miesięcznego abonamentu."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Zapewniamy, że Twoja strona szybko się ładuje, co jest ważne dla satysfakcji Twoich klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne tworzenie kopii zapasowych to standardowa część naszej usługi, gwarantująca bezpieczeństwo Twojej strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest osiągnięcie 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas kluczowe.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie jakichkolwiek pytań dotyczących Twojej strony, jesteśmy zawsze gotowi udzielić wsparcia."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Szczyrku!"
+    "_title": "W Szczyrku nasza praca nad stronami to połączenie pasji z profesjonalizmem!"
   },
   "characters": {
     "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",

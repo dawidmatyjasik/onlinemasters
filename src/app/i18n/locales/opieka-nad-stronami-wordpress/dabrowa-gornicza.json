@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Dąbrowa Górnicza",
-    "_description": "Opieka nad stronami WordPress Dąbrowa Górnicza, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Dąbrowa Górnicza to gwarancja stabilnej i bezawaryjnej pracy Twojej witryny. Ciesz się spokojem umysłu, wiedząc, że wszystkie aktualizacje i kwestie bezpieczeństwa są pod kontrolą. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Gwarantujemy, że Twoja strona w Dąbrowie Górniczej będzie zawsze funkcjonować idealnie",
+    "_description": "👨‍💻🔊 Nasz zespół w Dąbrowie Górniczej skupia się na utrzymaniu Twojej strony internetowej w doskonałym stanie.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Nieustannie dbamy o to, aby Twoja strona była wolna od błędów i problemów technicznych."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Wdrażamy zaawansowane rozwiązania ochronne, aby Twoja witryna była bezpieczna przed cyberatakami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją stronę w Dąbrowie Górniczej, aby zapewnić jej najnowsze funkcje i zabezpieczenia."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Dbamy o to, aby Twoja strona była zawsze aktualna dzięki regularnym aktualizacjom oprogramowania."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zabezpieczamy Twoją stronę przed hakerskimi zagrożeniami, chroniąc ją przed potencjalnymi atakami."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W zależności od Twojego planu abonamentowego, możemy zaoferować niewielkie modyfikacje na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas zapewnienie szybkiego ładowania się strony, co jest istotne dla komfortu użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Wykonujemy regularne kopie zapasowe, aby zabezpieczyć Twoją stronę na wypadek awarii."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Jesteśmy zdeterminowani, aby osiągnąć 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie jakichkolwiek pytań dotyczących Twojej strony, jesteśmy tutaj, by Ci pomóc!"
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Dąbrowie Górniczej !"
+    "_title": "W Dąbrowie Górniczej naszym znakiem rozpoznawczym jest połączenie pasji z wiedzą!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Problemy wynikające z nieodpowiedniej opieki nad stronami internetowymi",
+    "_description": "Brak regularnej opieki nad stroną internetową może prowadzić do wielu problemów, które wpływają na jej działanie i zabezpieczenia. Oto kilka przykładów:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Dąbrowie Górniczej  polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zagrożenia bezpieczeństwa",
+        "_subDescription": "Zaniedbanie aktualizacji WordPressa i wtyczek może stworzyć poważne luki w bezpieczeństwie. W Dąbrowie Górniczej nasza usługa opieki nad stronami aktywnie zapobiega takim zagrożeniom."
       },
       "2": {
         "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subDescription": "Stosowanie starych wtyczek może prowadzić do konfliktów technicznych, które zakłócają działanie strony."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Zmniejszenie prędkości strony",
+        "_subDescription": "Przestarzałe wtyczki i skrypty mogą negatywnie wpływać na szybkość ładowania strony."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Wysokie ryzyko ataków internetowych",
+        "_subDescription": "Brak regularnej aktualizacji ochrony może zwiększyć podatność strony na cyberataki."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Ryzyko infekcji malware",
+        "_subDescription": "Strony bez aktualnych środków ochrony są bardziej narażone na złośliwe oprogramowanie."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Złe doświadczenia użytkowników",
+        "_subDescription": "Problemy z wydajnością strony mogą negatywnie wpływać na wrażenia odwiedzających."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko utraty danych",
+        "_subDescription": "Nieprzeprowadzanie regularnych kopii zapasowych może prowadzić do utraty ważnych informacji."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Problemy z odtworzeniem strony",
+        "_subDescription": "Brak odpowiednich kopii zapasowych może utrudnić przywrócenie strony po awarii."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy kodu",
+        "_subDescription": "Problemy z kodowaniem mogą zakłócać prawidłowe działanie strony."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Spadek widoczności SEO",
+        "_subDescription": "Strony, które nie są regularnie aktualizowane SEO, mogą tracić pozycje w wyszukiwarkach."
       },
       "11": {
         "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subDescription": "Niewłaściwe zarządzanie stroną może prowadzić do częstego występowania błędów 404, co negatywnie wpływa na SEO i doświadczenie użytkowników."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnione reagowanie na problemy techniczne",
+        "_subDescription": "Brak szybkiej interwencji w przypadku problemów technicznych może powodować długotrwałe niedostępności strony."
       }
     }
   },

@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Radzionków",
-    "_description": "Opieka nad stronami WordPress Radzionków, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Zaufaj opiece nad stronami WordPress Radzionków, aby Twoja strona była zawsze na najwyższym poziomie. Oferujemy kompleksową obsługę, od aktualizacji po zabezpieczenia, dla Twojej wygody. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Radzionkowie zawsze będzie działać idealnie",
+    "_description": "👨‍💻🔊 W Radzionkowie zapewniamy, że Twoja strona internetowa będzie kluczowym elementem Twojego biznesu, zawsze działającym sprawnie.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko rozwiązujemy wszelkie problemy techniczne, zapewniając płynne funkcjonowanie Twojej witryny."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Implementujemy najnowocześniejsze zabezpieczenia, aby Twoja strona była chroniona przed cyberzagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Ciągle aktualizujemy Twoją witrynę w Radzionkowie, dbając o jej najnowsze funkcje i zabezpieczenia."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Radzionków gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Radzionków sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Oddaj nam pieczę nad Twoją stroną, a Ty skup się na zarządzaniu biznesem",
+    "_description1": "🔒 W Radzionkowie nasze usługi opieki nad stronami WordPress zapewniają stałe monitorowanie i zabezpieczenia, minimalizując ryzyko utraty danych i uszkodzeń witryny.",
+    "_description2": "🌐 Oferujemy ciągłą dostępność Twojej strony internetowej, co przekłada się na pozytywne wrażenia Twoich klientów i ich lojalność wobec Twojej firmy.",
+    "_description3": "⏰ Przekazując nam odpowiedzialność za Twoją witrynę, zyskujesz więcej czasu na skupienie się na rozwijaniu swojej działalności, mając pewność, że techniczne aspekty są w dobrych rękach.",
+    "_description4": "✅ Nasza opieka nad stronami WordPress w Radzionkowie zapewnia, że Twoja strona działa bez zarzutu, co daje Ci spokój ducha bez nieprzewidzianych przeszkód."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Radzionków od 47 zł/miesiąc"
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Nasze usługi obejmują regularne aktualizacje Twojej strony, by oprogramowanie było zawsze aktualne."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Kładziemy nacisk na ochronę Twojej witryny przed hakerami i innymi cyberzagrożeniami."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "Oferujemy wprowadzanie drobnych zmian na stronie jako część Twojego abonamentu."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Zapewniamy, że Twoja strona ładuje się szybko, co jest niezbędne dla doświadczenia użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Regularne tworzenie kopii zapasowych to standard w naszej opiece, co zapewnia bezpieczeństwo Twojej strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym zadaniem jest zdobycie 100 pozytywnych recenzji na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie potrzeby wsparcia dotyczącego Twojej strony, jesteśmy zawsze gotowi pomóc."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Radzionkowie!"
+    "_title": "W Radzionkach tworzymy strony z pasją i fachową wiedzą!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Możliwe problemy związane z brakiem należytej opieki nad stronami internetowymi w Radzionkowie",
+    "_description": "Niezarządzana właściwie strona internetowa w Radzionkowie może napotkać szereg trudności, wpływających na jej działanie i bezpieczeństwo. Oto niektóre z możliwych zagrożeń:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Radzionkowie polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zredukowane bezpieczeństwo",
+        "_subDescription": "Stare wersje WordPressa, wtyczek i motywów mogą być przyczyną luk w zabezpieczeniach, co zwiększa ryzyko ataków na witrynę. Profesjonalna opieka nad stronami w Radzionkowie zapewnia ich optymalne zabezpieczenie."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Niedopasowanie wtyczek",
+        "_subDescription": "Używanie nieaktualnych wtyczek może skutkować konfliktami i zakłóceniami w pracy strony."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Obniżona wydajność",
+        "_subDescription": "Nieoptymalne wtyczki mogą negatywnie wpływać na czas ładowania strony."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Zagrożenie atakami",
+        "_subDescription": "Brak regularnych przeglądów bezpieczeństwa zwiększa ryzyko naruszenia bezpieczeństwa strony. Opieka nad stronami WordPress w Radzionkowie minimalizuje te ryzyka."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Wirusy i malware",
+        "_subDescription": "Strony internetowe bez adekwatnej ochrony są bardziej narażone na infekcje złośliwym oprogramowaniem."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywna opinia użytkowników",
+        "_subDescription": "Wolna wydajność strony może zniechęcać użytkowników, prowadząc do utraty ruchu na stronie."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Zwiększone ryzyko awarii",
+        "_subDescription": "Nieprzeprowadzanie regularnych kopii zapasowych może skutkować utratą danych w razie awarii serwera lub ataku."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Problemy z przywracaniem strony",
+        "_subDescription": "W razie wystąpienia problemów, odzyskanie funkcjonalności strony może być trudne lub niemożliwe."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy programowania",
+        "_subDescription": "Błędy w kodzie mogą zaburzać funkcjonowanie witryny."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Deterioracja SEO",
+        "_subDescription": "Strony, które nie są dostosowane do urządzeń mobilnych lub ładują się powoli, mogą spadać w rankingach wyszukiwania Google."
       },
       "11": {
         "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subDescription": "Niewłaściwe zarządzanie błędami może prowadzić do błędów 404, negatywnie wpływając na indeksowanie strony przez wyszukiwarki."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienie w rozwiązywaniu problemów",
+        "_subDescription": "Brak szybkiego reagowania na kwestie techniczne może powodować długie przerwy w dostępności strony. Szybka opieka nad stronami w Radzionkowie zapewnia natychmiastową interwencję."
       }
     }
   },

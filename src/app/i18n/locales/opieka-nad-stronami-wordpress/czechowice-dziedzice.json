@@ -1,22 +1,22 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Czechowice-Dziedzice",
-    "_description": "Opieka nad stronami WordPress Czechowice-Dziedzice, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Czechowice-Dziedzice zapewnia, że Twoja strona internetowa będzie działać sprawnie. Bez zmartwień o aktualizacje, wyświetlanie czy bezpieczeństwo - my dbamy o wszystko! 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Zapewniamy, że Twoja strona w Czechowicach-Dziedzicach będzie działać idealnie",
+    "_description": "👨‍💻🔊 W Czechowicach-Dziedzicach dbamy o to, by strona internetowa była niezawodnym elementem Twojego biznesu.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
-      },
-      "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
-      },
-      "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
-      }
-    }
+        "_description": "✅ Będziemy niezwłocznie usuwać wszelkie błędy, aby Twoja strona zawsze działała sprawnie i efektywnie."
+  },
+  "2": {
+  "_description": "📝 Zapewniamy zaawansowaną ochronę przed cyberzagrożeniami, aby strona była bezpieczna w każdym aspekcie."
+  },
+  "3": {
+  "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Czechowicach-Dziedzicach, aby zapewnić jej najnowsze funkcjonalności i zabezpieczenia."
+  }
+  }
   },
   "chooseUs": {
     "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Stale dbamy o aktualność oprogramowania Twojej strony, dokonując potrzebnych aktualizacji."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Zapewniamy ochronę strony przed zagrożeniami hakerskimi, dbając o Twoje bezpieczeństwo cyfrowe."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach Twojego abonamentu oferujemy realizację niewielkich modyfikacji na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Dbamy o to, aby Twoja strona szybko się ładowała, gwarantując satysfakcję użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Wykonujemy systematyczne kopie zapasowe, aby zapewnić ciągłość działania Twojej strony w każdej sytuacji."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Jesteśmy zobowiązani do osiągnięcia 100 pozytywnych opinii na Google z oceną 5.0.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 Jeśli masz jakiekolwiek wątpliwości dotyczące Twojej strony, jesteśmy zawsze dostępni!"
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Czechowicach-Dziedzicach!"
+    "_title": "W Czechowicach-Dziedzicach nasza praca to połączenie pasji i profesjonalizmu!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Typowe problemy z brakiem profesjonalnej opieki nad stroną internetową",
+    "_description": "Strony internetowe bez stałej opieki mogą spotykać się z różnorodnymi problemami, które wpływają na ich funkcjonowanie i zabezpieczenia. Oto kilka z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Czechowicach-Dziedzicach polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zagrożenie dla bezpieczeństwa",
+        "_subDescription": "Nieaktualizowane składniki, takie jak WordPress i wtyczki, mogą otworzyć drzwi dla cyberataków. W Czechowicach-Dziedzicach nasza opieka nad stronami zapewnia ich bezpieczne działanie."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Problemy z wtyczkami",
+        "_subDescription": "Przestarzałe wtyczki mogą powodować problemy techniczne, w tym błędy i niezgodności funkcjonalne."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Zmniejszona wydajność",
+        "_subDescription": "Niewłaściwie zarządzane wtyczki i skrypty mogą spowalniać stronę, obniżając jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Wysokie ryzyko ataków",
+        "_subDescription": "Brak bieżącej ochrony przed zagrożeniami może zwiększyć ryzyko cyberataków."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Narażenie na złośliwe oprogramowanie",
+        "_subDescription": "Strony bez skutecznych zabezpieczeń mogą łatwo paść ofiarą malware."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywne doświadczenia użytkowników",
+        "_subDescription": "Problemy z wydajnością i błędy mogą odstraszać użytkowników od korzystania ze strony."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Zagrożenie utratą danych",
+        "_subDescription": "Brak regularnie tworzonych kopii zapasowych może prowadzić do utraty danych w razie awarii."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w przywracaniu strony",
+        "_subDescription": "W razie awarii, brak odpowiednich kopii zapasowych może utrudnić przywrócenie strony do poprzedniego stanu."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy programowania",
+        "_subDescription": "Problemy w kodzie mogą zakłócać funkcjonowanie strony, prowadząc do różnych problemów technicznych."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Utrata pozycji w SEO",
+        "_subDescription": "Strony niezaktualizowane pod kątem SEO mogą spadać w rankingach wyszukiwarek internetowych."
       },
       "11": {
         "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subDescription": "Niewłaściwe zarządzanie stroną może skutkować częstym pojawianiem się błędów 404."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienia w rozwiązywaniu problemów",
+        "_subDescription": "Brak szybkiej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępności strony."
       }
     }
   },

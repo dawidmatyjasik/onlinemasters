@@ -1,20 +1,20 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Poręba",
-    "_description": "Opieka nad stronami WordPress Poręba, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Poręba zapewnia stałe i bezproblemowe działanie Twojej witryny. Oferujemy kompleksową opiekę - od aktualizacji po bezpieczeństwo. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Gwarantujemy, że Twoja strona w Porębie będzie zawsze działać bezbłędnie",
+    "_description": "👨‍💻🔊 W Porębie zapewniamy, że Twoja strona internetowa będzie zawsze niezawodna i bezpieczna.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Zajmujemy się natychmiastowym rozwiązywaniem wszelkich błędów, aby Twoja witryna była zawsze sprawna."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy najnowocześniejsze systemy ochrony, aby chronić Twoją stronę przed cyberzagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją stronę w Porębie, utrzymując ją na najnowszym poziomie technologicznym."
       }
     }
   },
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Zapewniamy ciągłe aktualizacje oprogramowania Twojej strony, aby zawsze było na najnowszym poziomie."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Nasza opieka nad stroną obejmuje skuteczne zabezpieczenia przed hakerskimi zagrożeniami."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach Twojego abonamentu umożliwiamy wprowadzanie niewielkich zmian na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Dbamy o szybkość ładowania Twojej strony, co jest ważne dla doświadczenia Twoich użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Wykonujemy regularne kopie zapasowe, co stanowi zabezpieczenie dla Twojej strony internetowej."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest osiągnięcie 100 pozytywnych recenzji na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie jakichkolwiek pytań dotyczących Twojej strony, jesteśmy zawsze gotowi pomóc."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Porębie!"
+    "_title": "W Porębie nasza praca nad stronami to mieszanka pasji i wiedzy fachowej!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Potencjalne ryzyka związane z brakiem właściwej opieki nad stroną internetową",
+    "_description": "Strona internetowa bez właściwej pielęgnacji może spotkać się z różnymi problemami wpływającymi na jej efektywność i bezpieczeństwo. Oto przegląd tych zagrożeń:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Porębie polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Obniżone bezpieczeństwo",
+        "_subDescription": "Przestarzałe wersje WordPressa i jego dodatków mogą powodować luki w zabezpieczeniach, zwiększając zagrożenie atakami. Nasza profesjonalna opieka nad stronami w Porębie skupia się na maksymalnym zabezpieczeniu Twojej witryny."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Problemy z wtyczkami",
+        "_subDescription": "Stare lub niekompatybilne wtyczki mogą powodować konflikty i błędy na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Gorsza wydajność strony",
+        "_subDescription": "Nieoptymalne wtyczki mogą negatywnie wpływać na szybkość ładowania strony."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Ryzyko ataków hakerskich",
+        "_subDescription": "Brak regularnego monitorowania strony pod kątem potencjalnych ataków zwiększa ryzyko kompromitacji bezpieczeństwa. Zapewniamy odpowiednią opiekę nad WordPress w Porębie, aby zminimalizować to zagrożenie."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Narażenie na złośliwe oprogramowanie",
+        "_subDescription": "Niewłaściwie zabezpieczone strony są bardziej podatne na zainfekowanie przez złośliwe oprogramowanie."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Utrata zaufania użytkowników",
+        "_subDescription": "Niewystarczająca wydajność może prowadzić do negatywnych doświadczeń użytkowników, co z kolei może skutkować spadkiem liczby odwiedzających."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Większe ryzyko awarii",
+        "_subDescription": "Brak regularnych kopii zapasowych może zwiększać ryzyko utraty danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w przywróceniu strony",
+        "_subDescription": "Problemy mogą utrudniać lub uniemożliwić przywrócenie strony do jej pierwotnego stanu."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy programistyczne",
+        "_subDescription": "Nieprawidłowy kod może zakłócać funkcjonowanie strony internetowej."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Gorsze pozycjonowanie w wyszukiwarkach",
+        "_subDescription": "Strony nieresponsywne i wolno ładujące się mogą spadać w rankingach wyszukiwania, takich jak Google."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Problemy z błędami 404",
+        "_subDescription": "Niewłaściwe zarządzanie błędami może prowadzić do problemów z błędami 404, wpływając negatywnie na indeksowanie strony w wyszukiwarkach."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźniona reakcja na problemy techniczne",
+        "_subDescription": "Brak szybkiej interwencji na problemy techniczne może skutkować długimi przerwami w dostępie do strony. Nasza opieka nad stronami zapewnia szybką odpowiedź w celu rozwiązania takich kwestii."
       }
     }
   },

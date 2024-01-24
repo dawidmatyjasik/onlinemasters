@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Szczekociny",
-    "_description": "Opieka nad stronami WordPress Szczekociny, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Szczekociny gwarantuje, że Twoja witryna internetowa będzie zawsze w doskonałej formie. Oferujemy wszechstronne wsparcie techniczne, abyś mógł skupić się na swojej działalności. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Gwarantujemy, że Twoja strona w Szczekocinach będzie zawsze działać idealnie",
+    "_description": "👨‍💻🔊 W Szczekocinach zobowiązujemy się do utrzymania Twojej strony internetowej na najwyższym poziomie funkcjonalnym i technicznym.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko reagujemy na wszelkie problemy techniczne, aby Twoja witryna była zawsze dostępna i sprawna."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Wdrażamy skuteczne systemy ochrony, aby Twoja strona była bezpieczna przed zagrożeniami cyfrowymi."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją stronę w Szczekocinach, zapewniając jej najnowsze funkcje i optymalne zabezpieczenia."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Szczekociny gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Szczekociny sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Pozwól nam zadbać o Twoją stronę, a skup się na rozwijaniu swojej działalności",
+    "_description1": "🔒 Specjalizujemy się w opiece nad stronami WordPress w Szczekocinach, zapewniając ciągłe monitorowanie i ochronę, co minimalizuje ryzyko straty danych i awarii witryny.",
+    "_description2": "🌐 Nasze profesjonalne usługi gwarantują stałą dostępność Twojej strony, co pozytywnie oddziałuje na wrażenia użytkowników i zwiększa ich przywiązanie do Twojej marki.",
+    "_description3": "⏰ Oddając nam opiekę nad Twoją stroną, zyskujesz cenny czas na inne kluczowe aspekty swojego przedsiębiorstwa, mając pewność, że kwestie techniczne są odpowiednio zarządzane.",
+    "_description4": "✅ Nasza opieka nad stronami WordPress w Szczekocinach zapewnia, że Twoja strona zawsze funkcjonuje niezawodnie i bez nieoczekiwanych problemów."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Szczekociny od 47 zł/miesiąc"
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Zapewniamy, że Twoja strona jest zawsze aktualna dzięki naszym regularnym aktualizacjom oprogramowania."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Ochrona Twojej witryny przed cyberzagrożeniami, w tym hakerskimi, jest naszym priorytetem."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach Twojego planu subskrypcyjnego umożliwiamy wprowadzanie drobnych zmian na stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas szybkość ładowania strony, co jest kluczowe dla zadowolenia Twoich klientów 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Wykonujemy regularne kopie zapasowe, co jest istotne dla bezpieczeństwa i ciągłości działania Twojej strony."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Dążymy do zdobycia 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie potrzeby wsparcia dotyczącego Twojej strony internetowej, jesteśmy zawsze dostępni."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Szczekocinach!"
+    "_title": "W Szczekocinach nasza praca nad stronami to połączenie pasji z profesjonalizmem!"
   },
   "characters": {
     "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_description": "Strona internetowa bez odpowiedniej opieki może napotykać na różne problemy, które negatywnie wpływają na jej funkcjonowanie i bezpieczeństwo. Oto niektóre z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Szczekocinach polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Zmniejszone bezpieczeństwo",
+        "_subDescription": "Przestarzałe wersje WordPressa i dodatków mogą otwierać drzwi dla ataków, stawiając stronę w niebezpieczeństwie. Zapewnienie profesjonalnej opieki nad stronami w Szczekocinach jest kluczowe do ochrony przed takimi zagrożeniami."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Konflikty techniczne",
+        "_subDescription": "Stare wtyczki mogą powodować problemy kompatybilności, prowadząc do błędów na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Zniżona wydajność",
+        "_subDescription": "Nadmiarowe lub nieoptymalne wtyczki mogą wpływać na szybkość ładowania strony, obniżając jej wydajność."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Ryzyko ataków",
+        "_subDescription": "Nie monitorowanie strony pod kątem bezpieczeństwa zwiększa ryzyko włamań. Regularna opieka nad stronami WordPress w Szczekocinach minimalizuje to zagrożenie."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Zagrożenie malware",
+        "_subDescription": "Niechronione strony są bardziej podatne na infekcje złośliwym oprogramowaniem."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Niepożądane doświadczenia użytkowników",
+        "_subDescription": "Wolno działająca strona może odstraszać odwiedzających i wpływać na ruch."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Ryzyko utraty danych",
+        "_subDescription": "Brak regularnych kopii zapasowych może prowadzić do utraty cennych danych w przypadku awarii."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w przywróceniu strony",
+        "_subDescription": "Bez odpowiednich kopii zapasowych, odtworzenie strony po awarii może być trudne lub niemożliwe."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Problemy z kodowaniem",
+        "_subDescription": "Błędy w kodzie mogą zakłócać prawidłowe działanie strony."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Utrata pozycji SEO",
+        "_subDescription": "Strony nieprzystosowane do urządzeń mobilnych mogą tracić swoje pozycje w rankingach wyszukiwania."
       },
       "11": {
         "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subDescription": "Niewłaściwe zarządzanie błędami może skutkować częstymi błędami 404, wpływając negatywnie na SEO strony."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Opóźnienia w rozwiązywaniu problemów",
+        "_subDescription": "Brak szybkiej odpowiedzi na problemy techniczne może prowadzić do dłuższych przestojów w dostępności strony. Opieka nad stronami w Szczekocinach gwarantuje efektywną interwencję."
       }
     }
   },

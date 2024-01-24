@@ -1,29 +1,29 @@
 {
   "hero": {
     "title": "Opieka nad Stronami WordPress Żywiec",
-    "_description": "Opieka nad stronami WordPress Żywiec, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
+    "_description": "Opieka nad stronami WordPress Żywiec to pewność, że Twoja strona internetowa jest zawsze w najlepszej kondycji. Oferujemy wszechstronne wsparcie techniczne, dbając o aktualizacje i bezpieczeństwo Twojej witryny. 💻"
   },
   "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
+    "_title": "Twoja strona w Żywcu będzie zawsze działać bez zarzutu",
+    "_description": "👨‍💻🔊 Gwarantujemy, że Twoja strona internetowa w Żywcu będzie kluczowym elementem Twojej działalności, zawsze gotowa do użytku.",
     "steps": {
       "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
+        "_description": "✅ Szybko i skutecznie rozwiązujemy wszelkie problemy techniczne, aby Twoja witryna działała płynnie."
       },
       "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
+        "_description": "📝 Stosujemy najnowsze technologie ochrony, aby chronić Twoją stronę przed cyberzagrożeniami."
       },
       "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+        "_description": "🤝 Regularnie aktualizujemy Twoją witrynę w Żywcu, utrzymując ją na najnowszym poziomie technologicznym."
       }
     }
   },
   "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Żywiec gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Żywiec sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
+    "_title": "Zaufaj naszym specjalistom w zakresie opieki nad Twoją stroną, a Ty skup się na swoim przedsiębiorstwie",
+    "_description1": "🔒 W Żywcu nasze usługi opieki nad stronami WordPress obejmują stałe monitorowanie i ochronę, co minimalizuje ryzyko uszkodzeń i utraty danych.",
+    "_description2": "🌐 Oferujemy ciągłą dostępność Twojej strony internetowej, co sprzyja lepszym doświadczeniom użytkowników i ich większej lojalności.",
+    "_description3": "⏰ Przekazując nam troskę o Twoją stronę, możesz skupić się na rozwijaniu kluczowych aspektów swojego biznesu, mając pewność, że wszystko jest odpowiednio zarządzane.",
+    "_description4": "✅ Nasza opieka nad stronami WordPress w Żywcu zapewnia, że Twoja witryna działa bez zarzutu, eliminując nieprzewidziane przestoje."
   },
   "priceBegin": {
     "title": "Opieka nad stronami wordpress Żywiec od 47 zł/miesiąc"
@@ -31,82 +31,82 @@
   "whatGot": {
     "cards": {
       "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
+        "_description": "Regularnie aktualizujemy Twoją stronę, by oprogramowanie było zawsze na najnowszym poziomie technicznym."
       },
       "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
+        "_description": "Koncentrujemy się na zabezpieczeniu Twojej witryny przed cyberzagrożeniami, w tym hakerskimi."
       },
       "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
+        "_description": "W ramach abonamentu zapewniamy możliwość dokonywania niewielkich zmian na Twojej stronie."
       },
       "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
+        "_description": "Priorytetem jest dla nas szybkość ładowania strony, co jest ważne dla doświadczenia Twoich użytkowników 🖥️📱"
       },
       "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+        "_description": "Wykonujemy regularne kopie zapasowe, co jest kluczowe dla bezpieczeństwa i stabilności Twojej witryny internetowej."
       }
     }
   },
   "takingLook": {
     "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
+    "_subDescription1": "⭐⭐⭐⭐⭐ Naszym priorytetem jest zdobycie 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas ważne.",
     "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
+    "_subDescription2": "😉 W razie potrzeby wsparcia dotyczącego Twojej strony internetowej, jesteśmy zawsze dostępni."
   },
   "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Żywcu!"
+    "_title": "W Żywcu tworzenie stron to połączenie naszej pasji z profesjonalnym podejściem!"
   },
   "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
+    "_title": "Ryzyka związane z brakiem odpowiedniej opieki nad stroną internetową",
+    "_description": "Strona www, która nie otrzymuje należytej opieki, może napotykać liczne problemy, wpływające na jej funkcjonowanie i bezpieczeństwo. Oto kilka z nich:",
     "items": {
       "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Żywcu polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
+        "_subTitle": "Obniżone bezpieczeństwo",
+        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą prowadzić do luk w zabezpieczeniach, zwiększając ryzyko ataków. W Żywcu zapewniamy kompleksową opiekę nad stronami, by maksymalnie zabezpieczyć je przed takimi zagrożeniami."
       },
       "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
+        "_subTitle": "Spory wynikające z wtyczek",
+        "_subDescription": "korzystanie ze starych lub niekompatybilnych wtyczek może wywoływać konflikty, które objawiają się błędami na stronie."
       },
       "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
+        "_subTitle": "Redukcja wydajności",
+        "_subDescription": "nieodpowiednie lub przestarzałe wtyczki mogą negatywnie wpływać na prędkość ładowania strony."
       },
       "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
+        "_subTitle": "Wzrost ryzyka ataków",
+        "_subDescription": "brak regularnych kontroli bezpieczeństwa może zwiększać ryzyko naruszenia zabezpieczeń strony. W Żywcu oferujemy profesjonalną opiekę nad stronami WordPress, minimalizując to ryzyko."
       },
       "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
+        "_subTitle": "Zagrożenie malware",
+        "_subDescription": "strony bez odpowiedniej ochrony są bardziej narażone na infekcje złośliwym oprogramowaniem."
       },
       "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
+        "_subTitle": "Negatywne opinie użytkowników",
+        "_subDescription": "niewystarczająca wydajność może skutkować złym doświadczeniem użytkownika, co może prowadzić do spadku liczby odwiedzających."
       },
       "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
+        "_subTitle": "Wyższe ryzyko awarii",
+        "_subDescription": "brak regularnych kopii zapasowych może prowadzić do utraty danych w przypadku awarii serwera, ataku hakerskiego lub błędu ludzkiego."
       },
       "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
+        "_subTitle": "Trudności w przywracaniu strony",
+        "_subDescription": "w razie wystąpienia problemów, przywrócenie strony do jej pierwotnego stanu może być utrudnione lub niemożliwe."
       },
       "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
+        "_subTitle": "Błędy programistyczne",
+        "_subDescription": "niewłaściwie napisany kod może zakłócić działanie strony."
       },
       "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
+        "_subTitle": "Pogorszenie SEO",
+        "_subDescription": "strony nieprzystosowane do urządzeń mobilnych i nieaktualizowane mogą obniżyć swoją pozycję w wynikach wyszukiwania."
       },
       "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
+        "_subTitle": "Problemy z błędami 404",
+        "_subDescription": "niewłaściwe zarządzanie błędami może prowadzić do częstszego pojawiania się błędów 404, negatywnie wpływając na indeksowanie strony."
       },
       "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+        "_subTitle": "Zwłoka w reagowaniu na problemy",
+        "_subDescription": "brak szybkiej odpowiedzi na kwestie techniczne może skutkować przedłużającymi się przerwami w dostępności strony. W Żywcu zapewniamy szybką reakcję w ramach opieki nad stronami."
       }
     }
   },

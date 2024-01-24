@@ -1,115 +1,115 @@
 {
   "hero": {
-    "title": "Opieka nad Stronami WordPress Rydułtowe",
-    "_description": "Opieka nad stronami WordPress Rydułtowe, aby Twoja witryna zawsze działała bezbłędnie. Śpij spokojnie i nie martw się aktualizacjami, błędami w wyświetlaniu strony ani bezpieczeństwem! 💻"
-  },
-  "dontWorry": {
-    "_title": "Sprawimy, że działanie Twojej strony nigdy nie przyprawi Cię o ból głowy",
-    "_description": "👨‍💻🔊 W wielu przypadkach strona internetowa jest ważnym elementem odpowiadającym za wizerunek marki, komunikację z klientami, przedstawianie oferty i sprzedaż. Dlatego istotne jest, aby witryna zawsze działała nienagannie, co wymaga wiedzy technicznej i poświęcenia czasu.",
-    "steps": {
-      "1": {
-        "_description": "✅ Będziemy na bieżąco pozbywać się błędów w działaniu i wyświetlaniu strony jeśli tylko się takie pojawią."
-      },
-      "2": {
-        "_description": "📝 Zainstalujemy i skonfigurujemy system chroniący przed atakami hakerów."
-      },
-      "3": {
-        "_description": "🤝 Będziemy wykonywać aktualizacje witryny, aby oprogramowanie zawsze było aktualne."
+    "title": "Opieka nad Stronami WordPress Rydułtowy",
+    "_description": "Zapewnij swojej stronie internetowej najlepszą opiekę z WordPress Rydułtowy. My zajmiemy się wszystkim, od aktualizacji po kwestie bezpieczeństwa, aby Twoja witryna działała bezbłędnie. 💻"
+    },
+    "dontWorry": {
+      "_title": "Gwarantujemy, że Twoja strona w Rydułtowy będzie zawsze działać bez zarzutu",
+      "_description": "👨‍💻🔊 W Rydułtowy skupiamy się na utrzymaniu Twojej strony internetowej na najwyższym poziomie funkcjonalnym i technicznym.",
+      "steps": {
+        "1": {
+          "_description": "✅ Natychmiastowo rozwiązujemy wszelkie problemy techniczne, aby Twoja witryna była zawsze dostępna i sprawna."
+        },
+        "2": {
+          "_description": "📝 Wdrażamy skuteczne systemy ochrony, aby Twoja strona była bezpieczna przed zagrożeniami cyfrowymi."
+        },
+        "3": {
+          "_description": "🤝 Regularnie aktualizujemy Twoją stronę w Rydułtowy, utrzymując ją zgodnie z najnowszymi standardami technologicznymi."
+        }
       }
-    }
-  },
-  "chooseUs": {
-    "_title": "Skup się na biznesie, a myślenie o stronie zostaw nam",
-    "_description1": "🔒 Opieka nad stronami WordPress Rydułtowe gwarantuje ciągłe monitorowanie i zabezpieczanie witryny przed atakami, wirusami i innymi zagrożeniami. To eliminuje ryzyko utraty danych i uszkodzenia strony.",
-    "_description2": "🌐 Profesjonalna opieka zapewnia, że Twoja witryna jest zawsze dostępna dla użytkowników, bez przerw w działaniu. To pozytywnie wpływa na doświadczenie użytkowników i przekłada się na lojalność klientów.",
-    "_description3": "⏰ Delegowanie opieki nad stroną pozwala Ci skupić się na innych aspektach biznesu, podczas gdy eksperci zajmują się technicznymi detalami.",
-    "_description4": "✅ Opieka nad stronami WordPress Rydułtowe sprawia, że masz pewność, że Twoja witryna działa sprawnie i nie niesie ze sobą nieoczekiwanych niespodzianek."
-  },
-  "priceBegin": {
-    "title": "Opieka nad stronami wordpress Rydułtowe od 47 zł/miesiąc"
-  },
-  "whatGot": {
-    "cards": {
-      "1": {
-        "_description": "Systematycznie będziemy wykonywać aktualizacje strony, aby oprogramowanie było zawsze aktualne."
-      },
-      "2": {
-        "_description": "Skupimy się na bezpieczeństwie strony, aby w najlepszy możliwy sposób zabezpieczyć ją przed atakami hakerów."
-      },
-      "3": {
-        "_description": "W zależności od wybranego pakietu możemy wprowadzać drobne zmiany na stronie w cenie abonamentu."
-      },
-      "4": {
-        "_description": "Zadbamy o to, aby Twoi klienci nie musieli długo czekać na załadowanie strony 🖥️📱"
-      },
-      "5": {
-        "_description": "Będziemy wykonywać kopie zapasowe, aby mieć do czego wrócić w przypadku wystąpienia poważnych błędów."
+    },
+    "chooseUs": {
+      "_title": "Zaufaj nam z Twoją stroną, a skup się na rozwijaniu firmy",
+      "_description1": "🔒 W Rydułtowy nasze usługi opieki nad stronami WordPress obejmują stałe monitorowanie i ochronę, co zapobiega utracie danych i uszkodzeniom witryny.",
+      "_description2": "🌐 Zapewniamy, że Twoja strona jest nieprzerwanie dostępna dla użytkowników, co poprawia ich doświadczenia i buduje wierność wobec Twojej firmy.",
+      "_description3": "⏰ Delegując opiekę nad stroną nam, zyskujesz czas na skupienie się na innych istotnych aspektach biznesu, wiedząc, że kwestie techniczne są odpowiednio zarządzane.",
+      "_description4": "✅ Nasze kompleksowe usługi opieki nad stronami WordPress w Rydułtowy dają Ci pewność, że Twoja strona zawsze działa bez problemów."
+    },
+    "priceBegin": {
+      "title": "Opieka nad stronami wordpress Rydułtowy od 47 zł/miesiąc"
+    },
+    "whatGot": {
+      "cards": {
+        "1": {
+          "_description": "Nasze usługi obejmują stałe aktualizacje oprogramowania Twojej strony, aby była zawsze nowoczesna."
+        },
+        "2": {
+          "_description": "Zapewniamy skuteczną ochronę Twojej witryny przed zagrożeniami internetowymi, w tym hakerskimi."
+        },
+        "3": {
+          "_description": "W ramach abonamentu oferujemy opcję dokonywania mniejszych zmian na stronie."
+        },
+        "4": {
+          "_description": "Priorytetem jest dla nas szybkość ładowania strony, co jest istotne dla satysfakcji Twoich klientów 🖥️📱"
+        },
+        "5": {
+          "_description": "Regularne tworzenie kopii zapasowych Twojej strony to kluczowy element naszej strategii opieki."
+        }
       }
-    }
-  },
-  "takingLook": {
-    "subTitle1": "Zależy nam na Twoim zadowoleniu",
-    "_subDescription1": "⭐⭐⭐⭐⭐ Mamy jasno określony cel. Dojść do 100 opinii w Google z oceną 5.0! Dlatego nigdy nie zawiedziemy.",
-    "subTitle2": "Zapewniamy wsparcie",
-    "_subDescription2": "😉 Czasami po prostu potrzebujesz porady dotyczącej strony. Dlatego nieustannie jesteśmy pod telefonem!"
-  },
-  "gallery": {
-    "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy w Rydułtowych!"
-  },
-  "characters": {
-    "_title": "Jakie istnieją potencjalne zagrożenia wynikające z braku opieki nad stroną www",
-    "_description": "Strona internetowa, która nie jest odpowiednio obsługiwana, może napotkać szereg problemów, które wpływają zarówno na jej funkcjonalność, jak i bezpieczeństwo. Oto kilka potencjalnych problemów:",
-    "items": {
-      "1": {
-        "_subTitle": "Mniejsze bezpieczeństwo",
-        "_subDescription": "nieaktualne wersje WordPressa, wtyczek i motywów mogą tworzyć luki w zabezpieczeniach, co stawia stronę w większym niebezpieczeństwie przed atakami. Profesjonalna opieka nad stronami w Rydułtowych polega na maksymalnym zabezpieczeniu strony przed takimi zdarzeniami."
-      },
-      "2": {
-        "_subTitle": "Konflikty wtyczek",
-        "_subDescription": "używanie przestarzałych lub niekompatybilnych wtyczek może prowadzić do konfliktów, co skutkuje błędami na stronie."
-      },
-      "3": {
-        "_subTitle": "Słabsza wydajność",
-        "_subDescription": "niepotrzebne lub nieoptymalne wtyczki mogą wpływać negatywnie na szybkość ładowania strony."
-      },
-      "4": {
-        "_subTitle": "Ataki",
-        "_subDescription": "brak regularnych skanowań i monitorowania pod kątem ataków może prowadzić do złamania bezpieczeństwa strony. Opieka WordPress minimalizuje niebezpieczeństwo wynikające z ataków botów."
-      },
-      "5": {
-        "_subTitle": "Złośliwe Oprogramowanie",
-        "_subDescription": "strony internetowe, które nie są odpowiednio chronione, są bardziej podatne na zainfekowanie złośliwym oprogramowaniem."
-      },
-      "6": {
-        "_subTitle": "Negatywne oświadczenie Użytkownika",
-        "_subDescription": "słaba wydajność może prowadzić do złego doświadczenia użytkownika, co może skutkować utratą odwiedzających."
-      },
-      "7": {
-        "_subTitle": "Zwiększone prawdopodobieństwo wystąpienia awarii",
-        "_subDescription": "brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii serwera, ataku lub błędu ludzkiego."
-      },
-      "8": {
-        "_subTitle": "Brak możliwości przywrócenia strony",
-        "_subDescription": "w przypadku problemów, przywracanie strony do poprzedniego stanu może być trudne lub niemożliwe."
-      },
-      "9": {
-        "_subTitle": "Błędy Skryptów",
-        "_subDescription": "błędy w kodzie mogą powodować nieprawidłowe działanie funkcji strony."
-      },
-      "10": {
-        "_subTitle": "Słabsze SEO",
-        "_subDescription": "strony, które nie są responsywne i dostosowane do urządzeń mobilnych, mogą stracić na pozycjach w wynikach wyszukiwania Google."
-      },
-      "11": {
-        "_subTitle": "Błędy 404",
-        "_subDescription": "brak zarządzania błędami może prowadzić do problemów związanych z błędami 404, co wpływa negatywnie na indeksowanie strony przez wyszukiwarki."
-      },
-      "12": {
-        "_subTitle": "Brak Reakcji na Problemy",
-        "_subDescription": "brak natychmiastowej reakcji na problemy techniczne może powodować długotrwałe przerwy w dostępie do strony. Opieka nad stronami zapewnia szybkie działanie wyspecjalizowanej osoby w celu naprawy problemu."
+    },
+    "takingLook": {
+      "subTitle1": "Zależy nam na Twoim zadowoleniu",
+      "_subDescription1": "⭐⭐⭐⭐⭐ Naszym celem jest zdobycie 100 pozytywnych opinii na Google z oceną 5.0, co jest dla nas ważne.",
+      "subTitle2": "Zapewniamy wsparcie",
+      "_subDescription2": "😉 Jesteśmy zawsze gotowi, by odpowiedzieć na Twoje pytania dotyczące strony."
+    },
+    "gallery": {
+      "_title": "W Rydułtowy nasza praca nad stronami to połączenie pasji z doświadczeniem!"
+    },
+    "characters": {
+      "_title": "Potencjalne wyzwania związane z brakiem należytej opieki nad stroną internetową w Rydułtowach",
+      "_description": "Strona internetowa, która nie jest regularnie aktualizowana i monitorowana, może napotkać wiele problemów wpływających na jej funkcjonalność i bezpieczeństwo. Oto niektóre z nich:",
+      "items": {
+        "1": {
+          "_subTitle": "Zagrożenia bezpieczeństwa",
+          "_subDescription": "Przestarzałe wersje WordPressa, wtyczek i motywów mogą stanowić luki bezpieczeństwa, zwiększając ryzyko ataków. Dlatego w Rydułtowach kładziemy nacisk na regularną aktualizację i zabezpieczanie Twojej strony."
+        },
+        "2": {
+          "_subTitle": "Problemy z wtyczkami",
+          "_subDescription": "Stosowanie starych lub niekompatybilnych wtyczek może powodować konflikty, prowadząc do błędów na stronie."
+        },
+        "3": {
+          "_subTitle": "Niska wydajność",
+          "_subDescription": "Nieoptymalne wtyczki mogą wpłynąć na spadek szybkości ładowania strony."
+        },
+        "4": {
+          "_subTitle": "Ryzyko ataków",
+          "_subDescription": "Brak skanowania i monitorowania pod kątem bezpieczeństwa strony może prowadzić do naruszeń bezpieczeństwa. Nasza opieka nad stronami WordPress w Rydułtowach minimalizuje to ryzyko."
+        },
+        "5": {
+          "_subTitle": "Złośliwe oprogramowanie",
+          "_subDescription": "Niezabezpieczone strony są bardziej narażone na infekcje złośliwym oprogramowaniem."
+        },
+        "6": {
+          "_subTitle": "Negatywne doświadczenia użytkowników",
+          "_subDescription": "Słaba wydajność strony może prowadzić do frustracji użytkowników i ostatecznie do ich utraty."
+        },
+        "7": {
+          "_subTitle": "Ryzyko awarii",
+          "_subDescription": "Brak regularnych kopii zapasowych może skutkować utratą danych w przypadku awarii."
+        },
+        "8": {
+          "_subTitle": "Problem z przywróceniem strony",
+          "_subDescription": "W razie wystąpienia problemów, przywrócenie strony do poprzedniego stanu może być skomplikowane."
+        },
+        "9": {
+          "_subTitle": "Błędy w kodzie",
+          "_subDescription": "Błędy w skryptach mogą zaburzać prawidłowe działanie funkcji strony."
+        },
+        "10": {
+          "_subTitle": "Utrata pozycji SEO",
+          "_subDescription": "Strony nieprzystosowane do urządzeń mobilnych mogą tracić pozycje w rankingach wyszukiwarek."
+        },
+        "11": {
+          "_subTitle": "Błędy 404",
+          "_subDescription": "Niewłaściwe zarządzanie błędami może prowadzić do problemów z błędami 404, negatywnie wpływając na indeksowanie przez wyszukiwarki."
+        },
+        "12": {
+          "_subTitle": "Opóźniona reakcja na problemy",
+          "_subDescription": "Brak szybkiej reakcji na kwestie techniczne może powodować długotrwałe przerwy w dostępności strony. Nasza opieka nad stronami w Rydułtowach zapewnia szybką interwencję."
+        }
       }
-    }
-  },
+    },
   "whyUs": {
     "title": "Opieka nad stronami WordPress Rydułtowe - dlaczego warto dbać o aktualizacje strony?",
     "_description": "Nieaktualizowany WordPress może być problemem dla Twojego biznesu z kilku kluczowych powodów:",
