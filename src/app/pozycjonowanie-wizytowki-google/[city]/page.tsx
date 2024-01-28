@@ -1,19 +1,18 @@
 import React from 'react';
 
 import { Gallery } from 'components/molecules/gallery/Gallery';
-import { Characters } from 'components/pozycjonowanie-wizytowki-google/characters/Characters';
 import { ChooseUs } from 'components/pozycjonowanie-wizytowki-google/choose-us/ChooseUs';
 import { DontWorry } from 'components/pozycjonowanie-wizytowki-google/dont-worry/DontWorry';
 import { FreeStaff } from 'components/pozycjonowanie-wizytowki-google/free-staff/FreeStaff';
 import { GetProject } from 'components/pozycjonowanie-wizytowki-google/get-project/GetProject';
 import { Hero } from 'components/pozycjonowanie-wizytowki-google/hero/Hero';
 import { Informations } from 'components/pozycjonowanie-wizytowki-google/informations/Informations';
-import { Intuition } from 'components/pozycjonowanie-wizytowki-google/intuition/Intuition';
 import { PageCosts } from 'components/pozycjonowanie-wizytowki-google/page-costs/PageCosts';
 import { PriceBegin } from 'components/pozycjonowanie-wizytowki-google/price-begin/PriceBegin';
 import { PriceList } from 'components/pozycjonowanie-wizytowki-google/price-list/PriceList';
 import { TakingLook } from 'components/pozycjonowanie-wizytowki-google/taking-look/TakingLook';
 import { WhatGot } from 'components/pozycjonowanie-wizytowki-google/what-got/WhatGot';
+import { WhatIsGmf } from 'components/pozycjonowanie-wizytowki-google/what-is-gmf/WhatIsGmf';
 import { WhatWeLike } from 'components/pozycjonowanie-wizytowki-google/what-we-like/WhatWeLike';
 import { WhyUs } from 'components/pozycjonowanie-wizytowki-google/why-us/WhyUs';
 import { getCityData } from 'utils/getCityData';
@@ -55,9 +54,10 @@ export default async function Page() {
       <GetProject />
       <FreeStaff />
       <PageCosts />
+
+      <WhatIsGmf />
+
       <Informations />
-      <Characters />
-      <Intuition />
     </>
   );
 }

@@ -12,15 +12,17 @@ export const GetProject = () => (
   <Container>
     <Pointer />
     <article className="flex flex-col items-center gap-4">
-      <Text as="h2">Zamów bezpłatny projekt</Text>
+      <Text as="h2" className="text-center">
+        Zamów niezobowiązujące 2 tygodnie bezpłatnej obsługi wizytówki Google
+      </Text>
       <Text>
         lub zadzwoń:{' '}
         <Link className="text-center font-bold" href="tel:575990730">
           575 990 730
         </Link>
       </Text>
-      <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
-        <Button iconStart={<ChevronRight />}>Zamawiam projekt za 0 zł</Button>
+      <Link href="https://onlinemasters.pl/bezplatna-obsluga-gmf/" className="mx-auto w-fit">
+        <Button iconStart={<ChevronRight />}>Zamawiam obsługę za 0 zł</Button>
       </Link>
     </article>
   </Container>

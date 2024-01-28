@@ -20,18 +20,18 @@ export const FreeStaff = () => (
       <Container>
         <div className="mx-auto flex h-full w-full flex-col items-center gap-4">
           <Text className="text-center" color="white" as="p">
-            Dlaczego oferujemy bezpłatny projekt strony głównej? Ponieważ…
+            Dlaczego oferujemy aż 2 tygodnie bezpłatnej obsługi? Ponieważ…
           </Text>
           <Text className="text-center" color="white" as="h2">
-            Zależy nam, aby każdy klient był zadowolony z naszej pomocy
+            Zależy nam, aby każdy klient był maksymalnie zadowolony z naszej pomocy
           </Text>
           <Text className="text-center" color="white" as="p">
-            Z tego powodu, jeśli jest to możliwe, dajemy opcję przetestowania usług i podjęcia decyzji o ewentualnej
-            współpracy po zapoznaniu się z naszą jakością i podejściem do działania.
+            Nie masz jeszcze wizytówki, a chcesz skorzystać z bezpłatnych 2 miesięcy prowadzenia? Zadzwoń lub wypełnij
+            formularz, na pewno się dogadamy!
           </Text>
-          <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="mx-auto w-fit">
+          <Link href="https://onlinemasters.pl/bezplatna-obsluga-gmf/" className="mx-auto w-fit">
             <Button size="lg" variant="secondary" className="mx-auto ">
-              Zamawiam bezpłatny projekt
+              Zamawiam dwa tygodnie bezpłatnej obsługi Wizytówki Google
             </Button>
           </Link>
         </div>
