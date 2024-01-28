@@ -7,14 +7,13 @@ import { FreeStaff } from 'components/pozycjonowanie-wizytowki-google/free-staff
 import { GetProject } from 'components/pozycjonowanie-wizytowki-google/get-project/GetProject';
 import { Hero } from 'components/pozycjonowanie-wizytowki-google/hero/Hero';
 import { Informations } from 'components/pozycjonowanie-wizytowki-google/informations/Informations';
-import { PageCosts } from 'components/pozycjonowanie-wizytowki-google/page-costs/PageCosts';
 import { PriceBegin } from 'components/pozycjonowanie-wizytowki-google/price-begin/PriceBegin';
 import { PriceList } from 'components/pozycjonowanie-wizytowki-google/price-list/PriceList';
 import { TakingLook } from 'components/pozycjonowanie-wizytowki-google/taking-look/TakingLook';
 import { WhatGot } from 'components/pozycjonowanie-wizytowki-google/what-got/WhatGot';
 import { WhatIsGmf } from 'components/pozycjonowanie-wizytowki-google/what-is-gmf/WhatIsGmf';
 import { WhatWeLike } from 'components/pozycjonowanie-wizytowki-google/what-we-like/WhatWeLike';
-import { WhyUs } from 'components/pozycjonowanie-wizytowki-google/why-us/WhyUs';
+import { WhyGmf } from 'components/pozycjonowanie-wizytowki-google/why-gmf/WhyGmf';
 import { getCityData } from 'utils/getCityData';
 
 import type { Metadata } from 'next';
@@ -48,15 +47,12 @@ export default async function Page() {
       <WhatGot />
       <TakingLook />
       <WhatWeLike />
-      <WhyUs />
       <Gallery />
       <PriceList />
       <GetProject />
       <FreeStaff />
-      <PageCosts />
-
       <WhatIsGmf />
-
+      <WhyGmf />
       <Informations />
     </>
   );

@@ -30,7 +30,7 @@ export const Hero = async () => {
           </Text>
           <Text>{t('_description')}</Text>
           <section className="flex flex-col gap-6 md:flex-row">
-            <Link href="https://onlinemasters.pl/bezplatny-projekt-strony" className="w-fit">
+            <Link href="https://onlinemasters.pl/bezplatna-obsluga-gmf/" className="w-fit">
               <Button size="md" variant="primary" iconStart={<ChevronDown />}>
                 Zamawiam obsługę za 0 zł
               </Button>

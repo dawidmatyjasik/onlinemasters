@@ -57,193 +57,71 @@
     "_title": "Robimy to co lubimy i to, na czym bardzo dobrze się znamy",
     "description": "Mapki przedstawiają faktyczny wzrost widoczności Wizytówki Google jednego z naszych klientów."
   },
-  "whyUs": {
-    "title": "Strony Internetowe Katowice - dlaczego warto posiadać stronę www?",
-    "_description": "Posiadanie własnej strony internetowej jest obecnie kluczowym elementem sukcesu dla wielu firm, przedsiębiorców oraz osób prywatnych w regionie Katowic. W dzisiejszym dynamicznym środowisku biznesowym i społecznym, internet stał się nieodłączną częścią naszego życia, a posiadanie strony internetowej przekłada się na szereg korzyści. Oto kilka powodów, dla których warto inwestować w własną stronę internetową w kontekście regionu Katowic:",
-    "tiles": {
-      "1": {
-        "title": "Konkurencyjność na rynku:",
-        "_description": "W wielu branżach posiadanie strony internetowej stało się standardem. Firma, która nie posiada własnej strony, może stracić na atrakcyjności w oczach klientów, którzy coraz częściej korzystają z internetu w poszukiwaniu informacji o produktach czy usługach dostępnych w Katowicach."
-      },
-      "2": {
-        "title": "Dostępność 24/7:",
-        "_description": "Strona internetowa jest dostępna dla użytkowników przez całą dobę, 7 dni w tygodniu, co jest istotne szczególnie w dynamicznym życiu. To oznacza, że potencjalni klienci mogą zapoznać się z ofertą firmy o dowolnej porze, niezależnie od strefy czasowej czy dni wolnych."
-      },
-      "3": {
-        "title": "Budowanie marki w Katowicach:",
-        "_description": "Strona internetowa stanowi wirtualną wizytówkę firmy, na której można skoncentrować się na budowaniu i promowaniu marki. Przejrzysty design, atrakcyjne treści i odpowiednio dobrana identyfikacja wizualna przyczyniają się do pozytywnego wizerunku firmy."
-      },
-      "4": {
-        "title": "Komunikacja z klientami:",
-        "_description": "Poprzez stronę internetową łatwo utrzymać stały kontakt z klientami. Można zamieszczać informacje o nowościach, promocjach czy zmianach w ofercie dostosowane do lokalnych potrzeb. Również dostępność formularzy kontaktowych czy chatów online ułatwiają interakcję z klientami w regionie Katowic."
-      },
-      "5": {
-        "title": "Rozwój sprzedaży online:",
-        "_description": "W obliczu dynamicznego rozwoju e-commerce, posiadanie strony internetowej staje się kluczowe dla firm chcących prowadzić sprzedaż online. Sklep internetowy daje możliwość poszerzenia rynku oraz dotarcia do klientów, którzy preferują zakupy online."
-      },
-      "6": {
-        "title": "Globalna obecność:",
-        "_description": "Strony internetowe umożliwiają korzystanie z narzędzi do analizy ruchu, co pozwala na śledzenie zachowań użytkowników. Dzięki temu można dostosować strategię marketingową, poprawić doświadczenie użytkownika oraz lepiej zrozumieć potrzeby klientów na lokalnym rynku Katowic."
-      }
-    },
-    "_summary": "Podsumowując, posiadanie strony internetowej to nie tylko element obecnego trendu, ale również strategiczna decyzja, która może przyczynić się do sukcesu firmy na lokalnym rynku Katowic. W erze cyfrowej, gdzie internet odgrywa kluczową rolę we wszystkich dziedzinach życia, strona internetowa staje się nieodzownym narzędziem biznesowym, wpływającym na zasięg, widoczność i efektywność przedsiębiorstwa, zwłaszcza w kontekście danego regionu czy miasta."
-  },
-
   "gallery": {
-    "_title": "Strony Internetowe Katowice - Robimy to co lubimy i to, na czym bardzo dobrze się znamy"
-  },
-  "pageCosts": {
-    "_title": "Strony Internetowe Katowice - ile kosztuje utrzymanie strony www?",
-    "_description": "Koszt utrzymania strony internetowej można podzielić na dwie główne kategorie - niezbędne i dodatkowe.",
-    "cards": {
-      "1": {
-        "title": "Koszty niezbędne",
-        "subTitle1": "Hosting",
-        "_subDescription1": " Jest to przestrzeń, na której przechowywane są wszystkie pliki strony internetowej. To właśnie hosting jest odpowiedzialny za to, żeby Twoja strona była widoczna w internecie. Ceny hostingów różnią się w zależności od tego, jak dużo miejsca na dane potrzebujesz. Zazwyczaj firmy proponujące hosting oferują niską cenę za pierwszy rok, a odnowienie jest odpowiednio droższe. Standardowe ceny zaczynają się od 50 zł za pierwszy rok i 300 zł za każdy kolejny rok.",
-        "subTitle2": "Domena",
-        "_subDescription2": "To adres strony. Naszym adresem jest onlinemasters.pl. Zakup domeny również w pierwszym roku jest tańszy a droższy w każdym kolejnym.  Standardowe ceny domen z końcówką .pl zaczynają się od 10 zł za pierwszy rok i 130 zł za każdy kolejny rok."
-      },
-      "2": {
-        "title": "Koszty dodatkowe",
-        "subTitle1": "Opieka nad stroną",
-        "_subDescription1": "Koszt podstawowej opieki nad stroną zaczyna się od 50 zł/miesiąc. W skład takiej opieki wchodzi wykonywanie 1 aktualizacji WordPressa, motywów, wtyczek w miesiącu. Stworzenie 1 kopii zapasowej umożliwiającej przywrócenie strony, usuwanie błędów oraz monitorowanie prędkości i bezpieczeństwa. W ekstremalnych przypadkach przy bardzo rozbudowanych stronach i wielu wprowadzanych zmianach koszt opieki może wynosić nawet powyżej 1000 zł/miesiąc.",
-        "subTitle2": "Wprowadzanie zmian",
-        "_subDescription2": " Każdą zmianę na stronie można wprowadzić samodzielnie, jednak w takiej sytuacji zawsze istnieje ryzyko wystąpienia błędów. Koszt wprowadzenia zmian uzgadniamy indywidualnie, albo wykonujemy je w ramach wyższego pakietu opieki."
-      }
-    },
-    "_summary": "Podsumowując, utrzymanie strony internetowej wiąże się z kosztami niezbędnymi, takimi jak hosting i domena, oraz kosztami dodatkowymi związanych z opieką nad stroną i ewentualnymi zmianami, które mogą być realizowane samodzielnie lub w ramach wyższego pakietu opieki."
-  },
-  "informations": {
-    "_title": "Jakie informacje warto umieścić na firmowej stronie?",
-    "_description": "Firmowa strona internetowa powinna zawierać różnorodne informacje, które dostarczą potencjalnym klientom, partnerom biznesowym i odwiedzającym ważnych danych o firmie. Oto kluczowe informacje, które warto uwzględnić na firmowej stronie:",
-    "items": {
-      "1": {
-        "_subTitle": "Strona Główna:",
-        "_subDescription1": "Krótka prezentacja działalności firmy.",
-        "_subDescription2": "Możliwie atrakcyjny i zachęcający design."
-      },
-      "2": {
-        "_subTitle": "O Nas:",
-        "_subDescription1": "Historia firmy i zespołu.",
-        "_subDescription2": "Wartości i misja przedsiębiorstwa."
-      },
-      "3": {
-        "_subTitle": "Usługi/Produkty:",
-        "_subDescription1": "Szczegółowe informacje na temat oferowanych usług lub produktów.",
-        "_subDescription2": "Opisy cech i korzyści dla klientów."
-      },
-      "4": {
-        "_subTitle": "Kontakt:",
-        "_subDescription1": "Dane kontaktowe, takie jak adres, numer telefonu, adres e-mail.",
-        "_subDescription2": "Formularz kontaktowy."
-      },
-      "5": {
-        "_subTitle": "Referencje/Opinie:",
-        "_subDescription1": "Opinie i referencje od zadowolonych klientów.",
-        "_subDescription2": "Realne przypadki sukcesu."
-      },
-      "6": {
-        "_subTitle": "Blog/Artykuły:",
-        "_subDescription1": "Sekcja bloga z artykułami związanych z branżą.",
-        "_subDescription2": "Aktualności związane z firmą."
-      },
-      "7": {
-        "_subTitle": "FAQ (Najczęstsze Pytania):",
-        "_subDescription1": "Sekcja z odpowiedziami na najczęściej zadawane pytania."
-      },
-      "8": {
-        "_subTitle": "Galeria/Zdjęcia:",
-        "_subDescription1": "Zdjęcia zespołu, biura, realizowanych projektów, itp."
-      },
-      "9": {
-        "_subTitle": "Linki do Mediów Społecznościowych:",
-        "_subDescription1": "Ikony i linki do profili firmy na platformach społecznościowych."
-      }
-    }
-  },
-  "characters": {
-    "_title": "Cechy dobrej strony www - strony internetowe Katowice",
-    "_description": "Dobra strona internetowa powinna posiadać szereg cech, które przyczynią się do pozytywnego doświadczenia użytkownika, efektywności działania i skuteczności w komunikacji. Oto kilka kluczowych cech dobrej strony www:",
-    "items": {
-      "1": {
-        "_subTitle": "Przekonujące treści",
-        "_subDescription": "treści na stronie internetowej powinny skutecznie przekonywać potencjalnych klientów do zakupu usług lub produktów Twojej firmy"
-      },
-      "2": {
-        "_subTitle": "Responsywność",
-        "_subDescription": "strona powinna być dostosowana do różnych urządzeń, tak aby była czytelna i funkcjonalna zarówno na komputerze, tabletach, jak i smartfonach."
-      },
-      "3": {
-        "_subTitle": "Intuicyjna Nawigacja",
-        "_subDescription": "łatwa do zrozumienia nawigacja, umożliwiająca szybkie odnalezienie informacji bez zbędnych kliknięć."
-      },
-      "4": {
-        "_subTitle": "Estetyczny Design",
-        "_subDescription": "przemyślany i atrakcyjny projekt graficzny, zgodny z identyfikacją wizualną marki."
-      },
-      "5": {
-        "_subTitle": "Szybkość Ładowania",
-        "_subDescription": "optymalizacja strony pod kątem szybkości ładowania, aby zminimalizować czas oczekiwania użytkowników."
-      },
-      "6": {
-        "_subTitle": "Bezpieczeństwo",
-        "_subDescription": "wykorzystanie zabezpieczeń, takich jak certyfikat SSL, aby chronić dane użytkowników."
-      },
-      "7": {
-        "_subTitle": "Clear Call-to-Action (CTA)",
-        "_subDescription": "wyraźne i zachęcające do działania przyciski i linki, kierujące użytkowników do konkretnych działań."
-      },
-      "8": {
-        "_subTitle": "Spójność Treści",
-        "_subDescription": "konsekwencja i spójność treści na stronie, aby ułatwić zrozumienie informacji."
-      },
-      "9": {
-        "_subTitle": "SEO (Optymalizacja Dla Wyszukiwarek)",
-        "_subDescription": "optymalizacja treści i struktury strony, aby poprawić jej widoczność w wynikach wyszukiwania."
-      },
-      "10": {
-        "_subTitle": "Formularze Kontaktowe",
-        "_subDescription": "formularze kontaktowe i/lub zgłoszeniowe dla łatwej interakcji z użytkownikami."
-      },
-      "11": {
-        "_subTitle": "Analiza Danych",
-        "_subDescription": "zintegrowane narzędzia analityczne, takie jak Google Analytics, do śledzenia ruchu i analizy zachowań użytkowników."
-      },
-      "12": {
-        "_subTitle": "Aktualne Informacje",
-        "_subDescription": "regularnie aktualizowane treści i informacje na stronie, aby utrzymać ją na bieżąco."
-      },
-      "13": {
-        "_subTitle": "Zgodność Z Standardami",
-        "_subDescription": "zgodność z aktualnymi standardami internetowymi i przeglądarkami internetowymi."
-      },
-      "14": {
-        "_subTitle": "Działające Linki",
-        "_subDescription": "sprawdzenie, czy wszystkie linki na stronie są aktywne i prowadzą do odpowiednich miejsc."
-      },
-      "15": {
-        "_subTitle": "Forma i Funkcja",
-        "_subDescription": "połączenie estetyki z funkcjonalnością, tak aby strona była atrakcyjna wizualnie i jednocześnie użyteczna."
-      },
-      "16": {
-        "_subTitle": "Dobrze Zorganizowana Struktura",
-        "_subDescription": "jasna struktura strony, z łatwo dostępnymi sekcjami i podstronami."
-      },
-      "17": {
-        "_subTitle": "Zgodność Z Prawem",
-        "_subDescription": "zgodność z obowiązującymi przepisami prawnymi, w tym polityką prywatności i warunkami korzystania."
-      }
-    }
-  },
-  "intuition": {
-    "_title": "Strony Internetowe Katowice - dlaczego ważne jest, aby strona była intuicyjna?",
-    "_description": "Intuicyjność strony internetowej odgrywa kluczową rolę w zapewnieniu pozytywnego doświadczenia użytkownika. Łatwość nawigacji stanowi fundament, umożliwiając użytkownikom sprawnie poruszanie się po stronie bez zbędnych trudności. Poprawia to ogólne zadowolenie z korzystania z witryny i skraca czas potrzebny do osiągnięcia celów. Użytkownicy są mniej narażeni na popełnianie błędów, co wpływa na efektywność interakcji. Strony internetowe Katowice o intuicyjnej strukturze zachęcają do aktywnego uczestnictwa, zwiększając zaangażowanie użytkowników. To również sprzyja budowaniu pozytywnego wizerunku marki, świadcząc o profesjonalizmie i dbałości o potrzeby odwiedzających. Intuicyjność staje się istotna, zwłaszcza przy uwzględnieniu różnorodności grup użytkowników, obejmującej osoby o różnym doświadczeniu online i umiejętnościach technicznych. Poprawa wskaźników konwersji stanowi kolejny efekt, gdy użytkownicy są skłonni łatwo podejmować pożądane działania. Strony intuicyjne sprzyjają również zwiększeniu czasu spędzanego na witrynie, gdy użytkownicy komfortowo przeglądają jej treść. Optymalizacja nawigacji ma znaczący wpływ na użytkowników korzystających z urządzeń mobilnych, co jest istotne w erze rosnącego ruchu z tego typu platform."
+    "_title": "Nasze ostatnie realizacje pozycjonowania wizytówek Google w Katowicach"
   },
   "gmf": {
     "title": "Pozycjonowanie wizytówki Google Katowice. Czym jest profil GMF?",
     "_description1": "Wizytówka Google to publiczny profil firmy lub przedsiębiorstwa w usłudze Google Moja Firma (Google My Business). Jest to bezpłatne narzędzie oferowane przez Google, które umożliwia przedsiębiorcom i właścicielom firm zarządzanie informacjami na temat swojej działalności widocznymi w wyszukiwarce Google oraz na mapach Google.",
-    "_description2": "Pozycjonowanie wizytówki Google w Katowicach to kluczowy element strategii marketingowej dla lokalnych firm. Właściciele firm mogą optymalizować treści swojej wizytówki, dodając słowa kluczowe związane z usługami czy lokalizacją, aby zwiększyć widoczność w lokalnych wynikach wyszukiwania. Dzięki temu potencjalni klienci, szukając usług czy produktów w okolicach Katowic, łatwiej znajdą daną firmę..",
+    "_description2": "Pozycjonowanie wizytówki Google w Katowicach to kluczowy element strategii marketingowej dla lokalnych firm. Właściciele firm mogą optymalizować treści swojej wizytówki, dodając słowa kluczowe związane z usługami czy lokalizacją, aby zwiększyć widoczność w lokalnych wynikach wyszukiwania. Dzięki temu potencjalni klienci, szukając usług czy produktów w okolicach Katowic, łatwiej znajdą daną firmę.",
     "_description3": "Wizytówka Google zawiera podstawowe informacje o firmie, takie jak nazwa, adres, numer telefonu, godziny otwarcia, witryna internetowa i zdjęcia. Odpowiednie pozycjonowanie wizytówki w Katowicach może zwiększyć szanse na dotarcie do lokalnego klienta i przyciągnięcie go do skorzystania z oferowanych usług.",
     "_description4": "Właściciele firm mogą również regularnie aktualizować swoją wizytówkę, dodając informacje o nowościach, ofertach specjalnych czy recenzjach klientów. Dzięki kompleksowemu podejściu do pozycjonowania wizytówki Google w Katowicach, przedsiębiorstwa mogą skutecznie budować swoją obecność online i zyskiwać nowych klientów."
+  },
+  "whyGmf": {
+    "_title": "Pozycjonowanie wizytówki Google Katowice. Dlaczego opłaca się zadbać o profil?",
+    "_description": "Pozycjonowanie wizytówki Google jest kluczowym elementem strategii marketingowej dla lokalnych firm, zwłaszcza w kontekście miasta Katowice. Wspomaga ono skuteczną prezentację przedsiębiorstwa w lokalnych wynikach wyszukiwania, zwiększając widoczność w sieci. Dzięki właściwemu pozycjonowaniu wizytówki Google Katowice, przedsiębiorcy mogą korzystać z szeregu korzyści:",
+    "_subTitle1": "Lokalna Widoczność",
+    "_subDescription1": "Dodanie odpowiednich słów kluczowych, umożliwia firmie docieranie do osób aktywnie poszukujących usług czy produktów w tej konkretnej okolicy.",
+    "_subTitle2": "Dotarcie do Docelowej Grupy Klientów",
+    "_subDescription2": "Pozycjonowanie wizytówki Google w Katowicach pomaga przedsiębiorcom skierować swoją ofertę do lokalnej społeczności, co jest istotne, zwłaszcza dla usług i produktów o charakterze lokalnym.",
+    "_subTitle3": "Zwiększenie Konwersji",
+    "_subDescription3": "Poprzez dostarczenie klientom szybkich i łatwo dostępnych informacji o firmie, takich jak adres, numer telefonu czy godziny otwarcia, przedsiębiorcy zwiększają szanse na skonwertowanie potencjalnych klientów na rzeczywistych.",
+    "_subTitle4": "Budowanie Zaufania",
+    "_subDescription4": "Aktualizacje na wizytówce, recenzje klientów i informacje o ofertach specjalnych pozwalają firmie budować pozytywny wizerunek i zaufanie wśród lokalnej społeczności.",
+    "_subTitle5": "Elastyczność Marketingowa",
+    "_subDescription5": "Właściciele firm mogą dostosowywać treści wizytówki zgodnie z bieżącymi potrzebami, informując klientów o nowościach, promocjach czy zmianach w ofercie.",
+    "_summary": "Pozycjonowanie wizytówki Google w Katowicach stanowi więc nieodzowny element skutecznej strategii marketingowej dla lokalnych przedsiębiorstw, pozwalając im efektywnie konkurować na lokalnym rynku i przyciągać nowych klientów."
+  },
+  "informations": {
+    "_title": "Cechy dobrze pozycjonowanej wizytówki Google Moja Firma?",
+    "_description": "Dobra wizytówka Google Moja Firma jest kluczowa dla pozycjonowania lokalnego i zdobywania uwagi potencjalnych klientów. Oto kilka cech, które charakteryzują dobrze pozycjonowaną wizytówkę Google Moja Firma:",
+    "items": {
+      "1": {
+        "_subTitle": "Zaktualizowane dane kontaktowe:",
+        "_subDescription": "Wszystkie dane kontaktowe, takie jak adres firmy, numer telefonu i godziny otwarcia, są aktualne i zgodne z rzeczywistością."
+      },
+      "2": {
+        "_subTitle": "Zdjęcia i multimedia:",
+        "_subDescription": "Wysokiej jakości zdjęcia, logo firmy, a także filmy mogą zwiększyć atrakcyjność wizytówki i przyciągnąć uwagę użytkowników."
+      },
+      "3": {
+        "_subTitle": "Pełne informacje o firmie:",
+        "_subDescription": "Kompleksowe informacje o działalności firmy, opisujące krótko, co oferujesz, co wyróżnia twoją firmę oraz jakie są jej unikalne cechy."
+      },
+      "4": {
+        "_subTitle": "Recenzje i opinie:",
+        "_subDescription": "Pozytywne recenzje od klientów mają duży wpływ na reputację firmy. Istotne są również aktywne odpowiedzi, zarówno na pozytywne opinie, jak i negatywne."
+      },
+      "5": {
+        "_subTitle": "Kategorie:",
+        "_subDescription": "Odpowiednie kategorie działalności ułatwiają użytkownikom znalezienie twojej firmy w wynikach wyszukiwania."
+      },
+      "6": {
+        "_subTitle": "Linki do strony internetowej:",
+        "_subDescription": "Link do oficjalnej strony internetowej firmy. To nie tylko ułatwia użytkownikom dostęp do dodatkowych informacji, ale także może wpłynąć na pozycjonowanie w wyszukwiarce."
+      },
+      "7": {
+        "_subTitle": "Aktualizacje i wydarzenia:",
+        "_subDescription": "Publikowanie aktualizacji i informacji o nadchodzących wydarzeniach w firmie. Nie tylko utrzymuje wizytówkę w ruchu, ale także angażuje potencjalnych klientów."
+      },
+      "8": {
+        "_subTitle": "Lokalizacja na mapie:",
+        "_subDescription": "Sprawdź, czy lokalizacja firmy jest dokładnie oznaczona na mapie. To ułatwia klientom znalezienie twojego miejsca działalności w Katowicach."
+      },
+      "9": {
+        "_subTitle": "Monitoring statystyk:",
+        "_subDescription": "Narzędzia do monitorowania statystyk wizytówki, pomagają zrozumieć, jakie działania przynoszą najlepsze rezultaty."
+      }
+    }
   }
 }
