@@ -8,7 +8,7 @@ import { Text } from 'components/atoms/text/Text';
 import type { PriceListStructure } from '../PriceList';
 
 export const PriceListItem = ({ description, features, price, title }: PriceListStructure) => (
-  <article className="flex flex-col items-center gap-5 rounded-3xl border border-[#D1D1D1] px-8 py-10">
+  <article className="grid items-center gap-5 rounded-3xl border border-[#D1D1D1] px-8 py-10">
     <Text as="h3" className="text-center">
       {title}
     </Text>

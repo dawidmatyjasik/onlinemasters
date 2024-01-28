@@ -18,118 +18,116 @@ export type PriceListStructure = {
 
 export const PRICE_LIST_STRUCTURE: PriceListStructure[] = [
   {
-    title: 'Pakiet BASIC Strona Internetowa',
+    title: 'Założenie Wizytówki Google',
     description: 'Dla firm, które chcą w podstawowy sposób zaprezentować swoją ofertę',
-    price: '1200 zł',
+    price: '347 zł',
     features: [
       {
-        text: 'Bezpłatny projekt strony głównej',
+        text: 'Dodanie danych firmy',
         included: true,
       },
       {
-        text: 'Cała treść na stronie głównej',
+        text: 'Stworzenie i optymalizacja opisu firmy',
         included: true,
       },
       {
-        text: 'Nowoczesny design',
+        text: 'Stworzenie i optymalizacja opisu usług lub produktów',
         included: true,
       },
       {
-        text: 'Grafiki/animacje',
+        text: 'Dodanie obszaru działaności',
         included: true,
       },
       {
-        text: 'Profesjonalne teksty',
+        text: 'Dodanie godzin otwarcia',
         included: true,
       },
       {
-        text: 'Narzędzia analityczne',
-        included: false,
+        text: 'Dodanie zdjęć',
+        included: true,
       },
       {
-        text: 'Optymalizacja SEO',
-        included: false,
-      },
-      {
-        text: 'Blog',
-        included: false,
+        text: 'Uzupełnienie pozostałych informacji',
+        included: true,
       },
     ],
   },
   {
-    title: 'Pakiet BASIC Strona Internetowa',
-    description: 'Dla firm, które chcą w podstawowy sposób zaprezentować swoją ofertę',
-    price: '1900 zł',
+    title: 'Pakiet BASIC Pozycjonowanie Wizytówki Google',
+    description:
+      'Dla firm posiadających małą lokalną konkurencję, które chcą małym kosztem, znacząco zwiększyć swoją widoczność w internecie.',
+    price: '477 zł/mies',
     features: [
       {
-        text: 'Bezpłatny projekt strony głównej',
+        text: 'Analiza Wizytówki Google',
         included: true,
       },
       {
-        text: 'Do 7 podstron',
+        text: 'Optymalizacja opisu',
         included: true,
       },
       {
-        text: 'Nowoczesny design',
+        text: 'Optymalizacja usług',
         included: true,
       },
       {
-        text: 'Grafiki/animacje',
+        text: 'Systematyczne publikacje (2 post w miesiącu)',
         included: true,
       },
       {
-        text: 'Profesjonalne teksty',
+        text: 'Odpowiadanie na opinie',
         included: true,
       },
       {
-        text: 'Narzędzia analityczne',
-        included: true,
-      },
-      {
-        text: 'Optymalizacja SEO',
-        included: true,
-      },
-      {
-        text: 'Blog',
+        text: 'Pozyskiwanie linków',
         included: false,
+      },
+      {
+        text: 'Monitorowanie wyników',
+        included: true,
+      },
+      {
+        text: 'Zwiększenie widoczności',
+        included: true,
       },
     ],
   },
   {
     title: 'Pakiet ADVANCED Strona Internetowa',
-    description: 'Dla firm, które chcą budować widoczność za pomocą bloga',
-    price: '2600 zł',
+    description:
+      'Dla firm posiadających dużą lokalną konkurencję, które chcą małym kosztem, znacząco zwiększyć swoją widoczność w internecie.',
+    price: '627 zł/mies',
     features: [
       {
-        text: 'Bezpłatny projekt strony głównej',
+        text: 'Analiza Wizytówki Google',
         included: true,
       },
       {
-        text: 'Do 9 podstron',
+        text: 'Optymalizacja opisu',
         included: true,
       },
       {
-        text: 'Nowoczesny design',
+        text: 'Optymalizacja usług',
         included: true,
       },
       {
-        text: 'Grafiki/animacje',
+        text: 'Systematyczne publikacje (4 posty w miesiącu)',
         included: true,
       },
       {
-        text: 'Profesjonalne teksty',
+        text: 'Odpowiadanie na opinie',
         included: true,
       },
       {
-        text: 'Narzędzia analityczne',
+        text: 'Pozyskiwanie linków',
         included: true,
       },
       {
-        text: 'Optymalizacja SEO',
+        text: 'Monitorowanie wyników',
         included: true,
       },
       {
-        text: 'Blog',
+        text: 'Zwiększenie widoczności',
         included: true,
       },
     ],
